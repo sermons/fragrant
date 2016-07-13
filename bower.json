@@ -1,6 +1,6 @@
 {
   "name": "fragrant-gospel",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "dependencies": {
     "reveal.js": "~3.3.0",
     "highlightjs": "~9.4.0"

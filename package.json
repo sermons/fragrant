@@ -1,6 +1,6 @@
 {
   "name": "fragrant-gospel",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "private": true,
   "devDependencies": {
     "bower": "^1.7.9",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:seanho00/fragrant-gospel.git"
+    "url": "git@github.com:sermons/fragrant-gospel.git"
   },
   "scripts": {
     "test": "grunt test",
