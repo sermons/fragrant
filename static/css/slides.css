@@ -32,7 +32,7 @@ section.empty[data-background-image] {
 
 /* Titles / headers */
 .reveal section h1, .reveal section h2 {
-  text-transform: capitalize;
+  text-transform: non;
 }
 .reveal section h2 {
   margin-bottom: 2rem;
@@ -58,6 +58,10 @@ section.empty[data-background-image] {
 }
 .reveal section .imgbox img {
   border: none;
+}
+.imgbox .caption {
+  font-size: 60%;
+  color: #19b1ff;
 }
 
 /* Common slide header/footer */
