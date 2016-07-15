@@ -10,7 +10,7 @@ Work in progress!
 ## Acts 28: The Gospel Reaches Rome
 1. The **Persuasion** of the Gospel
   <span style="color:#1b91ff">(v23)</span>
-2. The **Scandal** of the Gospel
+2. The **Partition** of the Gospel
   <span style="color:#1b91ff">(v24-25)</span>
 3. The **Promise** of the Gospel
   <span style="color:#1b91ff">(v26-27)</span>
@@ -20,6 +20,7 @@ Work in progress!
 >>>
 1. Jews || churched: "good guys"
   + OT bg, expectant hope for God's rescue (:20)
+  + Paul loved Israel deeply (Ro9:1-3)
 2. cause divisions, reveal hearts
   + not to bring peace, but a sword
   + Ro7 law reveals sin
