@@ -7,7 +7,7 @@ Work in progress!
 
 ---
 
-## Ac28: Paul in Rome
+## Acts 28: The Gospel Reaches Rome
 1. The **Persuasion** of the Gospel
   <span style="color:#1b91ff">(v23)</span>
 2. The **Scandal** of the Gospel
