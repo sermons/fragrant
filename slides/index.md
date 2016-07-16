@@ -86,30 +86,26 @@ with all boldness and without hindrance!
 ---
 
 ## Acts 28: Paul in Rome
-1. The **Persuasion** of the Gospel
-  <span style="color:#1b91ff">(v23)</span>
-2. The **Partition** of the Gospel
-  <span style="color:#1b91ff">(v24-25)</span>
-3. The **Promise** of the Gospel
-  <span style="color:#1b91ff">(v26-27)</span>
-4. The **Proclamation** of the Gospel
-  <span style="color:#1b91ff">(v28-31)</span>
+1. Paul's exposition: **Persuasion**
+  <span class="hl1">(v23)</span>
+2. Hearers' response: **Partition**
+  <span class="hl1">(v24-25)</span>
+3. Holy Spirit's prophecy: **Promise**
+  <span class="hl1">(v26-28)</span>
+4. Paul's lifestyle: **Proclamation**
+  <span class="hl1">(v30-31)</span>
 
 >>>
-1. Paul's exposition
-  + Jews || churched: "good guys"
+1. Jews || churched: "good guys"
   + OT bg, expectant hope for God's rescue (:20)
   + Paul loved Israel deeply (Ro9:1-3)
-2. The hearers' response
-  + cause divisions, reveal hearts
+2. cause divisions, reveal hearts
   + not to bring peace, but a sword
   + Ro7 law reveals sin
-3. The Holy Spirit's prophecy
-  + hardened -> dulled -> blurred
+3. hardened -> dulled -> blurred
   + see -> hear -> understand -> turn
   + Ro9 not as though Word failed
-4. Paul's lifestyle
-  + move on but never give up hope
+4. move on but never give up hope
   + despite physical limitations: house arrest, not seen by Caesar
   + stayed + welcomed
     + own rent: tentmaking, 2Co8-9

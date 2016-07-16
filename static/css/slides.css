@@ -17,9 +17,18 @@ section.empty[data-background-image] {
   background-color: rgba(0,0,0,0);
 }
 
-/* Slide Text */
+/* Highlighted Text */
 .reveal section strong {
   color: yellow;
+}
+.reveal section .hl1 {
+  color: #19b1ff;
+}
+.reveal section .hl2 {
+  color: #17ff2e;
+}
+.reveal section .hl3 {
+  color: #ff2c2d;
 }
 .reveal section.has-light-background strong {
   color: #e20606;
