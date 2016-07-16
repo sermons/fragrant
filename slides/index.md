@@ -7,7 +7,7 @@ Work in progress!
 
 ---
 
-## Be My Witnesses
+## You Will Be My Witnesses
 
 <div class="imgbox"><div>
 "You will receive power when the Holy Spirit comes on you;
@@ -23,6 +23,7 @@ and to the **ends of the earth**.”
 
 ---
 
+## Paul's Journey to Rome
 <div class="imgbox"><div>
 ![Paul's journey to Rome](static/img/Paul_Rome_journey.svg)
 <br><span class="caption">
