@@ -17,7 +17,7 @@ and to the **ends of the earth**.”
 </div><div>
 ![Cities visited by Paul](static/img/Paul_geography.png)<br/>
 <span class="caption">
-[(@Alecmconroy)](https://commons.wikimedia.org/wiki/File:Broad_overview_of_geography_relevant_to_paul_of_tarsus.png)
+[(@Alecmconroy)](https://commons.wikimedia.org/wiki/File%3ABroad_overview_of_geography_relevant_to_paul_of_tarsus.png)
 </span>
 </div></div>
 
@@ -95,16 +95,20 @@ with all boldness and without hindrance!
   <span style="color:#1b91ff">(v28-31)</span>
 
 >>>
-1. Jews || churched: "good guys"
+1. Paul's exposition
+  + Jews || churched: "good guys"
   + OT bg, expectant hope for God's rescue (:20)
   + Paul loved Israel deeply (Ro9:1-3)
-2. cause divisions, reveal hearts
+2. The hearers' response
+  + cause divisions, reveal hearts
   + not to bring peace, but a sword
   + Ro7 law reveals sin
-3. hardened -> dulled -> blurred
+3. The Holy Spirit's prophecy
+  + hardened -> dulled -> blurred
   + see -> hear -> understand -> turn
   + Ro9 not as though Word failed
-4. move on but never give up hope
+4. Paul's lifestyle
+  + move on but never give up hope
   + despite physical limitations: house arrest, not seen by Caesar
   + stayed + welcomed
     + own rent: tentmaking, 2Co8-9
