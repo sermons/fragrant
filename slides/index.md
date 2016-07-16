@@ -6,27 +6,45 @@
 Work in progress!
 
 ---
+<!-- .slide: class="Q" data-background="white" -->
+
+# Q:
+
+>>>
+Intro reflection question
+
+---
+
+## Outline of Acts (1:8)
+
+"You will receive power when the Holy Spirit comes on you; <br/>
+and you will be my witnesses in **Jerusalem**
+<span class="hl1">(ch2-7)</span>, <br/>
+and in all **Judea and Samaria**
+<span class="hl1">(ch8-11)</span>, <br/>
+and to the **ends of the earth**
+<span class="hl1">(ch12-28)</span>."
+
+---
 
 ## You Will Be My Witnesses
-
 <div class="imgbox"><div>
-"You will receive power when the Holy Spirit comes on you;
-and you will be my witnesses in **Jerusalem**,
-and in all **Judea and Samaria**,
-and to the **ends of the earth**.”
-</div><div>
-![Cities visited by Paul](static/img/Paul_geography.png)<br/>
-<span class="caption">
+1. Antioch & Pamphylia (ch13-14)
+2. Galatia, Asia, Greece (ch15-18:22)
+3. Galatia, Ephesus (18:23-19:19)
+</div><div style="flex:2">
+![Cities visited by Paul](static/img/Paul_geography.png)
+<br/><span class="caption">
 [(@Alecmconroy)](https://commons.wikimedia.org/wiki/File%3ABroad_overview_of_geography_relevant_to_paul_of_tarsus.png)
 </span>
 </div></div>
 
 ---
 
-## Paul's Journey to Rome
+## Paul's Fourth Journey
 <div class="imgbox"><div>
 ![Paul's journey to Rome](static/img/Paul_Rome_journey.svg)
-<br><span class="caption">
+<br/><span class="caption">
 [Wikimedia](https://commons.wikimedia.org/wiki/File%3APaul_the_Apostle%2C_fourth_missionary_journey_%28Rome%29.svg)
 </span>
 </div></div>
@@ -110,3 +128,12 @@ with all boldness and without hindrance!
   + stayed + welcomed
     + own rent: tentmaking, 2Co8-9
 
+---
+
+## Paul in Prison
+<div class="imgbox"><div>
+![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul-WGA19120.jpg)
+<br/><span class="caption">
+[Rembrandt, Kunsthistorisches Museum, Vienna](http://bilddatenbank.khm.at/viewArtefact?id=1514)
+</span>
+</div></div>
