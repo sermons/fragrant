@@ -28,11 +28,11 @@ and to the **ends of the earth**
 
 ## You Will Be My Witnesses
 <div class="imgbox"><div>
-
-1. Antioch & Pamphylia (ch13-14)
-2. Galatia, Asia, Greece (ch15-18:22)
-3. Galatia, Ephesus (18:23-19:19)
-
+<ol>
+<li> Antioch & Pamphylia (ch13-14) </li>
+<li> Galatia, Asia, Greece (ch15-18:22) </li>
+<li> Galatia, Ephesus (18:23-19:19) </li>
+</ol>
 </div><div style="flex:2">
 ![Cities visited by Paul](static/img/Paul_geography.png)
 <br/><span class="caption">
