@@ -136,6 +136,43 @@ with all boldness and without hindrance!
 <div class="imgbox"><div>
 ![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul-WGA19120.jpg)
 <br/><span class="caption">
-[Rembrandt, Kunsthistorisches Museum, Vienna](http://bilddatenbank.khm.at/viewArtefact?id=1514)
+[Rembrandt, Apostle Paul](http://bilddatenbank.khm.at/viewArtefact?id=1514),
+~1633 (Kunsthistorisches Museum, Vienna)
 </span>
 </div></div>
+
+---
+
+## Paul Writing Epistles
+<div class="imgbox"><div>
+![Boulogne, St Paul Writing His Epistles](static/img/Boulogne-Paul_Writing.jpg)
+<br/><span class="caption">
+[Boulogne, St Paul Writing His Epistles](https://collections.mfah.org/art/detail/20223),
+~1618 (Museum of Fine Arts, Houston)
+</span>
+</div></div>
+
+---
+
+## Statue of Paul
+<div class="imgbox"><div>
+![Monnot, St Paul](static/img/Monnot-Paul_in_Lateran.jpg)
+<br/><span class="caption">
+[Pierre-Étienne Monnot, St Paul](https://commons.wikimedia.org/wiki/File%3APaulus_San_Giovanni_in_Laterano_2006-09-07.jpg)
+(Nave of the Basilica of St. John Lateran, Rome).
+&copy; Marie-Lan Nguyen
+</span>
+</div></div>
+
+---
+
+## Rembrandt, Apostle Paul
+<div class="imgbox"><div>
+![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul.jpg)
+<br/><span class="caption">
+[Rembrandt, The Apostle Paul](http://www.nga.gov/content/ngaweb/Collection/art-object-page.1198.html),
+~1657 (National Gallery of Art, Washington DC)
+</span>
+</div></div>
+
+
