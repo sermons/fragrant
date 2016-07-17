@@ -8,10 +8,9 @@ Work in progress!
 ---
 <!-- .slide: class="Q" data-background="white" -->
 
-# Q:
+# [Intro reflection question]
 
 >>>
-Intro reflection question
 
 ---
 
@@ -29,9 +28,11 @@ and to the **ends of the earth**
 
 ## You Will Be My Witnesses
 <div class="imgbox"><div>
+
 1. Antioch & Pamphylia (ch13-14)
 2. Galatia, Asia, Greece (ch15-18:22)
 3. Galatia, Ephesus (18:23-19:19)
+
 </div><div style="flex:2">
 ![Cities visited by Paul](static/img/Paul_geography.png)
 <br/><span class="caption">
@@ -45,7 +46,7 @@ and to the **ends of the earth**
 <div class="imgbox"><div>
 ![Paul's journey to Rome](static/img/Paul_Rome_journey.svg)
 <br/><span class="caption">
-[Wikimedia](https://commons.wikimedia.org/wiki/File%3APaul_the_Apostle%2C_fourth_missionary_journey_%28Rome%29.svg)
+[Wikipedia Italiano](https://commons.wikimedia.org/wiki/File%3APaul_the_Apostle%2C_fourth_missionary_journey_%28Rome%29.svg)
 </span>
 </div></div>
 
@@ -117,6 +118,7 @@ with all boldness and without hindrance!
 1. Jews || churched: "good guys"
   + OT bg, expectant hope for God's rescue (:20)
   + Paul loved Israel deeply (Ro9:1-3)
+  + img: Paul preaching jerusalem
 2. cause divisions, reveal hearts
   + not to bring peace, but a sword
   + Ro7 law reveals sin
