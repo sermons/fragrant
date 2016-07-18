@@ -27,9 +27,9 @@ and to the **ends of the earth**
 ## You Will Be My Witnesses
 <div class="imgbox"><div>
 <ol>
-<li> Antioch & Pamphylia (ch13-14) </li>
-<li> Galatia, Asia, Greece (ch15-18:22) </li>
-<li> Galatia, Ephesus (18:23-19:19) </li>
+<li> Antioch & Pamphylia <br/> (ch13-14) </li>
+<li> Galatia, Asia, Greece <br/> (ch15-18:22) </li>
+<li> Galatia, Ephesus <br/> (18:23-19:19) </li>
 </ol>
 </div><div style="flex:2">
 ![Cities visited by Paul](static/img/Paul_geography.png)
@@ -132,6 +132,8 @@ with all boldness and without hindrance!
 
 ## Paul and the Jews
 
+.
+
 >>>
 + Jews persecuted him in Asia Minor, all along journeys
   + Jerusalem Jews were reason for his chains
@@ -144,6 +146,8 @@ with all boldness and without hindrance!
   + Hoping expectantly for God's rescue
 + || Churched: the "good guys"!
 + Paul loved Israel deeply (Ro9:1-3)
+
+---
 
 ## Acts 28:23 (NIV)
 They arranged to meet Paul on a certain day, <br/>
@@ -173,11 +177,15 @@ he tried to **persuade** them about **Jesus**.
 
 ## Acts 17:22-24 (NASB)
 
-So Paul stood in the midst of the Areopagus and said, <br/>
-“Men of Athens, I observe that you are **very religious** in all respects. <br/>
-“For while I was passing through and examining the objects of your worship, <br/>
-I also found an altar with this inscription, ‘TO AN **UNKNOWN GOD**.’ <br/>
-Therefore **what you worship** in ignorance, **this I proclaim** to you.
+“Men of Athens, I observe that <br/>
+you are **very religious** in all respects. <br/>
+For while I was passing through and <br/>
+examining the objects of your worship, <br/>
+I also found an altar with this inscription, <br/>
+‘TO AN **UNKNOWN GOD**.’
+
+Therefore **what you worship** in ignorance, <br/>
+**this I proclaim** to you."
 
 >>>
 + cf H.S. ahead of us in community
@@ -204,7 +212,7 @@ They **disagreed** among themselves and began to **leave** <br/>
 after Paul had made this final statement:
 
 “The Holy Spirit spoke the truth to your ancestors <br/>
-when he said through Isaiah the prophet:
+when he said through **Isaiah** the prophet:
 
 >>>
 + cause divisions, reveal hearts
@@ -218,9 +226,11 @@ when he said through Isaiah the prophet:
 ## Luke 2:34-35 (ESV)
 
 Behold, this child is appointed for <br/>
-the **fall** and **rising** of many in Israel, <br/>
+the **fall** and **rising** of many in Israel,
+
 and for a **sign** that is **opposed** -- <br/>
-and a **sword** will pierce through your own **soul** also -- <br/>
+and a **sword** will pierce through your own **soul** also --
+
 so that **thoughts** from many hearts may be **revealed**.
 
 ---
@@ -237,6 +247,7 @@ more than me is not worthy of me.
 
 Whoever does not take up their **cross** <br/>
 and **follow me** is not worthy of me.
+
 >>>
 + :38 take up cross and follow
 + :39 lose life for My sake
@@ -245,17 +256,23 @@ and **follow me** is not worthy of me.
 
 ## Romans 7:7-8 (NIV) (p1/2)
 
-I would not have **known** what sin was had it not been for the **law**. <br/>
+I would not have **known** what sin was <br/>
+had it not been for the **law**. <br/>
 For I would not have known what **coveting** really was <br/>
-if the law had not said, “**You shall not covet**.” <br/>
-But **sin**, seizing the **opportunity** afforded by the commandment, <br/>
+if the law had not said, “**You shall not covet**.”
+
+But **sin**, seizing the **opportunity** <br/>
+afforded by the commandment, <br/>
 produced in me every kind of coveting.
+
+---
 
 ## Romans 7:13 (NIV) (p2/2)
 
 In order that sin might be **recognized as sin**, <br/>
 it used what is **good** to bring about **my death**, <br/>
-so that through the commandment <br/>
+so that through the commandment
+
 **sin** might become **utterly sinful**.
 
 ---
@@ -270,11 +287,11 @@ gospel contentious?
 
 ## Acts 28:26-27 (NIV)
 “ ‘Go to this people and say, <br/>
-“You will be **ever hearing** but **never understanding**; <br/>
-you will be **ever seeing** but **never perceiving**.”
+“You will be ever **hearing** but never **understanding**; <br/>
+you will be ever **seeing** but never **perceiving**.”
 
 For this people’s heart has become **calloused**; <br/>
-they **hardly** hear with their ears, <br/>
+they **hardly hear** with their ears, <br/>
 and they have **closed** their eyes.
 
 Otherwise they might see with their **eyes**, <br/>
@@ -284,9 +301,23 @@ and **turn**, and I would **heal** them.’
 >>>
 + Parable of Sower (Mt13, Mk4, Lu8)
   + Jn12:39-42 Isaiah saw His glory
-+ hardened -> dulled -> blurred
-  + see -> hear -> understand -> turn
-  + Ro9:6 not as though Word failed
++ LXX: "in hearing, you will hear" (dat n + fut ind)
+  + Heb: "Hear, to hear" (impr / prophetic fut + inf abs)
++ understanding (discern): divide, filter, recog import
+  + perceiving (understand): process, learn from experience
++ fattened -> made heavy -> clouded (LXX: psv)
+  + Heb: "Make fat the heart" (hiphil impr)
++ see -> hear -> understand -> turn
+
+---
+
++ Ro9:1-2 self accursed that Jews may be saved
++ Ro9:6 not as though Word failed: not all of Israel are Israel
++ Ro10:1-2 give up? No
++ Rock of stumbling: 1Pet2, Rom9/10, Is28:16
++ Ro11:32 all disobey, all mercy
++ 2Co2:14-16a fragrance
++ To Gentiles (13:46-47 Pisidian Antioch)
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -301,21 +332,31 @@ and **turn**, and I would **heal** them.’
 ---
 
 ## Acts 28:28-31 (NIV)
-“Therefore I want you to know that God’s salvation <br/>
-has been sent to the Gentiles, and they will listen!”
+“Therefore I want you to know that **God’s salvation** <br/>
+has been sent to the **Gentiles**, and they will **listen**!”
 
-For two whole years Paul stayed there in his own <br/>
-rented house and welcomed all who came to see him.
+For **two whole years** Paul stayed there in his own <br/>
+rented house and **welcomed** all who came to see him.
 
-He proclaimed the kingdom of God <br/>
-and taught about the Lord Jesus Christ -- <br/>
-with all boldness and without hindrance!
+He **proclaimed** the kingdom of God <br/>
+and **taught** about the Lord Jesus Christ -- <br/>
+with all **boldness** and without hindrance!
 
 >>>
-+ move on but never give up hope
-  + despite physical limitations: house arrest, not seen by Caesar
-  + stayed + welcomed
-    + own rent: tentmaking, 2Co8-9
++ physical limitations: house arrest, not seen by Caesar
++ 2yrs: to see Nero
+  + also 2yrs in Caesarea for Felix
+  + prob acquitted at first trial (2Tim4)
+  + but later another trial
+  + ultimately martyred in Rome
++ stayed + welcomed:
+  + own rent: tentmaking, 2Co8-9
++ proclaimed (preach): kingdom of God
+  + taught: about Lord Jesus Christ
++ boldness (free speech) + unhindered (w/o stop)
++ influence in Rome:
+  + Phil1:12-13 Praetorium: elite guard of Caesar
+  + Phil4:22 Caesar's household
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
