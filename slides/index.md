@@ -175,7 +175,6 @@ according to the **pattern** you have in us.
 ---
 
 ## Paul and the Jews
-
 [img: Paul preaching]
 
 >>>
@@ -224,8 +223,19 @@ the temple **worship** and the **promises**.
 
 ---
 
-## 1. Persuasion: v23 (NIV)
+## Ac28: The Fragrant Gospel
+1. Paul's exposition: **Persuasion**
+  <span class="hl1">(v23)</span>
+2. Hearers' response: **Partition**
+  <span class="hl1">(v24-25)</span>
+3. Holy Spirit's prophecy: **Promise**
+  <span class="hl1">(v26-28)</span>
+4. Paul's lifestyle: **Proclamation**
+  <span class="hl1">(v30-31)</span>
 
+---
+
+## 1. Persuasion: v23 (NIV)
 He **witnessed** to them from morning till evening, <br/>
 **explaining** about the **kingdom of God**, <br/>
 and from the Law of Moses and from the Prophets <br/>
@@ -240,6 +250,7 @@ he tried to **persuade** them about **Jesus**.
 
 ---
 
+## Witness to the kingdom of God
 [img: witness]
 
 >>>
@@ -250,7 +261,6 @@ he tried to **persuade** them about **Jesus**.
 ---
 
 ## 1. Persuasion: v23 (NIV)
-
 He witnessed to them from morning till evening, <br/>
 **explaining** about the **kingdom of God**, <br/>
 and from the Law of Moses and from the Prophets <br/>
@@ -288,7 +298,6 @@ on the **wisdom of men**, but on the **power of God**.
 ---
 
 ## 1. Persuasion: v23 (NIV)
-
 He witnessed to them from morning till evening, <br/>
 explaining about the kingdom of God, <br/>
 and from the **Law of Moses** and from the **Prophets** <br/>
@@ -306,7 +315,6 @@ he tried to persuade them about **Jesus**.
 ---
 
 ## Acts 17:22-24 (NASB)
-
 “Men of **Athens**, I observe that <br/>
 you are **very religious** in all respects.
 
@@ -328,8 +336,8 @@ Therefore **what you worship** in ignorance, <br/>
 + cf H.S. ahead of us in community
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
 
+<!-- .slide: class="Q" data-background="white" -->
 # [1. reflection question]
 
 >>>
@@ -345,7 +353,23 @@ Therefore **what you worship** in ignorance, <br/>
 
 ---
 
-## Acts 28:24-25 (NIV)
+## Ac28: The Fragrant Gospel
+1. Paul's exposition: **Persuasion**
+  <span class="hl1">(v23)</span>
+2. Hearers' response: **Partition**
+  <span class="hl1">(v24-25)</span>
+3. Holy Spirit's prophecy: **Promise**
+  <span class="hl1">(v26-28)</span>
+4. Paul's lifestyle: **Proclamation**
+  <span class="hl1">(v30-31)</span>
+
+>>>
++ When the gospel is laid out clearly,
++ What should we expect the response to be?
+
+---
+
+## 2. Partition: v24-25 (NIV)
 Some were **convinced** by what he said, <br/>
 but others **would not believe**.
 
@@ -365,7 +389,6 @@ when he said through **Isaiah** the prophet:
 ---
 
 ## Luke 2:34-35 (ESV)
-
 Behold, this child is appointed for <br/>
 the **fall** and **rising** of many in Israel,
 
@@ -377,7 +400,6 @@ so that **thoughts** from many hearts may be **revealed**.
 ---
 
 ## Matthew 10:34,37-38 (NIV)
-
 Do not suppose that I have come to bring **peace** to the earth. <br/>
 I did not come to bring peace, but a **sword**.
 
@@ -396,7 +418,6 @@ and **follow me** is not worthy of me.
 ---
 
 ## Romans 7:7-8 (NIV) (p1/2)
-
 I would not have **known** what sin was <br/>
 had it not been for the **law**. <br/>
 For I would not have known what **coveting** really was <br/>
@@ -409,7 +430,6 @@ produced in me every kind of coveting.
 ---
 
 ## Romans 7:13 (NIV) (p2/2)
-
 In order that sin might be **recognized as sin**, <br/>
 it used what is **good** to bring about **my death**, <br/>
 so that through the commandment
@@ -417,8 +437,8 @@ so that through the commandment
 **sin** might become **utterly sinful**.
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
 
+<!-- .slide: class="Q" data-background="white" -->
 # [2. reflection question]
 
 >>>
@@ -426,7 +446,23 @@ gospel contentious?
 
 ---
 
-## Acts 28:26-27 (NIV)
+## Ac28: The Fragrant Gospel
+1. Paul's exposition: **Persuasion**
+  <span class="hl1">(v23)</span>
+2. Hearers' response: **Partition**
+  <span class="hl1">(v24-25)</span>
+3. Holy Spirit's prophecy: **Promise**
+  <span class="hl1">(v26-28)</span>
+4. Paul's lifestyle: **Proclamation**
+  <span class="hl1">(v30-31)</span>
+
+>>>
++ OK, so some won't be happy to hear the gospel
++ Why is that so?  Whose fault is it?
+
+---
+
+## 3. Promise: v26-27 (NIV)
 “ ‘Go to this people and say, <br/>
 “You will be ever **hearing** but never **understanding**; <br/>
 you will be ever **seeing** but never **perceiving**.”
@@ -461,8 +497,8 @@ and **turn**, and I would **heal** them.’
 + To Gentiles (13:46-47 Pisidian Antioch)
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
 
+<!-- .slide: class="Q" data-background="white" -->
 # [3. reflection question]
 
 >>>
@@ -472,7 +508,22 @@ and **turn**, and I would **heal** them.’
 
 ---
 
-## Acts 28:28-31 (NIV)
+## Ac28: The Fragrant Gospel
+1. Paul's exposition: **Persuasion**
+  <span class="hl1">(v23)</span>
+2. Hearers' response: **Partition**
+  <span class="hl1">(v24-25)</span>
+3. Holy Spirit's prophecy: **Promise**
+  <span class="hl1">(v26-28)</span>
+4. Paul's lifestyle: **Proclamation**
+  <span class="hl1">(v30-31)</span>
+
+>>>
++ How did Paul respond to opposition to the gospel?
+
+---
+
+## 4. Proclamation: 28-31 (NIV)
 “Therefore I want you to know that **God’s salvation** <br/>
 has been sent to the **Gentiles**, and they will **listen**!”
 
@@ -500,8 +551,8 @@ with all **boldness** and without hindrance!
   + Phil4:22 Caesar's household
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
 
+<!-- .slide: class="Q" data-background="white" -->
 # [4. reflection question]
 
 ---
