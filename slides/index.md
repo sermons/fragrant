@@ -87,8 +87,8 @@ and from the Law of Moses and from the Prophets <br/>
 he tried to persuade them about Jesus. ...
 
 >>>
-Now we come to today's passage.
-Let's read it together, 4 slides.
++ Now we come to today's passage.
++ Let's read it together, 4 slides.
 
 ---
 
@@ -346,6 +346,9 @@ Therefore **what you worship** in ignorance, <br/>
   + believers in "God" but not Jesus
   + want God's rescue but not Kingship
     + kingdom of God
++ Do I care for my countrymen? CN, TW, HK, US?
++ Who has God placed in my life who is pious?
+  + Am I laying out the gospel clearly?
 + 1. **lay out** gospel clearly
 + 2. **testify** to God's kingship, ultimate authority
 + 3. The **persuasion** comes from HS and the power of God
