@@ -251,7 +251,7 @@ he tried to **persuade** them about **Jesus**.
 
 ---
 
-## Witness to the kingdom of God
+## Witness to the Kingdom of God
 [img: witness]
 
 >>>
@@ -262,8 +262,8 @@ he tried to **persuade** them about **Jesus**.
 ---
 
 ## 1. Persuasion: v23 (NIV)
-He witnessed to them from morning till evening, <br/>
-**explaining** about the **kingdom of God**, <br/>
+He *witnessed* to them from morning till evening, <br/>
+*explaining* about the **kingdom of God**, <br/>
 and from the Law of Moses and from the Prophets <br/>
 he tried to **persuade** them about Jesus.
 
@@ -299,10 +299,10 @@ on the **wisdom of men**, but on the **power of God**.
 ---
 
 ## 1. Persuasion: v23 (NIV)
-He witnessed to them from morning till evening, <br/>
-explaining about the kingdom of God, <br/>
+He *witnessed* to them from morning till evening, <br/>
+*explaining* about the *kingdom of God*, <br/>
 and from the **Law of Moses** and from the **Prophets** <br/>
-he tried to persuade them about **Jesus**.
+he tried to *persuade* them about **Jesus**.
 
 >>>
 + **Jewish audience**: OT bg, hope of Messiah

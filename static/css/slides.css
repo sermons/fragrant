@@ -21,6 +21,9 @@ section.empty[data-background-image] {
 .reveal section strong {
   color: yellow;
 }
+.reveal section em {
+  color: #17ff2e;
+}
 .reveal section .hl1 {
   color: #17ff2e;
 }
