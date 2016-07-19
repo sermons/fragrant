@@ -6,14 +6,13 @@
 Work in progress!
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
 
+<!-- .slide: class="Q" data-background="white" -->
 # [Intro reflection question]
 
 ---
 
 ## Outline of Acts (1:8)
-
 "You will receive power when the Holy Spirit comes on you; <br/>
 and you will be my witnesses in **Jerusalem**
 <span class="hl1">(ch2-7)</span>, <br/>
@@ -22,14 +21,22 @@ and in all **Judea and Samaria**
 and to the **ends of the earth**
 <span class="hl1">(ch12-28)</span>."
 
+>>>
++ Finishing series on Acts
++ Take gospel out in concentric **circles**
++ Half of Acts: "**ends of earth**"
+
 ---
 
 ## You Will Be My Witnesses
 <div class="imgbox"><div>
 <ol>
-<li> Antioch & Pamphylia <br/> (ch13-14) </li>
-<li> Galatia, Asia, Greece <br/> (ch15-18:22) </li>
-<li> Galatia, Ephesus <br/> (18:23-19:19) </li>
+<li> Antioch & Pamphylia <br/>
+<span class="hl1">(ch13-14)</span> </li>
+<li> Asia, Greece <br/>
+<span class="hl1">(ch15-18:22)</span> </li>
+<li> Galatia, Ephesus <br/>
+<span class="hl1">(18:23-19:19)</span> </li>
 </ol>
 </div><div style="flex:2">
 ![Cities visited by Paul](static/img/Paul_geography.png)
@@ -39,13 +46,17 @@ and to the **ends of the earth**
 </div></div>
 
 >>>
-+ In Ephesus on 3rd trip already had plan (19:21):
-  + visit Jerusalem, then Rome
-  + not expecting to visit in chains!
++ Paul's **three** missionary journeys
++ 1st: Christian (Gentile) **base** in Syrian Antioch
++ 2nd/3rd: round coast of Asia + Greece
+  + esp Corinth, Ephesus
++ In **Ephesus** on 3rd trip already had plan (19:21):
+  + visit **Jerusalem**, then **Rome**
+  + not expecting to visit in **chains**!
 
 ---
 
-## Paul's Fourth Journey
+## Paul's Journey to Rome (ch21-28)
 <div class="imgbox"><div>
 ![Paul's journey to Rome](static/img/Paul_Rome_journey.svg)
 <br/><span class="caption">
@@ -54,15 +65,14 @@ and to the **ends of the earth**
 </div></div>
 
 >>>
-+ ch21 arrived in Jerusalem
-+ ch23 Jewish opposition
-  + God: Jeru, then Rome (23:11)
-+ ch24 Caesarea 2yrs (24:27)
-+ ch27 sail, shipwreck
++ Jeru: Jews accuse **defiling** temple
+  + God: Jeru, then **Rome** (23:11)
++ **Caesarea**: stuck 2yrs (24:27)
++ Sail, **shipwreck** (ch27)
 + ch28a arrive near Rome.
-  + Christians care for him
-  + Paul explains self to Jewish leaders
-  + Jews want to hear his thoughts
+  + **Christians** care for him
+  + Paul explains self to **Jewish** leaders
+  + Jews want to **hear** his thoughts
 
 ---
 
@@ -74,7 +84,7 @@ to the place where he was staying.
 He witnessed to them from morning till evening, <br/>
 explaining about the kingdom of God, <br/>
 and from the Law of Moses and from the Prophets <br/>
-he tried to persuade them about Jesus.
+he tried to persuade them about Jesus. ...
 
 >>>
 Now we come to today's passage.
@@ -90,7 +100,7 @@ They disagreed among themselves and began to leave <br/>
 after Paul had made this final statement:
 
 “The Holy Spirit spoke the truth to your ancestors <br/>
-when he said through Isaiah the prophet:
+when he said through Isaiah the prophet: ...
 
 ---
 
@@ -105,7 +115,7 @@ and they have closed their eyes.
 
 Otherwise they might see with their eyes, <br/>
 hear with their ears, understand with their hearts <br/>
-and turn, and I would heal them.’
+and turn, and I would heal them.’ ...
 
 ---
 
@@ -120,9 +130,31 @@ He proclaimed the kingdom of God <br/>
 and taught about the Lord Jesus Christ -- <br/>
 with all boldness and without hindrance!
 
+>>>
++ "But that was **Paul**, apostle, writer of NT, etc."
+  + "I can't preach gospel like that, I'm not a missionary"
++ narrative: **exemplary**, not **exhaustive**
+  + Other NT narratives show diff methods
++ (not: "descriptive, not prescriptive")
+  + not just a nice **story** that doesn't apply to us!
+
 ---
 
-## Acts 28: Paul in Rome
+## Philippians 3:17 (NASB)
+Brethren, **join** in following my **example**, <br/>
+and **observe** those who walk <br/>
+according to the **pattern** you have in us.
+
+>>>
++ But that doesn't mean examples don't matter!
+  + **Totality** of Biblical examples, common threads
+  + Describe the **pattern** for us to follow
++ Ultimate example is Christ
+  + (1Cor11:1 follow me as I follow Christ)
+
+---
+
+## Ac28: The Fragrant Gospel
 1. Paul's exposition: **Persuasion**
   <span class="hl1">(v23)</span>
 2. Hearers' response: **Partition**
@@ -132,29 +164,67 @@ with all boldness and without hindrance!
 4. Paul's lifestyle: **Proclamation**
   <span class="hl1">(v30-31)</span>
 
+>>>
++ Concentric **circles** starting from v17:
+  + Jewish leaders -> Roman Jews -> Gentiles
++ Paul **lays out** the gospel of Jesus Messiah
++ The hearers are **split** in two in their response
++ Paul **quotes** an OT prophecy via Isaiah
++ Paul **continues** for 2yrs in house arrest
+
 ---
 
 ## Paul and the Jews
 
-.
+[img: Paul preaching]
 
 >>>
-+ some bg on Paul's history with the Jews
-+ Jews persecuted him in Asia Minor, all along journeys
-  + Jerusalem Jews were reason for his chains
-  + img: Paul preaching jerusalem
-+ Paul did not consider them his enemies
-  + own countrymen!
-  + Roman Jews also sizing up Paul
-+ Roman Jews recently expelled by Claudius (18:2)
-  + Clinging to OT worship and promises
-  + Hoping expectantly for God's rescue
-+ || Churched: the "good guys"!
-+ Paul loved Israel deeply (Ro9:1-3)
++ First, some **bg** on Paul's history with the Jews
++ Jews **persecuted** him all along journeys
+  + Accusers in **Jeru** prob from Asia Minor
++ So what does **Paul** himself say about the Jews?
+  + Hate? Give up / hopeless?  Avoid?
++ To understand Paul's **heart** for the Jews, cf Rom9-11
 
 ---
 
-## Acts 28:23b (NIV)
+## Romans 9:2-3 (NIV) (p.1/2)
+I have great **sorrow** and unceasing **anguish** in my heart.
+
+For I could wish that I myself <br/>
+were **cursed** and **cut off** from Christ
+
+for the sake of **my people**, those of **my own race**, <br/>
+the people of **Israel**. ...
+
+>>>
++ Not as **enemies** but as **countrymen**!
+  + no anti-Semitism here
++ Paul **loved** Israel deeply
++ What's more, he valued their unique **background**:
+
+---
+
+## Romans 9:4 (NIV) (p.2/2)
+Theirs is the **adoption** to sonship; <br/>
+theirs the divine **glory**, the **covenants**, <br/>
+the receiving of the **law**, <br/>
+the temple **worship** and the **promises**.
+
+>>>
++ **Blessed** by God, **chosen**, had **Word**
+  + Cling to OT **worship** and **promises**
+  + **Hope** expectantly for God's **rescue**
++ The "**good guys**", not the villains!
+  + **Pious**, moral, desire to be good
++ Also, Claudius **expelled** Roman Jews for unrest (18:2)
+  + Roman Jews also **sizing up** Paul
+  + Is Paul's **motive** to cause unrest?
++ Keep context in mind as we re-read today's passage:
+
+---
+
+## 1. Persuasion: v23 (NIV)
 
 He **witnessed** to them from morning till evening, <br/>
 **explaining** about the **kingdom of God**, <br/>
@@ -162,26 +232,84 @@ and from the Law of Moses and from the Prophets <br/>
 he tried to **persuade** them about **Jesus**.
 
 >>>
-+ witness (lay out): put forth, exposition
-+ explaining (martyr): witness, testify
-  + from memory, kept in mind
-  + focus not on us but on God's kingship
-  + kingdom of God: is near (John, Jesus)
-+ persuade (faith, belief, trust): convince, win over, coax, seduce
-  + Jewish audience: OT bg, hope of Messiah
-  + note: diff word at end of passage, to Gentiles
-  + cf (14:19) Jews "won over" crowds
-  + cf (1Co2:4) not by persuasive wisdom
-+ concerning Jesus, from Moses/Prophets
-  + Connect up OT Messiah with Jesus
-  + fulfil hope, not attack (:20)
++ NIV ought to have **swapped** first 2 verbs
++ witness (**lay out**): put forth, exposition
+  + Jews **wanted** to hear his thinking
+  + Get to the **main point** clearly
++ explaining (martyr): **witness**, testify
+
+---
+
+[img: witness]
+
+>>>
++ from memory, kept in **mind**
++ **focus** not on witness but on what he saw
++ not on us but on **God's kingship**
+
+---
+
+## 1. Persuasion: v23 (NIV)
+
+He witnessed to them from morning till evening, <br/>
+**explaining** about the **kingdom of God**, <br/>
+and from the Law of Moses and from the Prophets <br/>
+he tried to **persuade** them about Jesus.
+
+>>>
++ bear witness to the authority of God
++ **kingdom of God**: is near (John, Jesus)
++ **persuade** (faith, belief, trust):
+  + convince, win over, coax, seduce
++ wait, "seduce" **doesn't** sound good!
+  + cf (14:19) Jews "**won over**" crowds
+  + in fact...
+
+---
+
+## 1 Corinthians 2:4-5 (NASB)
+My **message** and my **preaching**
+
+were not in **persuasive** words of wisdom, <br/>
+but in demonstration of the **Spirit** and of **power**,
+
+so that your **faith** would not rest <br/>
+on the **wisdom of men**, but on the **power of God**.
+
+>>>
++ **What** is persuasive?
+  + My **eloquence** / cleverness / cultural relevance?
+  + Holy **Spirit** and **power** of God
++ Remember, "persuasive" == "faith"
+  + What does my **faith** rest on?
+  + == what do I find **persuasive**?
++ Don't want **disciples** of my personality but of Christ
+
+---
+
+## 1. Persuasion: v23 (NIV)
+
+He witnessed to them from morning till evening, <br/>
+explaining about the kingdom of God, <br/>
+and from the **Law of Moses** and from the **Prophets** <br/>
+he tried to persuade them about **Jesus**.
+
+>>>
++ **Jewish audience**: OT bg, hope of Messiah
+  + "taught": at end of passage, to Gentiles
++ concerning **Jesus**, from Moses/Prophets
+  + Connect up OT **Messiah** with Jesus
++ Still **contentious** for most Jews today
+  + **fulfill** hope, not attack (:20)
++ Different approach to those **w/o** OT bg:
 
 ---
 
 ## Acts 17:22-24 (NASB)
 
-“Men of Athens, I observe that <br/>
-you are **very religious** in all respects. <br/>
+“Men of **Athens**, I observe that <br/>
+you are **very religious** in all respects.
+
 For while I was passing through and <br/>
 examining the objects of your worship, <br/>
 I also found an altar with this inscription, <br/>
@@ -191,6 +319,12 @@ Therefore **what you worship** in ignorance, <br/>
 **this I proclaim** to you."
 
 >>>
++ 89% of US adults believe in "God or a universal spirit"
+  + [(Pew 2014 Religious Landscape Study)](http://www.pewresearch.org/fact-tank/2015/11/04/americans-faith-in-god-may-be-eroding/)
++ Thirst for spiritual fulfillment
++ Desire to be pious
++ But God is unknown, vague, abstract
+  + Fill void with many other pursuits
 + cf H.S. ahead of us in community
 
 ---
@@ -204,6 +338,10 @@ Therefore **what you worship** in ignorance, <br/>
   + believers in "God" but not Jesus
   + want God's rescue but not Kingship
     + kingdom of God
++ 1. **lay out** gospel clearly
++ 2. **testify** to God's kingship, ultimate authority
++ 3. The **persuasion** comes from HS and the power of God
+  + gauged appropriately to audience's bg
 
 ---
 
@@ -350,8 +488,8 @@ with all **boldness** and without hindrance!
 + 2yrs: to see Nero
   + also 2yrs in Caesarea for Felix
   + prob acquitted at first trial (2Tim4)
-  + but later another trial
-  + ultimately martyred in Rome
+  + possibly then travelled to Spain
+  + beheaded in Rome under Nero (Eusebius)
 + stayed + welcomed:
   + own rent: tentmaking, 2Co8-9
 + proclaimed (preach): kingdom of God
@@ -367,6 +505,8 @@ with all **boldness** and without hindrance!
 # [4. reflection question]
 
 ---
+
+.
 
 ---
 
