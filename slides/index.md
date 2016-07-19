@@ -56,12 +56,12 @@ and to the **ends of the earth**
 >>>
 + ch21 arrived in Jerusalem
 + ch23 Jewish opposition
-  + God: Jerusalem, then Rome (23:11)
-+ ch24 stuck in Caesarea 2yrs (24:27)
+  + God: Jeru, then Rome (23:11)
++ ch24 Caesarea 2yrs (24:27)
 + ch27 sail, shipwreck
 + ch28a arrive near Rome.
   + Christians care for him
-  + Paul explains self to local Jewish leadership
+  + Paul explains self to Jewish leaders
   + Jews want to hear his thoughts
 
 ---
@@ -75,6 +75,10 @@ He witnessed to them from morning till evening, <br/>
 explaining about the kingdom of God, <br/>
 and from the Law of Moses and from the Prophets <br/>
 he tried to persuade them about Jesus.
+
+>>>
+Now we come to today's passage.
+Let's read it together, 4 slides.
 
 ---
 
@@ -135,6 +139,7 @@ with all boldness and without hindrance!
 .
 
 >>>
++ some bg on Paul's history with the Jews
 + Jews persecuted him in Asia Minor, all along journeys
   + Jerusalem Jews were reason for his chains
   + img: Paul preaching jerusalem
@@ -149,10 +154,7 @@ with all boldness and without hindrance!
 
 ---
 
-## Acts 28:23 (NIV)
-They arranged to meet Paul on a certain day, <br/>
-and came in even larger numbers <br/>
-to the place where he was staying.
+## Acts 28:23b (NIV)
 
 He **witnessed** to them from morning till evening, <br/>
 **explaining** about the **kingdom of God**, <br/>
@@ -167,6 +169,7 @@ he tried to **persuade** them about **Jesus**.
   + kingdom of God: is near (John, Jesus)
 + persuade (faith, belief, trust): convince, win over, coax, seduce
   + Jewish audience: OT bg, hope of Messiah
+  + note: diff word at end of passage, to Gentiles
   + cf (14:19) Jews "won over" crowds
   + cf (1Co2:4) not by persuasive wisdom
 + concerning Jesus, from Moses/Prophets
