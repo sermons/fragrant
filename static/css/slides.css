@@ -41,6 +41,9 @@ section.empty[data-background-image] {
 .reveal section.Q * {
   text-transform: none;
 }
+.reveal section.Q h2:after {
+  border: none;
+}
 
 /* Titles / headers */
 .reveal section h1, .reveal section h2 {
