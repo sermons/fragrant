@@ -199,6 +199,7 @@ the people of **Israel**. ...
 >>>
 + Not as **enemies** but as **countrymen**!
   + no anti-Semitism here
+  + (Luther, 19th c Cath, Nazis)
 + Paul **loved** Israel deeply
 + What's more, he valued their unique **background**:
 
@@ -315,6 +316,7 @@ he tried to persuade them about **Jesus**.
 ---
 
 ## Acts 17:22-24 (NASB)
+<div class="imgbox"><div style="flex:3">
 “Men of **Athens**, I observe that <br/>
 you are **very religious** in all respects.
 
@@ -325,10 +327,16 @@ I also found an altar with this inscription, <br/>
 
 Therefore **what you worship** in ignorance, <br/>
 **this I proclaim** to you."
+</div><div>
+![89% adults believe in God](static/img/Pew-RLS14-BeliefInGod.png)
+<br/><span class="caption">
+[Pew 2014 Religious Landscape Study](http://www.pewresearch.org/fact-tank/2015/11/04/americans-faith-in-god-may-be-eroding/)
+</span>
+</div></div>
 
 >>>
 + 89% of US adults believe in "God or a universal spirit"
-  + [(Pew 2014 Religious Landscape Study)](http://www.pewresearch.org/fact-tank/2015/11/04/americans-faith-in-god-may-be-eroding/)
+  + (but only 63% with certainty)
 + Thirst for spiritual fulfillment
 + Desire to be pious
 + But God is unknown, vague, abstract
@@ -338,20 +346,15 @@ Therefore **what you worship** in ignorance, <br/>
 ---
 
 <!-- .slide: class="Q" data-background="white" -->
-# [1. reflection question]
+## Do I love my **pious countrymen**?
+
+## Love them enough to **lay out** the gospel clearly to them?
 
 >>>
-+ have I viewed non-Christians as the enemy?
-  + church-goers who don't live like Christians?
-  + believers in "God" but not Jesus
-  + want God's rescue but not Kingship
-    + kingdom of God
-+ Do I care for my countrymen? CN, TW, HK, US?
-+ Who has God placed in my life who is pious?
-  + Am I laying out the gospel clearly?
-+ 1. **lay out** gospel clearly
-+ 2. **testify** to God's kingship, ultimate authority
-+ 3. The **persuasion** comes from HS and the power of God
++ **pious**: want to be good/moral/ethical
++ **countrymen**: CN, TW, HK, US
++ **testify** to God's kingship, ultimate authority
++ The **persuasion** comes from HS and the power of God
   + gauged appropriately to audience's bg
 
 ---
@@ -367,8 +370,8 @@ Therefore **what you worship** in ignorance, <br/>
   <span class="hl1">(v30-31)</span>
 
 >>>
-+ When the gospel is laid out clearly,
-+ What should we expect the response to be?
++ When the gospel is **laid out** clearly,
++ What should we expect the **response** to be?
 
 ---
 
@@ -383,11 +386,13 @@ after Paul had made this final statement:
 when he said through **Isaiah** the prophet:
 
 >>>
-+ cause divisions, reveal hearts
 + nb not "after" but:
   + Being a-symphonic toward each other,
-  + they were dispersing (as they were dispersing),
+  + they were dispersing, (and as they were leaving,)
   + Paul speaking one word
++ cause **divisions**, **reveal** hearts
++ Christmas angels: **peace on earth**, goodwill to men?
+  + but: shortly after Jesus' birth:
 
 ---
 
@@ -399,6 +404,15 @@ and for a **sign** that is **opposed** -- <br/>
 and a **sword** will pierce through your own **soul** also --
 
 so that **thoughts** from many hearts may be **revealed**.
+
+>>>
++ The unwavering truth of **God's kingdom**
+  + God is **King**; Jesus **saves** us from our sins
++ This is **true**, whether one **believes** it or not
++ Not a **weapon** I can wield against others:
+  + Pierce **own** soul, too
++ Reveal sin behind **facade** of goodness
+  + CTC: cut the crap
 
 ---
 
@@ -415,37 +429,52 @@ Whoever does not take up their **cross** <br/>
 and **follow me** is not worthy of me.
 
 >>>
-+ :38 take up cross and follow
-+ :39 lose life for My sake
++ Cuts through **vagaries** of who is a moral/good/ethical person
+  + Demands 100% response, either **all-in** or **all-out**
++ :38 take up **cross** and follow
++ :39 **lose life** for My sake
++ **True love** for family means:
+  + Stand **firm** on God's truth
+  + Don't make **excuses** for their sin
 
 ---
 
-## Romans 7:7-8 (NIV) (p1/2)
-I would not have **known** what sin was <br/>
-had it not been for the **law**. <br/>
-For I would not have known what **coveting** really was <br/>
-if the law had not said, “**You shall not covet**.”
+## Beneath the Cross of Jesus
+<div class="imgbox"><div>
+![Elizabeth Clephane](static/img/Clephane.jpg)
+<br/><span class="caption">
+[Elizabeth Clephane](http://www.hymntime.com/tch/htm/b/t/c/btcjesus.htm)
+1868, Scotland
+</span>
+Clephane.jpg
+</div><div style="flex:3">
+Upon that **cross of Jesus** <br/>
+Mine **eye** at times can see <br/>
+The very **dying** form of One <br/>
+Who **suffered** there for me;
 
-But **sin**, seizing the **opportunity** <br/>
-afforded by the commandment, <br/>
-produced in me every kind of coveting.
+And from my **stricken heart** with tears <br/>
+**Two wonders** I confess; <br/>
+The wonders of **redeeming love** <br/>
+And **my unworthiness**.
+</div></div>
 
----
-
-## Romans 7:13 (NIV) (p2/2)
-In order that sin might be **recognized as sin**, <br/>
-it used what is **good** to bring about **my death**, <br/>
-so that through the commandment
-
-**sin** might become **utterly sinful**.
+>>>
++ The sword pierces our **own soul**
++ And pierces those who **hear**
 
 ---
 
 <!-- .slide: class="Q" data-background="white" -->
-# [2. reflection question]
+## Has the **sword** of Christ's kingship pierced **my own** soul?
+
+## Am I willing to let it **divide** my loved ones?
 
 >>>
-gospel contentious?
++ God's **holiness** ->
+  + my **unworthiness** ->
+  + Christ's **redeeming love** ->
+  + Christ's **kingship**
 
 ---
 
@@ -460,8 +489,8 @@ gospel contentious?
   <span class="hl1">(v30-31)</span>
 
 >>>
-+ OK, so some won't be happy to hear the gospel
-+ Why is that so?  Whose fault is it?
++ OK, so some won't **welcome** gospel
++ **Why** is that so?  Whose **fault** is it?
 
 ---
 
@@ -491,13 +520,33 @@ and **turn**, and I would **heal** them.’
 
 ---
 
-+ Ro9:1-2 self accursed that Jews may be saved
 + Ro9:6 not as though Word failed: not all of Israel are Israel
 + Ro10:1-2 give up? No
 + Rock of stumbling: 1Pet2, Rom9/10, Is28:16
 + Ro11:32 all disobey, all mercy
-+ 2Co2:14-16a fragrance
-+ To Gentiles (13:46-47 Pisidian Antioch)
+
+---
+
+## 2 Corinthians 2:14-16 (ESV)
+
+Thanks be to God, who in Christ
+always leads us in **triumphal procession**,
+and through us spreads the **fragrance**
+of the **knowledge of Him** everywhere.
+
+For we are the **aroma of Christ** to God
+among those who are being **saved**
+and among those who are **perishing**,
+
+to one a fragrance **from death to death**,
+to the other a fragrance **from life to life**.
+
+>>>
++ from life to life:
+  + 1Cor rebuke caused godly sorrow -> repentance
++ from death to death:
+  + hearts veiled when read Law
++ but turn to Lord -> veil removed
 
 ---
 
@@ -538,6 +587,7 @@ and **taught** about the Lord Jesus Christ -- <br/>
 with all **boldness** and without hindrance!
 
 >>>
++ To Gentiles (13:46-47 Pisidian Antioch)
 + physical limitations: house arrest, not seen by Caesar
 + 2yrs: to see Nero
   + also 2yrs in Caesarea for Felix
@@ -607,4 +657,24 @@ with all **boldness** and without hindrance!
 </span>
 </div></div>
 
+---
+
+## Romans 7:7-8 (NIV) (p1/2)
+I would not have **known** what sin was <br/>
+had it not been for the **law**. <br/>
+For I would not have known what **coveting** really was <br/>
+if the law had not said, “**You shall not covet**.”
+
+But **sin**, seizing the **opportunity** <br/>
+afforded by the commandment, <br/>
+produced in me every kind of coveting.
+
+---
+
+## Romans 7:13 (NIV) (p2/2)
+In order that sin might be **recognized as sin**, <br/>
+it used what is **good** to bring about **my death**, <br/>
+so that through the commandment
+
+**sin** might become **utterly sinful**.
 
