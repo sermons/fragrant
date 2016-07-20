@@ -555,11 +555,14 @@ but the **children of the promise** <br/>
 are counted as offspring.
 
 >>>
-+ So if people don't listen
++ if people don't listen,
+  + it's not that gospel has failed
+  + or God is not strong enough to save
 
 ---
 
-+ Ro10:1-2 give up? No
++ Ro11:1-2a give up? No
+  + :2b-5 remnant
 + Rock of stumbling: 1Pet2, Rom9/10, Is28:16
 + Ro11:32 all disobey, all mercy
 
