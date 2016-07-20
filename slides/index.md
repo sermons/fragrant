@@ -199,7 +199,7 @@ the people of **Israel**. ...
 >>>
 + Not as **enemies** but as **countrymen**!
   + no anti-Semitism here
-  + (Luther, 19th c Cath, Nazis)
+  + (Crusades, Luther, Nazis)
 + Paul **loved** Israel deeply
 + What's more, he valued their unique **background**:
 
@@ -233,6 +233,10 @@ the temple **worship** and the **promises**.
   <span class="hl1">(v26-28)</span>
 4. Paul's lifestyle: **Proclamation**
   <span class="hl1">(v30-31)</span>
+
+>>>
+How did Paul share gospel with his
+**pious countrymen** whom he loved so deeply?
 
 ---
 
@@ -321,7 +325,7 @@ he tried to *persuade* them about **Jesus**.
 you are **very religious** in all respects.
 
 For while I was passing through and <br/>
-examining the objects of your worship, <br/>
+examining the **objects of your worship**, <br/>
 I also found an altar with this inscription, <br/>
 ‘TO AN **UNKNOWN GOD**.’
 
@@ -383,7 +387,7 @@ They **disagreed** among themselves and began to **leave** <br/>
 after Paul had made this final statement:
 
 “The Holy Spirit spoke the truth to your ancestors <br/>
-when he said through **Isaiah** the prophet:
+when he said through Isaiah the prophet:
 
 >>>
 + nb not "after" but:
@@ -392,7 +396,9 @@ when he said through **Isaiah** the prophet:
   + Paul speaking one word
 + cause **divisions**, **reveal** hearts
 + Christmas angels: **peace on earth**, goodwill to men?
-  + but: shortly after Jesus' birth:
+  + (Codex Sinaiticus dropped last letter of εὐδοκίας, KJV)
+  + ("peace on earth to men of [God's] good will")
+  + shortly after Jesus' birth:
 
 ---
 
@@ -420,7 +426,7 @@ so that **thoughts** from many hearts may be **revealed**.
 Do not suppose that I have come to bring **peace** to the earth. <br/>
 I did not come to bring peace, but a **sword**.
 
-“Anyone who loves their **father or mother** <br/>
+[...] Anyone who loves their **father or mother** <br/>
 more than me is not worthy of me; <br/>
 anyone who loves their **son or daughter** <br/>
 more than me is not worthy of me.
@@ -431,7 +437,6 @@ and **follow me** is not worthy of me.
 >>>
 + Cuts through **vagaries** of who is a moral/good/ethical person
   + Demands 100% response, either **all-in** or **all-out**
-+ :38 take up **cross** and follow
 + :39 **lose life** for My sake
 + **True love** for family means:
   + Stand **firm** on God's truth
@@ -446,7 +451,6 @@ and **follow me** is not worthy of me.
 [Elizabeth Clephane](http://www.hymntime.com/tch/htm/b/t/c/btcjesus.htm)
 1868, Scotland
 </span>
-Clephane.jpg
 </div><div style="flex:3">
 Upon that **cross of Jesus** <br/>
 Mine **eye** at times can see <br/>
@@ -475,6 +479,7 @@ And **my unworthiness**.
   + my **unworthiness** ->
   + Christ's **redeeming love** ->
   + Christ's **kingship**
++ gospel does not allow one to be **ambivalent**
 
 ---
 
@@ -499,28 +504,61 @@ And **my unworthiness**.
 “You will be ever **hearing** but never **understanding**; <br/>
 you will be ever **seeing** but never **perceiving**.”
 
-For this people’s heart has become **calloused**; <br/>
-they **hardly hear** with their ears, <br/>
-and they have **closed** their eyes.
+For this people’s **heart** has become calloused; <br/>
+they hardly hear with their **ears**, <br/>
+and they have closed their **eyes**.
 
-Otherwise they might see with their **eyes**, <br/>
-hear with their **ears**, understand with their **hearts** <br/>
+Otherwise they might **see** with their eyes, <br/>
+**hear** with their ears, **understand** with their hearts <br/>
 and **turn**, and I would **heal** them.’
 
 >>>
 + Parable of Sower (Mt13, Mk4, Lu8)
   + Jn12:39-42 Isaiah saw His glory
 + LXX: "in hearing, you will hear" (dat n + fut ind)
-  + Heb: "Hear, to hear" (impr / prophetic fut + inf abs)
 + understanding (discern): divide, filter, recog import
   + perceiving (understand): process, learn from experience
+
+---
+
+## Isaiah 6:9-10 (ESV)
+Go, and say to this people:
+
+“Keep on **hearing**, but do not understand; <br/>
+keep on **seeing**, but do not perceive."
+
+Make the heart of this people **dull**, <br/>
+and their ears **heavy**, and **blind** their eyes;
+
+lest they **see** with their eyes, <br/>
+and **hear** with their ears, <br/>
+and **understand** with their hearts, <br/>
+and **turn** and be **healed**.
+
+>>>
++ Heb: "Hear, to hear" (impr / prophetic fut + inf abs)
 + fattened -> made heavy -> clouded (LXX: psv)
   + Heb: "Make fat the heart" (hiphil impr)
 + see -> hear -> understand -> turn
 
 ---
 
-+ Ro9:6 not as though Word failed: not all of Israel are Israel
+## Romans 9:6
+But it is not as though the word of God has **failed**.
+
+For not all who are **descended** from Israel <br/>
+**belong** to Israel, [...]
+
+It is not the children of the **flesh** <br/>
+who are the children of God, <br/>
+but the **children of the promise** <br/>
+are counted as offspring.
+
+>>>
++ So if people don't listen
+
+---
+
 + Ro10:1-2 give up? No
 + Rock of stumbling: 1Pet2, Rom9/10, Is28:16
 + Ro11:32 all disobey, all mercy
@@ -542,21 +580,20 @@ to one a fragrance **from death to death**,
 to the other a fragrance **from life to life**.
 
 >>>
-+ from life to life:
-  + 1Cor rebuke caused godly sorrow -> repentance
-+ from death to death:
-  + hearts veiled when read Law
-+ but turn to Lord -> veil removed
++ from **life** to life:
+  + 1Cor **rebuke** caused godly **sorrow** -> **repentance**
++ from **death** to death:
+  + hearts **veiled** when read Law
++ but **turn** to Lord -> veil **removed**
 
 ---
 
 <!-- .slide: class="Q" data-background="white" -->
-# [3. reflection question]
+# How do I **react** to those who take **offense** at the gospel?
 
 >>>
-+ How do I react to those who take offense at the gospel?
-  + Combat?  Frustration?  Resignation?
-  + Heartfelt hope + continued proclamation
++ Combat?  Frustration?  Resignation?
++ Heartfelt hope + continued proclamation
 
 ---
 
@@ -571,7 +608,7 @@ to the other a fragrance **from life to life**.
   <span class="hl1">(v30-31)</span>
 
 >>>
-+ How did Paul respond to opposition to the gospel?
++ How did Paul **continue** after this **disappointing** response?
 
 ---
 
@@ -606,7 +643,27 @@ with all **boldness** and without hindrance!
 ---
 
 <!-- .slide: class="Q" data-background="white" -->
-# [4. reflection question]
+## Do I exude the **fragrance of Christ** in my daily life?
+
+>>>
++ doesn't mean being a **nice guy**, moral, charity!
++ to the contrary, ack own **unworthiness**
+  + universal need for **redemption**
++ be a **smelly** Christian:
+  + stench of death to **sin**
+  + aroma of **new life** in Christ
++ from **death to death**, from **life to life**
+
+---
+
+## 2 Corinthians 2:15-16 (ESV)
+
+For we are the **aroma of Christ** to God
+among those who are being **saved**
+and among those who are **perishing**,
+
+to one a fragrance **from death to death**,
+to the other a fragrance **from life to life**.
 
 ---
 
