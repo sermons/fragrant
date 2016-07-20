@@ -23,7 +23,7 @@ and to the **ends of the earth**
 
 >>>
 + Finishing series on Acts
-+ Take gospel out in concentric **circles**
++ Gospel in concentric **circles**
 + Half of Acts: "**ends of earth**"
 
 ---
@@ -46,13 +46,12 @@ and to the **ends of the earth**
 </div></div>
 
 >>>
-+ Paul's **three** missionary journeys
 + 1st: Christian (Gentile) **base** in Syrian Antioch
-+ 2nd/3rd: round coast of Asia + Greece
++ 2nd/3rd: coastal Asia + Greece
   + esp Corinth, Ephesus
-+ In **Ephesus** on 3rd trip already had plan (19:21):
-  + visit **Jerusalem**, then **Rome**
-  + not expecting to visit in **chains**!
++ 3rd: **Ephesus**: plan (19:21):
+  + -> **Jeru** -> **Rome**
+  + not expect in **chains**!
 
 ---
 
@@ -65,13 +64,13 @@ and to the **ends of the earth**
 </div></div>
 
 >>>
-+ Jeru: Jews accuse **defiling** temple
-  + God: Jeru, then **Rome** (23:11)
++ Jeru: accused **defile** temple
+  + God: Jeru + **Rome** (23:11)
 + **Caesarea**: stuck 2yrs (24:27)
 + Sail, **shipwreck** (ch27)
 + ch28a arrive near Rome.
   + **Christians** care for him
-  + Paul explains self to **Jewish** leaders
+  + Call **Jewish** leaders
   + Jews want to **hear** his thoughts
 
 ---
@@ -147,9 +146,10 @@ according to the **pattern** you have in us.
 
 >>>
 + But that doesn't mean examples don't matter!
-  + **Totality** of Biblical examples, common threads
-  + Describe the **pattern** for us to follow
-+ Ultimate example is Christ
+  + **Totality** of Biblical examples
+  + common threads
+  + **pattern** for us to follow
++ Ultimate example is **Christ**
   + (1Cor11:1 follow me as I follow Christ)
 
 ---
