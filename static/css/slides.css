@@ -74,7 +74,7 @@ section.empty[data-background-image] {
 .reveal section .imgbox img {
   border: none;
 }
-.reveal .imgbox .caption {
+.reveal section .caption {
   font-size: 50%;
   color: #19b1ff;
 }

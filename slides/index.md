@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 # The Fragrant Gospel
 ## Acts 28:23-31
 
@@ -8,7 +8,7 @@ Work in progress!
 ---
 
 <!-- .slide: class="Q" data-background="white" -->
-# [Intro reflection question]
+## Do I exude the **fragrance of Christ** in my daily life?
 
 ---
 
@@ -139,6 +139,7 @@ with all boldness and without hindrance!
 
 ---
 
+<!-- .slide: data-background-image="static/bg/father_son_walk.jpg" -->
 ## Philippians 3:17 (NASB)
 Brethren, **join** in following my **example**, <br/>
 and **observe** those who walk <br/>
@@ -151,9 +152,11 @@ according to the **pattern** you have in us.
   + **pattern** for us to follow
 + Ultimate example is **Christ**
   + (1Cor11:1 follow me as I follow Christ)
++ [img: father son walking]
 
 ---
 
+<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's exposition: **Persuasion**
   <span class="hl1">(v23)</span>
@@ -175,7 +178,6 @@ according to the **pattern** you have in us.
 ---
 
 ## Paul and the Jews
-[img: Paul preaching]
 
 >>>
 + First, some **bg** on Paul's history with the Jews
@@ -187,6 +189,7 @@ according to the **pattern** you have in us.
 
 ---
 
+<!-- .slide: data-background-image="static/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
 ## Romans 9:2-3 (NIV) (p.1/2)
 I have great **sorrow** and unceasing **anguish** in my heart.
 
@@ -205,6 +208,7 @@ the people of **Israel**. ...
 
 ---
 
+<!-- .slide: data-background-image="static/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
 ## Romans 9:4 (NIV) (p.2/2)
 Theirs is the **adoption** to sonship; <br/>
 theirs the divine **glory**, the **covenants**, <br/>
@@ -224,6 +228,7 @@ the temple **worship** and the **promises**.
 
 ---
 
+<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's exposition: **Persuasion**
   <span class="hl1">(v23)</span>
@@ -255,8 +260,13 @@ he tried to **persuade** them about **Jesus**.
 
 ---
 
+<!-- .slide: data-background-image="static/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" style="top:0" -->
 ## Witness to the Kingdom of God
-[img: witness]
+
+([Nikolas Bodarevsky, "Trial of the Apostle Paul"](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg),
+1875.
+Transcarpathian Regional Art Museum, Ukraine.)
+<!-- .element: class="caption" -->
 
 >>>
 + from memory, kept in **mind**
@@ -283,13 +293,26 @@ he tried to **persuade** them about Jesus.
 ---
 
 ## 1 Corinthians 2:4-5 (NASB)
+
+<div class="imgbox"><div style="flex:2">
+
 My **message** and my **preaching**
 
-were not in **persuasive** words of wisdom, <br/>
-but in demonstration of the **Spirit** and of **power**,
+were not in **persuasive** words <br/>
+of wisdom, but in demonstration <br/>
+of the **Spirit** and of **power**,
 
 so that your **faith** would not rest <br/>
-on the **wisdom of men**, but on the **power of God**.
+on the **wisdom of men**, <br/>
+but on the **power of God**.
+
+</div><div>
+![Dujardin, St Paul Healing the Cripple at Lystra](static/img/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
+<div class="caption">
+[Karel Dujardin, St Paul Healing the Cripple at Lystra](https://www.rijksmuseum.nl/en/collection/SK-A-4922),
+1663.
+Rijksmuseum, Amsterdam.
+</div></div>
 
 >>>
 + **What** is persuasive?
@@ -319,6 +342,16 @@ he tried to *persuade* them about **Jesus**.
 
 ---
 
+<!-- .slide: data-background-image="static/bg/Raphael-St_Paul_Preaching_Athens.jpg" style="top:0" -->
+## Paul in Athens
+
+([Raphael, St. Paul Preaching in Athens](http://www.the-athenaeum.org/art/detail.php?ID=34558),
+tempera cartoon for Sistine Chapel, 1515.)
+<!-- .element: class="caption" -->
+
+---
+
+<!-- .slide: data-background-image="static/bg/Raphael-St_Paul_Preaching_Athens.jpg" -->
 ## Acts 17:22-24 (NASB)
 <div class="imgbox"><div style="flex:3">
 “Men of **Athens**, I observe that <br/>
@@ -363,6 +396,7 @@ Therefore **what you worship** in ignorance, <br/>
 
 ---
 
+<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's exposition: **Persuasion**
   <span class="hl1">(v23)</span>
@@ -402,6 +436,18 @@ when he said through Isaiah the prophet:
 
 ---
 
+<!-- .slide: data-background-image="static/bg/Rembrandt-Simeons_Song_of_Praise.jpg" style="top:0" -->
+## The Sign of Contradiction
+<div class="caption">
+([Rembrandt, Simeon's Song of Praise](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/),
+1631.
+Royal Picture Gallery Mauritshuis,
+The Hague.)
+</div>
+
+---
+
+<!-- .slide: data-background-image="static/bg/Rembrandt-Simeons_Song_of_Praise.jpg" -->
 ## Luke 2:34-35 (ESV)
 Behold, this child is appointed for <br/>
 the **fall** and **rising** of many in Israel,
@@ -483,6 +529,7 @@ And **my unworthiness**.
 
 ---
 
+<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's exposition: **Persuasion**
   <span class="hl1">(v23)</span>
@@ -543,7 +590,7 @@ and **turn** and be **healed**.
 
 ---
 
-## Romans 9:6
+## Romans 9:6 (ESV)
 But it is not as though the word of God has **failed**.
 
 For not all who are **descended** from Israel <br/>
@@ -561,33 +608,42 @@ are counted as offspring.
 
 ---
 
-+ Ro11:1-2a give up? No
-  + :2b-5 remnant
+## Romans 11:1-2,5 (NIV)
+Did God reject his people? By no means!
+
+I am an Israelite myself, a descendant of Abraham,
+from the tribe of Benjamin.
+God did not reject his people, whom he foreknew.
+
+[...] So too, at the present time
+there is a remnant chosen by grace.
+
+>>>
 + Rock of stumbling: 1Pet2, Rom9/10, Is28:16
-+ Ro11:32 all disobey, all mercy
 
 ---
 
-## 2 Corinthians 2:14-16 (ESV)
+## Romans 11:21-22 (NIV)
+Do not be **arrogant**, but tremble. <br/>
+For if God did not spare the **natural branches**, <br/>
+he will not spare **you** either.
 
-Thanks be to God, who in Christ
-always leads us in **triumphal procession**,
-and through us spreads the **fragrance**
-of the **knowledge of Him** everywhere.
+Consider therefore the **kindness** and **sternness** of God: <br/>
+sternness to those who **fell**, <br/>
+but kindness to **you**, <br/>
+provided that you **continue** in his kindness.
 
-For we are the **aroma of Christ** to God
-among those who are being **saved**
-and among those who are **perishing**,
+Otherwise, you also will be **cut off**.
 
-to one a fragrance **from death to death**,
-to the other a fragrance **from life to life**.
+---
+
+## Romans 11:32 (NIV)
+For God has bound everyone over to **disobedience** <br/>
+so that he may have **mercy** on them all.
 
 >>>
-+ from **life** to life:
-  + 1Cor **rebuke** caused godly **sorrow** -> **repentance**
-+ from **death** to death:
-  + hearts **veiled** when read Law
-+ but **turn** to Lord -> veil **removed**
++ Not: "why doesn't God save them?"
++ But: "why does God save anybody?"
 
 ---
 
@@ -600,6 +656,7 @@ to the other a fragrance **from life to life**.
 
 ---
 
+<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's exposition: **Persuasion**
   <span class="hl1">(v23)</span>
@@ -642,6 +699,29 @@ with all **boldness** and without hindrance!
 + influence in Rome:
   + Phil1:12-13 Praetorium: elite guard of Caesar
   + Phil4:22 Caesar's household
+
+---
+
+## 2 Corinthians 2:14-16 (ESV)
+
+Thanks be to God, who in Christ
+always leads us in **triumphal procession**,
+and through us spreads the **fragrance**
+of the **knowledge of Him** everywhere.
+
+For we are the **aroma of Christ** to God
+among those who are being **saved**
+and among those who are **perishing**,
+
+to one a fragrance **from death to death**,
+to the other a fragrance **from life to life**.
+
+>>>
++ from **life** to life:
+  + 1Cor **rebuke** caused godly **sorrow** -> **repentance**
++ from **death** to death:
+  + hearts **veiled** when read Law
++ but **turn** to Lord -> veil **removed**
 
 ---
 
