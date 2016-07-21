@@ -21,6 +21,12 @@ http://fragrant-gospel.seanho.com/
 <!-- .slide: class="Q" data-background="white" -->
 # How do I **react** when others take **offense** at the gospel?
 
+>>>
+1. How we **share** the gospel
+2. The **effect** it has on hearers
+3. How we should **respond**
+4. How we **live** our daily lives
+
 ---
 
 ## Outline of Acts (1:8)
@@ -57,9 +63,9 @@ and to the **ends of the earth**
 </div></div>
 
 >>>
-+ 1st: closer to Syrian Antioch
-+ 2nd: Macedonia (Philippi) and Greece (Corinth)
-+ 3rd: **Ephesus**: plan (19:21):
+1. close to Syrian Antioch
+2. Macedonia (Philippi) and Greece (Corinth)
+3. **Ephesus**: plan (19:21):
   + -> **Jeru** -> **Rome**
   + not expect in **chains**!
 
@@ -308,13 +314,14 @@ and from the Law of Moses and from the Prophets <br/>
 he tried to **persuade** them about Jesus.
 
 >>>
-+ witness to authority of God
++ witness to **authority** of God
 + **kingdom of God**: is near
   + John the Baptist, Jesus
 + **persuade** (faith, belief, trust):
-  + convince, win over, coax, seduce
-+ wait, **doesn't** sound good!
-  + (14:19) Jews "**won over**" crowds
+  + convince, coax, seduce
++ wait, isn't that **bad**?
+  + telemarketer
+  + (14:19) Jews "**won over**"
   + in fact...
 
 ---
@@ -364,7 +371,6 @@ he tried to *persuade* them about **Jesus**.
   + OT **Messiah** == Jesus
 + Still **contentious** today
   + v20: **fulfill** hope, !attack
-+ Diff for those **w/o** OT bg:
 
 ---
 
@@ -374,6 +380,11 @@ he tried to *persuade* them about **Jesus**.
 ([Raphael, St. Paul Preaching in Athens](http://www.the-athenaeum.org/art/detail.php?ID=34558),
 tempera cartoon for Sistine Chapel, 1515.)
 </div>
+
+>>>
++ Diff approach in **Athens**:
++ No **OT** bg, hope of Messiah
++ Still start from their **piety**
 
 ---
 
@@ -398,13 +409,13 @@ Therefore **what you worship** in ignorance, <br/>
 </div></div>
 
 >>>
++ Desire to be **pious**
++ Thirst: **spiritual** fulfil
 + 89% of US adults believe in "God or a universal spirit"
   + (63% certain)
-+ Thirst for spiritual fulfillment
-+ Desire to be pious
-+ But God unknown, vague, abstract
-  + Fill void w/other pursuits
-+ H.S. ahead of us in community
++ God **unknown**, vague, abstract
+  + Fill **void** w/other pursuits
++ H.S. **ahead** of us in community
 
 ---
 
@@ -451,9 +462,9 @@ when he said through Isaiah the prophet:
 
 >>>
 Not "after" but:
-+ Being a-symphonic toward each other,
-+ they were dispersing, (and as they were leaving,)
-+ Paul speaking one word
++ Being **a-symphonic** toward each other,
++ they were **dispersing**, (and as they were leaving,)
++ Paul speaking **one word**
 
 Cause **divisions**, **reveal** hearts
 
@@ -607,20 +618,19 @@ and **turn**, and I would **heal** them.’
 ## Hearing but not Understanding
 
 Parable of **Sower**:
-[Mt 13](https://mobile.biblegateway.com/passage/?search=mt13%3A13-15),
-[Mk 4](https://mobile.biblegateway.com/passage/?search=mk4%3A11-12),
-[Lk 8](https://mobile.biblegateway.com/passage/?search=lk8%3A10).
+[Mt 13](https://mobile.biblegateway.com/passage/?search=mt13.13-15),
+[Mk 4](https://mobile.biblegateway.com/passage/?search=mk4.11-12),
+[Lk 8](https://mobile.biblegateway.com/passage/?search=lk8.10).
 
-[John 12](https://mobile.biblegateway.com/passage/?search=jn12%3A39-42): Isaiah saw His **glory**
+[John 12](https://mobile.biblegateway.com/passage/?search=jn12.39-42): Isaiah saw His **glory**
 
 <div class="caption">
 ([Van Gogh, The Sower](http://krollermuller.nl/en/vincent-van-gogh-the-sower), 1888. Kröller-Müller Museum)
 </div>
 
 >>>
-+ Nope, **Jesus** himself quotes it
-+ John says because saw **glory**
-+ Orig quote: calling **Isaiah**:
++ Nope, **Jesus** himself quotes it!
++ Calling of **Isaiah**
 
 ---
 
@@ -685,6 +695,26 @@ there is a **remnant** chosen by grace.
 
 ---
 
+<!-- .slide: data-background-image="static/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
+## Isaiah 6:11,13 (NIV)
+Then I said, “For **how long**, Lord?”
+
+And he answered: <br/>
+“Until the cities lie **ruined** <br/>
+and without inhabitant, [...] <br/>
+and the land is utterly **forsaken**.
+
+But as the terebinth and **oak** <br/>
+leave **stumps** when they are cut down, <br/>
+so the **holy seed** will be the stump in the land.”
+
+>>>
++ **oak**: 1st, preeminent, landmark
++ **stump**: stone, obelisk, (fort)
++ holy **seed** (1): (Gen3:15)
+
+---
+
 ## Romans 11:21-22 (NIV)
 Do not be **arrogant**, but tremble. <br/>
 For if God did not spare the **natural branches**, <br/>
@@ -746,19 +776,27 @@ and **taught** about the Lord Jesus Christ -- <br/>
 with all **boldness** and without hindrance!
 
 >>>
-+ To Gentiles (13:46-47 Pisidian Antioch)
++ To **Gentiles**
+  + (13:46-47 Pisidian Antioch)
++ **stayed** + welcomed:
+  + own rent: **tentmaking**, 2Co8-9
++ Acts ends seemingly **abruptly**:
+  + What about Paul's **trial**?
+  + Appeal to **Caesar**?
+  + Accusations by Jeru **Jews**?
 
 ---
 
 ## Paul After Trial
 <div class="imgbox"><div>
-
-+ 2yrs: to see Nero
-  + also 2yrs in Caesarea for Felix
-  + prob acquitted at first trial (2Tim4)
-  + possibly then travelled to Spain
-  + beheaded in Rome under Nero (Eusebius)
-
+<ul>
+<li> 2 years to see **Nero**
+<li> Probably **acquitted** at trial
+[(2Tim4)](https://mobile.biblegateway.com/passage/?search=2Tim4.16)
+<li> Possible preaching in **Spain**
+[(Rom15)](https://mobile.biblegateway.com/passage/?search=Rom15.24-28)
+<li> **Beheaded** in Rome under Nero
+</ul>
 </div><div>
 ![Monnot, St Paul](static/img/Monnot-Paul_in_Lateran.jpg)
 <div class="caption">
@@ -768,17 +806,35 @@ with all **boldness** and without hindrance!
 </div>
 </div></div>
 
+>>>
++ According to early **church fathers**
++ also 2yrs in **Caesarea** for Felix
+  + not **important** to Romans
++ **Eusebius**: not killed by Nero directly,
+  + but increasing anti-Chr sentiment
+
+---
+
+## 4. Proclamation: v31 (NIV)
+He **proclaimed** the kingdom of God <br/>
+and **taught** about the Lord Jesus Christ -- <br/>
+with all **boldness** and without **hindrance**.
+
+>>>
++ proclaimed (**preach**): kingdom of God
+  + **taught**: about Jesus
++ boldness (**free speech**)
+  + unhindered (w/o **stop**)
+
 ---
 
 <div class="imgbox"><div>
-
 ![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul.jpg)
 <div class="caption">
 [Rembrandt, The Apostle Paul](http://www.nga.gov/content/ngaweb/Collection/art-object-page.1198.html),
 ~1657.
 National Gallery of Art, Washington DC
 </div>
-
 </div><div>
 ![Praetorian guard](static/img/Praetorian_Guard.jpg)
 <div class="caption">
@@ -786,20 +842,14 @@ National Gallery of Art, Washington DC
 near Pozzuoli, 2nd c. AD.
 Pergamon Museum.
 </div>
-
 </div></div>
 
 >>>
-+ physical limitations: house arrest, not seen by Caesar
-
-+ stayed + welcomed:
-  + own rent: tentmaking, 2Co8-9
-+ proclaimed (preach): kingdom of God
-  + taught: about Lord Jesus Christ
-+ boldness (free speech) + unhindered (w/o stop)
-+ influence in Rome:
-  + Phil1:12-13 Praetorium: elite guard of Caesar
-  + Phil4:22 Caesar's household
++ **limitations**: house arrest
+  + not seen by Caesar
++ **influence** in Rome:
+  + Phil1:12-13 **Praetorium**: elite guard of Caesar
+  + Phil4:22 Caesar's **household**
 
 ---
 
@@ -819,11 +869,13 @@ to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
 
 >>>
++ **everywh**: Troas to Macedonia
+  + skipped Corinth
 + from **life** to life:
-  + 1Cor **rebuke** caused godly **sorrow** -> **repentance**
+  + **rebuke** -> godly **sorrow** -> **repentance**
 + from **death** to death:
-  + hearts **veiled** when read Law
-+ but **turn** to Lord -> veil **removed**
+  + hearts **veiled** read Law
++ **turn** to Lord -> veil **lifted**
 
 ---
 
@@ -832,12 +884,12 @@ to the other a fragrance **from life to life**.
 
 >>>
 + doesn't mean being a **nice guy**, moral, charity!
-+ to the contrary, ack own **unworthiness**
++ ack own **unworthiness**
   + universal need for **redemption**
 + be a **smelly** Christian:
-  + stench of death to **sin**
-  + aroma of **new life** in Christ
-+ from **death to death**, from **life to life**
+  + stench: death to **sin**
+  + aroma: **new life** Christ
++ **death** -> death, **life** -> life
 
 ---
 
@@ -854,44 +906,4 @@ to the other a fragrance **from life to life**.
 ---
 
 <!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" class="empty" -->
-
----
-
-## Paul Writing Epistles
-<div class="imgbox"><div>
-![Boulogne, St Paul Writing His Epistles](static/img/Boulogne-Paul_Writing.jpg)
-<div class="caption">
-[Boulogne, St Paul Writing His Epistles](https://collections.mfah.org/art/detail/20223),
-~1618 (Museum of Fine Arts, Houston)
-</div>
-</div></div>
-
----
-
-<!-- .slide: data-background-image="static/bg/Panini-Paul_Preaching_Ruins.jpg" -->
-## Panini, Paul Preaching on the Ruins
-<div class="caption">
-([Panini, The Apostle Paul Preaching on the Ruins](http://www.arthermitage.org/Giovanni-Panini/Sermon-of-St-Paul-amidst-the-Ruins.html), 1744. Hermitage Museum, St. Petersburg.)
-</div>
-
----
-
-## Romans 7:7-8 (NIV) (p1/2)
-I would not have **known** what sin was <br/>
-had it not been for the **law**. <br/>
-For I would not have known what **coveting** really was <br/>
-if the law had not said, “**You shall not covet**.”
-
-But **sin**, seizing the **opportunity** <br/>
-afforded by the commandment, <br/>
-produced in me every kind of coveting.
-
----
-
-## Romans 7:13 (NIV) (p2/2)
-In order that sin might be **recognized as sin**, <br/>
-it used what is **good** to bring about **my death**, <br/>
-so that through the commandment
-
-**sin** might become **utterly sinful**.
 
