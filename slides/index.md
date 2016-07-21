@@ -191,7 +191,7 @@ according to the **pattern** you have in us.
 <h2>Paul and the Jews</h2>
 <ol>
 <li> **Persecution**: <br/>
-  Ac 13-14, 17-18, 21 </li>
+  Acts 13-14, 17-18, 21 </li>
 <li> **Heart** for Jews: <br/>
   Romans 9-11 </li>
 </ol>
@@ -604,7 +604,7 @@ and **turn**, and I would **heal** them.’
 ---
 
 <!-- .slide: data-background-image="static/bg/VanGogh-The_Sower.jpg" -->
-## Hear but not Understand
+## Hearing but not Understanding
 
 Parable of **Sower**:
 [Mt 13](https://mobile.biblegateway.com/passage/?search=mt13%3A13-15),
