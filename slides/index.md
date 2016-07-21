@@ -462,6 +462,7 @@ Cause **divisions**, **reveal** hearts
 ---
 
 <!-- .slide: data-background-image="static/bg/Rembrandt-Simeons_Song_of_Praise.jpg" class="nocenter" -->
+## The Sign of Contradiction
 
 <div class="caption">
 ([Rembrandt, Simeon's Song of Praise](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/),
@@ -471,7 +472,6 @@ The Hague.)
 </div>
 
 >>>
-+ The Sign of Contradiction
 + Christmas angels: **peace on earth**, goodwill to men?
   + (Codex Sinaiticus dropped last letter of εὐδοκίας, KJV)
   + ("peace on earth to men of [God's] good will")
@@ -610,15 +610,15 @@ and **turn**, and I would **heal** them.’
 <!-- .slide: data-background-image="static/bg/VanGogh-The_Sower.jpg" -->
 ## Hear but not Understand
 
-+ Parable of Sower
-  + [Matthew 13](https://mobile.biblegateway.com/passage/?search=mt13%3A13-15),
-  [Mark 4](https://mobile.biblegateway.com/passage/?search=mk4%3A11-12),
-  [Luke 8](https://mobile.biblegateway.com/passage/?search=lk8%3A10)
-+ [John 12](https://mobile.biblegateway.com/passage/?search=jn12%3A39-42): Isaiah saw His glory
+Parable of **Sower**:
+[Mt 13](https://mobile.biblegateway.com/passage/?search=mt13%3A13-15),
+[Mk 4](https://mobile.biblegateway.com/passage/?search=mk4%3A11-12),
+[Lk 8](https://mobile.biblegateway.com/passage/?search=lk8%3A10).
+
+[John 12](https://mobile.biblegateway.com/passage/?search=jn12%3A39-42): Isaiah saw His **glory**
 
 <div class="caption">
-([Van Gogh, The Sower](http://krollermuller.nl/en/vincent-van-gogh-the-sower),
-1888. Kröller-Müller Museum)
+([Van Gogh, The Sower](http://krollermuller.nl/en/vincent-van-gogh-the-sower), 1888. Kröller-Müller Museum)
 </div>
 
 >>>
@@ -762,7 +762,7 @@ with all **boldness** and without hindrance!
 National Gallery of Art, Washington DC
 </div>
 
-</div></div>
+</div><div>
 
 ![Praetorian guard](static/img/Praetorian_Guard.jpg)
 <div class="caption">
@@ -841,7 +841,7 @@ to the other a fragrance **from life to life**.
 
 ---
 
-.
+<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 
 ---
 
