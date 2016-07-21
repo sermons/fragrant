@@ -3,7 +3,18 @@
 ## Acts 28:23-31
 
 >>>
-Work in progress!
+Bulletin insert:
+http://fragrant-gospel.seanho.com/
+1. **Persuasion** (v23)
+  + Do I love my **pious countrymen**?
+  + Do I love them enough to **lay out** the gospel clearly to them?
+2. **Partition** (v24-25)
+  + Has the **sword** of Christ's kingship pierced **my own** soul?
+  + Am I willing to let it **divide** my loved ones?
+3. **Promise** (v26-27)
+  + How do I **react** when others take **offense** at the gospel?
+4. **Proclamation** (v28-31)
+  + Do I exude the **fragrance of Christ** in my daily life?
 
 ---
 
@@ -31,11 +42,11 @@ and to the **ends of the earth**
 ## You Will Be My Witnesses
 <div class="imgbox"><div>
 <ol>
-<li> Antioch & Pamphylia <br/>
+<li> Paphos, Pamphylia<br/>
 <span class="hl1">(ch13-14)</span> </li>
-<li> Asia, Greece <br/>
+<li> Philippi, Greece <br/>
 <span class="hl1">(ch15-18:22)</span> </li>
-<li> Galatia, Ephesus <br/>
+<li> Ephesus, Greece <br/>
 <span class="hl1">(18:23-19:19)</span> </li>
 </ol>
 </div><div style="flex:2">
@@ -46,9 +57,8 @@ and to the **ends of the earth**
 </div></div>
 
 >>>
-+ 1st: Christian (Gentile) **base** in Syrian Antioch
-+ 2nd/3rd: coastal Asia + Greece
-  + esp Corinth, Ephesus
++ 1st: closer to Syrian Antioch
++ 2nd: Macedonia (Philippi) and Greece (Corinth)
 + 3rd: **Ephesus**: plan (19:21):
   + -> **Jeru** -> **Rome**
   + not expect in **chains**!
@@ -130,11 +140,11 @@ and taught about the Lord Jesus Christ -- <br/>
 with all boldness and without hindrance!
 
 >>>
-+ "But that was **Paul**, apostle, writer of NT, etc."
-  + "I can't preach gospel like that, I'm not a missionary"
-+ narrative: **exemplary**, not **exhaustive**
-  + Other NT narratives show diff methods
-+ (not: "descriptive, not prescriptive")
++ "But it's **Paul**: apostle, writer of NT, etc."
+  + "I'm not a missionary"
++ narr: **exemplary**, not **exhaustive**
+  + Diff methods elsewhere in NT
++ (not: "descrip, not prescrip")
   + not just a nice **story** that doesn't apply to us!
 
 ---
@@ -146,33 +156,32 @@ and **observe** those who walk <br/>
 according to the **pattern** you have in us.
 
 >>>
-+ But that doesn't mean examples don't matter!
-  + **Totality** of Biblical examples
++ But examples matter!
+  + **Totality** of Biblical ex
   + common threads
   + **pattern** for us to follow
 + Ultimate example is **Christ**
   + (1Cor11:1 follow me as I follow Christ)
-+ [img: father son walking]
 
 ---
 
 <!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
-1. Paul's exposition: **Persuasion**
+1. Paul's heart: **Persuasion**
   <span class="hl1">(v23)</span>
 2. Hearers' response: **Partition**
   <span class="hl1">(v24-25)</span>
 3. Holy Spirit's prophecy: **Promise**
-  <span class="hl1">(v26-28)</span>
+  <span class="hl1">(v26-27)</span>
 4. Paul's lifestyle: **Proclamation**
-  <span class="hl1">(v30-31)</span>
+  <span class="hl1">(v28-31)</span>
 
 >>>
-+ Concentric **circles** starting from v17:
-  + Jewish leaders -> Roman Jews -> Gentiles
-+ Paul **lays out** the gospel of Jesus Messiah
-+ The hearers are **split** in two in their response
-+ Paul **quotes** an OT prophecy via Isaiah
++ **Circles** starting from v17:
+  + leaders -> Jew -> Gentile
++ Paul **lays out** gospel to beloved countrymen
++ Hearers **divided** response
++ Paul **quotes** OT prophecy
 + Paul **continues** for 2yrs in house arrest
 
 ---
@@ -181,20 +190,26 @@ according to the **pattern** you have in us.
 
 ## Paul and the Jews
 
-</div><div>
-![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul-WGA19120.jpg)
++ **Persecution** by Jews: <br/>
+  Acts 13-14, 17-18, 21
++ **Heart** for the Jews: <br/>
+  Romans 9-11
+
 <div class="caption">
 [Rembrandt, Apostle Paul](http://bilddatenbank.khm.at/viewArtefact?id=1514),
 ~1633 (Kunsthistorisches Museum, Vienna)
 </div>
+
+</div><div style="flex:2">
+![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul-WGA19120.jpg)
 </div></div>
 
 >>>
-+ First, some **bg** on Paul's history with the Jews
-+ Jews **persecuted** him all along journeys
++ First, some **context**
++ Jews **persecuted** on journeys
   + Accusers in **Jeru** prob from Asia Minor
-+ So what does **Paul** himself say about the Jews?
-  + Hate? Give up / hopeless?  Avoid?
++ Paul's attitude toward Jews?
+  + Hate? Give up? Avoid?
 + To understand Paul's **heart** for the Jews, cf Rom9-11
 
 ---
@@ -210,7 +225,7 @@ for the sake of **my people**, those of **my own race**, <br/>
 the people of **Israel**. ...
 
 >>>
-+ Not as **enemies** but as **countrymen**!
++ Not **enemies** but **countrymen**!
   + no anti-Semitism here
   + (Crusades, Luther, Nazis)
 + Paul **loved** Israel deeply
@@ -226,28 +241,27 @@ the receiving of the **law**, <br/>
 the temple **worship** and the **promises**.
 
 >>>
-+ **Blessed** by God, **chosen**, had **Word**
-  + Cling to OT **worship** and **promises**
-  + **Hope** expectantly for God's **rescue**
-+ The "**good guys**", not the villains!
-  + **Pious**, moral, desire to be good
++ **Blessed** by God, **chosen** by God, had **Word** of God
+  + OT **worship** + **promises**
+  + **Hope** eagerly for **rescue**
++ "**good guys**", not villains!
+  + **Pious**, moral, desire good
 + Also, Claudius **expelled** Roman Jews for unrest (18:2)
-  + Roman Jews also **sizing up** Paul
-  + Is Paul's **motive** to cause unrest?
-+ Keep context in mind as we re-read today's passage:
+  + they also **size up** Paul
+  + Paul's **motive**: unrest?
 
 ---
 
 <!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
-1. Paul's exposition: **Persuasion**
+1. Paul's heart: **Persuasion**
   <span class="hl1">(v23)</span>
 2. Hearers' response: **Partition**
   <span class="hl1">(v24-25)</span>
 3. Holy Spirit's prophecy: **Promise**
-  <span class="hl1">(v26-28)</span>
+  <span class="hl1">(v26-27)</span>
 4. Paul's lifestyle: **Proclamation**
-  <span class="hl1">(v30-31)</span>
+  <span class="hl1">(v28-31)</span>
 
 >>>
 How did Paul share gospel with his
@@ -262,26 +276,28 @@ and from the Law of Moses and from the Prophets <br/>
 he tried to **persuade** them about **Jesus**.
 
 >>>
-+ NIV ought to have **swapped** first 2 verbs
-+ witness (**lay out**): put forth, exposition
-  + Jews **wanted** to hear his thinking
-  + Get to the **main point** clearly
-+ explaining (martyr): **witness**, testify
++ NIV: **swap** first 2 verbs
++ witness (**lay out**): put forth
+  + **asked** for his thinking
+  + Clear **main point**
++ explaining: **witness**
 
 ---
 
 <!-- .slide: data-background-image="static/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" style="top:0" -->
 ## Witness to the Kingdom of God
 
+<div class="caption">
 ([Nikolas Bodarevsky, "Trial of the Apostle Paul"](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg),
 1875.
 Transcarpathian Regional Art Museum, Ukraine.)
-<!-- .element: class="caption" -->
+</div>
 
 >>>
++ testify, recount, **martyr**
 + from memory, kept in **mind**
-+ **focus** not on witness but on what he saw
-+ not on us but on **God's kingship**
++ **focus**: not on witness, but on what he saw
++ not us, but **God's kingship**
 
 ---
 
@@ -292,12 +308,13 @@ and from the Law of Moses and from the Prophets <br/>
 he tried to **persuade** them about Jesus.
 
 >>>
-+ bear witness to the authority of God
-+ **kingdom of God**: is near (John, Jesus)
++ witness to authority of God
++ **kingdom of God**: is near
+  + John the Baptist, Jesus
 + **persuade** (faith, belief, trust):
   + convince, win over, coax, seduce
-+ wait, "seduce" **doesn't** sound good!
-  + cf (14:19) Jews "**won over**" crowds
++ wait, **doesn't** sound good!
+  + (14:19) Jews "**won over**" crowds
   + in fact...
 
 ---
@@ -327,10 +344,10 @@ Rijksmuseum, Amsterdam.
 >>>
 + **What** is persuasive?
   + My **eloquence** / cleverness / cultural relevance?
-  + Holy **Spirit** and **power** of God
-+ Remember, "persuasive" == "faith"
-  + What does my **faith** rest on?
-  + == what do I find **persuasive**?
+  + Holy **Spirit**, **power** of God
++ "persuasive" == "faith":
+  + My **faith** rests on what?
+  + What do I find **persuasive**?
 + Don't want **disciples** of my personality but of Christ
 
 ---
@@ -342,22 +359,23 @@ and from the **Law of Moses** and from the **Prophets** <br/>
 he tried to *persuade* them about **Jesus**.
 
 >>>
-+ **Jewish audience**: OT bg, hope of Messiah
-  + "taught": at end of passage, to Gentiles
-+ concerning **Jesus**, from Moses/Prophets
-  + Connect up OT **Messiah** with Jesus
-+ Still **contentious** for most Jews today
-  + **fulfill** hope, not attack (:20)
-+ Different approach to those **w/o** OT bg:
++ **Jews**: OT bg, hope Messiah
+  + v31 Gentiles: "taught"
++ **Jesus**: from Moses/Prophets
+  + OT **Messiah** == Jesus
++ Still **contentious** today
+  + v20: **fulfill** hope, !attack
++ Diff for those **w/o** OT bg:
 
 ---
 
 <!-- .slide: data-background-image="static/bg/Raphael-St_Paul_Preaching_Athens.jpg" style="top:0" -->
 ## Paul in Athens
 
+<div class="caption">
 ([Raphael, St. Paul Preaching in Athens](http://www.the-athenaeum.org/art/detail.php?ID=34558),
 tempera cartoon for Sistine Chapel, 1515.)
-<!-- .element: class="caption" -->
+</div>
 
 ---
 
@@ -383,12 +401,12 @@ Therefore **what you worship** in ignorance, <br/>
 
 >>>
 + 89% of US adults believe in "God or a universal spirit"
-  + (but only 63% with certainty)
+  + (63% certain)
 + Thirst for spiritual fulfillment
 + Desire to be pious
-+ But God is unknown, vague, abstract
-  + Fill void with many other pursuits
-+ cf H.S. ahead of us in community
++ But God unknown, vague, abstract
+  + Fill void w/other pursuits
++ H.S. ahead of us in community
 
 ---
 
@@ -408,14 +426,14 @@ Therefore **what you worship** in ignorance, <br/>
 
 <!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
-1. Paul's exposition: **Persuasion**
+1. Paul's heart: **Persuasion**
   <span class="hl1">(v23)</span>
 2. Hearers' response: **Partition**
   <span class="hl1">(v24-25)</span>
 3. Holy Spirit's prophecy: **Promise**
-  <span class="hl1">(v26-28)</span>
+  <span class="hl1">(v26-27)</span>
 4. Paul's lifestyle: **Proclamation**
-  <span class="hl1">(v30-31)</span>
+  <span class="hl1">(v28-31)</span>
 
 >>>
 + When the gospel is **laid out** clearly,
@@ -434,26 +452,31 @@ after Paul had made this final statement:
 when he said through Isaiah the prophet:
 
 >>>
-+ nb not "after" but:
-  + Being a-symphonic toward each other,
-  + they were dispersing, (and as they were leaving,)
-  + Paul speaking one word
-+ cause **divisions**, **reveal** hearts
-+ Christmas angels: **peace on earth**, goodwill to men?
-  + (Codex Sinaiticus dropped last letter of εὐδοκίας, KJV)
-  + ("peace on earth to men of [God's] good will")
-  + shortly after Jesus' birth:
+Not "after" but:
++ Being a-symphonic toward each other,
++ they were dispersing, (and as they were leaving,)
++ Paul speaking one word
+
+Cause **divisions**, **reveal** hearts
 
 ---
 
 <!-- .slide: data-background-image="static/bg/Rembrandt-Simeons_Song_of_Praise.jpg" style="top:0" -->
 ## The Sign of Contradiction
 
+<div class="caption">
 ([Rembrandt, Simeon's Song of Praise](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/),
 1631.
 Royal Picture Gallery Mauritshuis,
 The Hague.)
-<!-- .element: class="caption" -->
+</div>
+
+>>>
++ Christmas angels: **peace on earth**, goodwill to men?
+  + (Codex Sinaiticus dropped last letter of εὐδοκίας, KJV)
+  + ("peace on earth to men of [God's] good will")
++ Jesus presented at **temple**
++ righteous **Simeon** prophesied:
 
 ---
 
@@ -468,16 +491,18 @@ and a **sword** will pierce through your own **soul** also --
 so that **thoughts** from many hearts may be **revealed**.
 
 >>>
-+ The unwavering truth of **God's kingdom**
-  + God is **King**; Jesus **saves** us from our sins
-+ This is **true**, whether one **believes** it or not
++ Unwaver truth: **God's kingdom**
+  + God is **King**
+  + Jesus **saves** from sin
++ **True**, even if **disbelieve**
 + Not a **weapon** I can wield against others:
   + Pierce **own** soul, too
-+ Reveal sin behind **facade** of goodness
++ Reveal sin in **facade** of good
   + CTC: cut the crap
 
 ---
 
+<!-- .slide: data-background-image="static/bg/Niedziella-Soeborg_Sword.jpg" -->
 ## Matthew 10:34,37-38 (NIV)
 Do not suppose that I have come to bring **peace** to the earth. <br/>
 I did not come to bring peace, but a **sword**.
@@ -490,9 +515,16 @@ more than me is not worthy of me.
 Whoever does not take up their **cross** <br/>
 and **follow me** is not worthy of me.
 
+<div class="caption">
+[Albion_Soeborg_Medieval_Sword_16](https://www.flickr.com/photos/albioneurope/8498095661),
+National Museum Copenhagen.
+&copy; Søren Niedziella, CC-BY 2.0.
+</div>
+
 >>>
-+ Cuts through **vagaries** of who is a moral/good/ethical person
-  + Demands 100% response, either **all-in** or **all-out**
++ **Vagaries** of who is a moral/good/ethical person
+  + Demands 100% response
+  + Either **all-in** or **all-out**
 + :39 **lose life** for My sake
 + **True love** for family means:
   + Stand **firm** on God's truth
@@ -520,7 +552,7 @@ And **my unworthiness**.
 </div></div>
 
 >>>
-+ The sword pierces our **own soul**
++ Sword pierces our **own soul**
 + And pierces those who **hear**
 
 ---
@@ -531,9 +563,9 @@ And **my unworthiness**.
 ## Am I willing to let it **divide** my loved ones?
 
 >>>
-+ God's **holiness** ->
-  + my **unworthiness** ->
-  + Christ's **redeeming love** ->
++ God's **holiness**,
+  + my **unworthiness**,
+  + Christ's **redeeming love**,
   + Christ's **kingship**
 + gospel does not allow one to be **ambivalent**
 
@@ -541,18 +573,18 @@ And **my unworthiness**.
 
 <!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
-1. Paul's exposition: **Persuasion**
+1. Paul's heart: **Persuasion**
   <span class="hl1">(v23)</span>
 2. Hearers' response: **Partition**
   <span class="hl1">(v24-25)</span>
 3. Holy Spirit's prophecy: **Promise**
-  <span class="hl1">(v26-28)</span>
+  <span class="hl1">(v26-27)</span>
 4. Paul's lifestyle: **Proclamation**
-  <span class="hl1">(v30-31)</span>
+  <span class="hl1">(v28-31)</span>
 
 >>>
-+ OK, so some won't **welcome** gospel
-+ **Why** is that so?  Whose **fault** is it?
++ So some **reject** gospel
++ **Why**?  Whose **fault** is it?
 
 ---
 
@@ -570,11 +602,29 @@ Otherwise they might **see** with their eyes, <br/>
 and **turn**, and I would **heal** them.’
 
 >>>
-+ Parable of Sower (Mt13, Mk4, Lu8)
-  + Jn12:39-42 Isaiah saw His glory
-+ LXX: "in hearing, you will hear" (dat n + fut ind)
-+ understanding (discern): divide, filter, recog import
-  + perceiving (understand): process, learn from experience
++ Sounds pretty **harsh**?
++ Maybe it's just a **one-off**...
+
+---
+
+<!-- .slide: data-background-image="static/bg/VanGogh-The_Sower.jpg" -->
+## Hear but not Understand
+
++ Parable of Sower
+  + [Matthew 13](https://mobile.biblegateway.com/passage/?search=mt13%3A13-15),
+  [Mark 4](https://mobile.biblegateway.com/passage/?search=mk4%3A11-12),
+  [Luke 8](https://mobile.biblegateway.com/passage/?search=lk8%3A10)
++ [John 12](https://mobile.biblegateway.com/passage/?search=jn12%3A39-42): Isaiah saw His glory
+
+<div class="caption">
+([Van Gogh, The Sower](http://krollermuller.nl/en/vincent-van-gogh-the-sower),
+1888. Kröller-Müller Museum)
+</div>
+
+>>>
++ Nope, **Jesus** himself quotes it
++ John says because saw **glory**
++ Orig quote: calling **Isaiah**:
 
 ---
 
@@ -593,10 +643,16 @@ and **understand** with their hearts, <br/>
 and **turn** and be **healed**.
 
 >>>
-+ Heb: "Hear, to hear" (impr / prophetic fut + inf abs)
-+ fattened -> made heavy -> clouded (LXX: psv)
-  + Heb: "Make fat the heart" (hiphil impr)
-+ see -> hear -> understand -> turn
++ Heb: "**Hear, to hear**"
+  + **impr**/proph-fut + inf abs
++ understanding (**discern**):
+  + divide, filter, recog import
++ perceiving (**understand**):
+  + process, learn experience
++ **fattened** -> heavy -> cloud
+  + "Make-fat the heart" (hiphil impr)
+  + LXX: passive
++ see -> hear -> understand -> **turn**
 
 ---
 
@@ -612,17 +668,15 @@ but the **children of the promise** <br/>
 are counted as offspring.
 
 >>>
-+ if people don't listen,
-  + it's not that gospel has failed
-  + or God is not strong enough to save
++ if people don't **listen**,
+  + not that gospel **failed**
+  + or God is not **strong** enough to save
 
 ---
 
 ## Romans 11:1-2,5 (NIV)
 Did God reject his people? By no means!
 
-I am an Israelite myself, a descendant of Abraham,
-from the tribe of Benjamin.
 God did not reject his people, whom he foreknew.
 
 [...] So too, at the present time
@@ -652,30 +706,30 @@ For God has bound everyone over to **disobedience** <br/>
 so that he may have **mercy** on them all.
 
 >>>
-+ Not: "why doesn't God save them?"
-+ But: "why does God save anybody?"
++ Not: "why **doesn't** God save them?"
++ But: "why **does** God save anybody?"
 
 ---
 
 <!-- .slide: class="Q" data-background="white" -->
-# How do I **react** to those who take **offense** at the gospel?
+# How do I **react** when others take **offense** at the gospel?
 
 >>>
 + Combat?  Frustration?  Resignation?
-+ Heartfelt hope + continued proclamation
++ Heartfelt **hope** + continued **proclamation**
 
 ---
 
 <!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
-1. Paul's exposition: **Persuasion**
+1. Paul's heart: **Persuasion**
   <span class="hl1">(v23)</span>
 2. Hearers' response: **Partition**
   <span class="hl1">(v24-25)</span>
 3. Holy Spirit's prophecy: **Promise**
-  <span class="hl1">(v26-28)</span>
+  <span class="hl1">(v26-27)</span>
 4. Paul's lifestyle: **Proclamation**
-  <span class="hl1">(v30-31)</span>
+  <span class="hl1">(v28-31)</span>
 
 >>>
 + How did Paul **continue** after this **disappointing** response?
@@ -695,6 +749,31 @@ with all **boldness** and without hindrance!
 
 >>>
 + To Gentiles (13:46-47 Pisidian Antioch)
+
+---
+
+## Two Years in Rome
+<div class="imgbox"><div>
+
+![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul.jpg)
+<div class="caption">
+[Rembrandt, The Apostle Paul](http://www.nga.gov/content/ngaweb/Collection/art-object-page.1198.html),
+~1657.
+National Gallery of Art, Washington DC
+</div>
+
+</div></div>
+
+![Praetorian guard](static/img/Praetorian_Guard.jpg)
+<div class="caption">
+[Statue of praetorian soldier](https://commons.wikimedia.org/wiki/File%3APr%C3%A4torianer.jpg),
+near Pozzuoli, 2nd c. AD.
+Pergamon Museum.
+</div>
+
+</div></div>
+
+>>>
 + physical limitations: house arrest, not seen by Caesar
 + 2yrs: to see Nero
   + also 2yrs in Caesarea for Felix
@@ -712,6 +791,7 @@ with all **boldness** and without hindrance!
 
 ---
 
+<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## 2 Corinthians 2:14-16 (ESV)
 
 Thanks be to God, who in Christ
@@ -719,11 +799,11 @@ always leads us in **triumphal procession**,
 and through us spreads the **fragrance**
 of the **knowledge of Him** everywhere.
 
-For we are the **aroma of Christ** to God
-among those who are being **saved**
+For we are the **aroma of Christ** to God <br/>
+among those who are being **saved** <br/>
 and among those who are **perishing**,
 
-to one a fragrance **from death to death**,
+to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
 
 >>>
@@ -749,13 +829,14 @@ to the other a fragrance **from life to life**.
 
 ---
 
+<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## 2 Corinthians 2:15-16 (ESV)
 
-For we are the **aroma of Christ** to God
-among those who are being **saved**
+For we are the **aroma of Christ** to God <br/>
+among those who are being **saved** <br/>
 and among those who are **perishing**,
 
-to one a fragrance **from death to death**,
+to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
 
 ---
@@ -787,14 +868,12 @@ to the other a fragrance **from life to life**.
 
 ---
 
-## Rembrandt, Apostle Paul
-<div class="imgbox"><div>
-![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul.jpg)
+<!-- .slide: data-background-image="static/bg/Panini-Paul_Preaching_Ruins.jpg" -->
+## Panini, Paul Preaching on the Ruins
 <div class="caption">
-[Rembrandt, The Apostle Paul](http://www.nga.gov/content/ngaweb/Collection/art-object-page.1198.html),
-~1657 (National Gallery of Art, Washington DC)
+([Panini, The Apostle Paul Preaching on the Ruins](http://www.arthermitage.org/Giovanni-Panini/Sermon-of-St-Paul-amidst-the-Ruins.html),
+1744. Hermitage Museum, St. Petersburg.)
 </div>
-</div></div>
 
 ---
 
