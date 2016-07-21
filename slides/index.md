@@ -40,9 +40,9 @@ and to the **ends of the earth**
 </ol>
 </div><div style="flex:2">
 ![Cities visited by Paul](static/img/Paul_geography.png)
-<br/><span class="caption">
+<div class="caption">
 [(@Alecmconroy)](https://commons.wikimedia.org/wiki/File%3ABroad_overview_of_geography_relevant_to_paul_of_tarsus.png)
-</span>
+</div>
 </div></div>
 
 >>>
@@ -58,9 +58,9 @@ and to the **ends of the earth**
 ## Paul's Journey to Rome (ch21-28)
 <div class="imgbox"><div>
 ![Paul's journey to Rome](static/img/Paul_Rome_journey.svg)
-<br/><span class="caption">
+<div class="caption">
 [Wikipedia Italiano](https://commons.wikimedia.org/wiki/File%3APaul_the_Apostle%2C_fourth_missionary_journey_%28Rome%29.svg)
-</span>
+</div>
 </div></div>
 
 >>>
@@ -177,7 +177,17 @@ according to the **pattern** you have in us.
 
 ---
 
+<div class="imgbox"><div>
+
 ## Paul and the Jews
+
+</div><div>
+![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul-WGA19120.jpg)
+<div class="caption">
+[Rembrandt, Apostle Paul](http://bilddatenbank.khm.at/viewArtefact?id=1514),
+~1633 (Kunsthistorisches Museum, Vienna)
+</div>
+</div></div>
 
 >>>
 + First, some **bg** on Paul's history with the Jews
@@ -366,9 +376,9 @@ Therefore **what you worship** in ignorance, <br/>
 **this I proclaim** to you."
 </div><div>
 ![89% adults believe in God](static/img/Pew-RLS14-BeliefInGod.png)
-<br/><span class="caption">
+<div class="caption">
 [Pew 2014 Religious Landscape Study](http://www.pewresearch.org/fact-tank/2015/11/04/americans-faith-in-god-may-be-eroding/)
-</span>
+</div>
 </div></div>
 
 >>>
@@ -438,12 +448,12 @@ when he said through Isaiah the prophet:
 
 <!-- .slide: data-background-image="static/bg/Rembrandt-Simeons_Song_of_Praise.jpg" style="top:0" -->
 ## The Sign of Contradiction
-<div class="caption">
+
 ([Rembrandt, Simeon's Song of Praise](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/),
 1631.
 Royal Picture Gallery Mauritshuis,
 The Hague.)
-</div>
+<!-- .element: class="caption" -->
 
 ---
 
@@ -493,10 +503,10 @@ and **follow me** is not worthy of me.
 ## Beneath the Cross of Jesus
 <div class="imgbox"><div>
 ![Elizabeth Clephane](static/img/Clephane.jpg)
-<br/><span class="caption">
+<div class="caption">
 [Elizabeth Clephane](http://www.hymntime.com/tch/htm/b/t/c/btcjesus.htm)
 1868, Scotland
-</span>
+</div>
 </div><div style="flex:3">
 Upon that **cross of Jesus** <br/>
 Mine **eye** at times can see <br/>
@@ -754,24 +764,13 @@ to the other a fragrance **from life to life**.
 
 ---
 
-## Paul in Prison
-<div class="imgbox"><div>
-![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul-WGA19120.jpg)
-<br/><span class="caption">
-[Rembrandt, Apostle Paul](http://bilddatenbank.khm.at/viewArtefact?id=1514),
-~1633 (Kunsthistorisches Museum, Vienna)
-</span>
-</div></div>
-
----
-
 ## Paul Writing Epistles
 <div class="imgbox"><div>
 ![Boulogne, St Paul Writing His Epistles](static/img/Boulogne-Paul_Writing.jpg)
-<br/><span class="caption">
+<div class="caption">
 [Boulogne, St Paul Writing His Epistles](https://collections.mfah.org/art/detail/20223),
 ~1618 (Museum of Fine Arts, Houston)
-</span>
+</div>
 </div></div>
 
 ---
@@ -779,11 +778,11 @@ to the other a fragrance **from life to life**.
 ## Statue of Paul
 <div class="imgbox"><div>
 ![Monnot, St Paul](static/img/Monnot-Paul_in_Lateran.jpg)
-<br/><span class="caption">
+<div class="caption">
 [Pierre-Étienne Monnot, St Paul](https://commons.wikimedia.org/wiki/File%3APaulus_San_Giovanni_in_Laterano_2006-09-07.jpg)
 (Nave of the Basilica of St. John Lateran, Rome).
 &copy; Marie-Lan Nguyen
-</span>
+</div>
 </div></div>
 
 ---
@@ -791,10 +790,10 @@ to the other a fragrance **from life to life**.
 ## Rembrandt, Apostle Paul
 <div class="imgbox"><div>
 ![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul.jpg)
-<br/><span class="caption">
+<div class="caption">
 [Rembrandt, The Apostle Paul](http://www.nga.gov/content/ngaweb/Collection/art-object-page.1198.html),
 ~1657 (National Gallery of Art, Washington DC)
-</span>
+</div>
 </div></div>
 
 ---
