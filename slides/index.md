@@ -19,7 +19,7 @@ http://fragrant-gospel.seanho.com/
 ---
 
 <!-- .slide: class="Q" data-background="white" -->
-## Do I exude the **fragrance of Christ** <br/> in my daily life?
+# Do I exude the **fragrance of Christ** <br/> in my daily life?
 
 ---
 
@@ -190,9 +190,9 @@ according to the **pattern** you have in us.
 
 <h2>Paul and the Jews</h2>
 <ol>
-<li> **Persecution** by Jews: <br/>
-  Acts 13-14, 17-18, 21 </li>
-<li> **Heart** for the Jews: <br/>
+<li> **Persecution**: <br/>
+  Ac 13-14, 17-18, 21 </li>
+<li> **Heart** for Jews: <br/>
   Romans 9-11 </li>
 </ol>
 
@@ -289,8 +289,7 @@ he tried to **persuade** them about **Jesus**.
 <!-- .slide: data-background-image="static/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" class="nocenter" -->
 
 <div class="caption">
-([Nikolas Bodarevsky, "Trial of the Apostle Paul"](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg),
-1875.
+([Nikolas Bodarevsky, "Trial of the Apostle Paul"](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg), 1875.
 Transcarpathian Regional Art Museum, Ukraine.)
 </div>
 
@@ -337,8 +336,7 @@ but on the **power of God**.
 </div><div>
 ![Dujardin, St Paul Healing the Cripple at Lystra](static/img/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
 <div class="caption">
-[Karel Dujardin, St Paul Healing the Cripple at Lystra](https://www.rijksmuseum.nl/en/collection/SK-A-4922),
-1663.
+[Karel Dujardin, St Paul Healing the Cripple at Lystra](https://www.rijksmuseum.nl/en/collection/SK-A-4922), 1663.
 Rijksmuseum, Amsterdam.
 </div></div>
 
@@ -465,8 +463,7 @@ Cause **divisions**, **reveal** hearts
 ## The Sign of Contradiction
 
 <div class="caption">
-([Rembrandt, Simeon's Song of Praise](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/),
-1631.
+([Rembrandt, Simeon's Song of Praise](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/), 1631.
 Royal Picture Gallery Mauritshuis,
 The Hague.)
 </div>
@@ -536,8 +533,7 @@ National Museum Copenhagen.
 <div class="imgbox"><div>
 ![Elizabeth Clephane](static/img/Clephane.jpg)
 <div class="caption">
-[Elizabeth Clephane](http://www.hymntime.com/tch/htm/b/t/c/btcjesus.htm)
-1868, Scotland
+[Elizabeth Clephane](http://www.hymntime.com/tch/htm/b/t/c/btcjesus.htm) 1868, Scotland
 </div>
 </div><div style="flex:3">
 Upon that **cross of Jesus** <br/>
@@ -675,12 +671,14 @@ are counted as offspring.
 ---
 
 ## Romans 11:1-2,5 (NIV)
-Did God reject his people? By no means!
+Did God **reject** his people? By no means!
 
+[...] <br/>
 God did not reject his people, whom he foreknew.
 
-[...] So too, at the present time
-there is a remnant chosen by grace.
+[...] <br/>
+So too, at the present time <br/>
+there is a **remnant** chosen by grace.
 
 >>>
 + Rock of stumbling: 1Pet2, Rom9/10, Is28:16
@@ -752,7 +750,6 @@ with all **boldness** and without hindrance!
 
 ---
 
-## Two Years in Rome
 <div class="imgbox"><div>
 
 ![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul.jpg)
@@ -763,7 +760,6 @@ National Gallery of Art, Washington DC
 </div>
 
 </div><div>
-
 ![Praetorian guard](static/img/Praetorian_Guard.jpg)
 <div class="caption">
 [Statue of praetorian soldier](https://commons.wikimedia.org/wiki/File%3APr%C3%A4torianer.jpg),
@@ -816,7 +812,7 @@ to the other a fragrance **from life to life**.
 ---
 
 <!-- .slide: class="Q" data-background="white" -->
-## Do I exude the **fragrance of Christ** <br/> in my daily life?
+# Do I exude the **fragrance of Christ** <br/> in my daily life?
 
 >>>
 + doesn't mean being a **nice guy**, moral, charity!
@@ -841,7 +837,7 @@ to the other a fragrance **from life to life**.
 
 ---
 
-<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" class="empty" -->
 
 ---
 
@@ -871,8 +867,7 @@ to the other a fragrance **from life to life**.
 <!-- .slide: data-background-image="static/bg/Panini-Paul_Preaching_Ruins.jpg" -->
 ## Panini, Paul Preaching on the Ruins
 <div class="caption">
-([Panini, The Apostle Paul Preaching on the Ruins](http://www.arthermitage.org/Giovanni-Panini/Sermon-of-St-Paul-amidst-the-Ruins.html),
-1744. Hermitage Museum, St. Petersburg.)
+([Panini, The Apostle Paul Preaching on the Ruins](http://www.arthermitage.org/Giovanni-Panini/Sermon-of-St-Paul-amidst-the-Ruins.html), 1744. Hermitage Museum, St. Petersburg.)
 </div>
 
 ---
