@@ -19,7 +19,7 @@ http://fragrant-gospel.seanho.com/
 ---
 
 <!-- .slide: class="Q" data-background="white" -->
-# Do I exude the **fragrance of Christ** <br/> in my daily life?
+# How do I **react** when others take **offense** at the gospel?
 
 ---
 
