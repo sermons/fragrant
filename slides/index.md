@@ -750,6 +750,26 @@ with all **boldness** and without hindrance!
 
 ---
 
+## Paul After Trial
+<div class="imgbox"><div>
+
++ 2yrs: to see Nero
+  + also 2yrs in Caesarea for Felix
+  + prob acquitted at first trial (2Tim4)
+  + possibly then travelled to Spain
+  + beheaded in Rome under Nero (Eusebius)
+
+</div><div>
+![Monnot, St Paul](static/img/Monnot-Paul_in_Lateran.jpg)
+<div class="caption">
+[Pierre-Étienne Monnot, St Paul](https://commons.wikimedia.org/wiki/File%3APaulus_San_Giovanni_in_Laterano_2006-09-07.jpg)
+(Nave of the Basilica of St. John Lateran, Rome).
+&copy; Marie-Lan Nguyen
+</div>
+</div></div>
+
+---
+
 <div class="imgbox"><div>
 
 ![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul.jpg)
@@ -771,11 +791,7 @@ Pergamon Museum.
 
 >>>
 + physical limitations: house arrest, not seen by Caesar
-+ 2yrs: to see Nero
-  + also 2yrs in Caesarea for Felix
-  + prob acquitted at first trial (2Tim4)
-  + possibly then travelled to Spain
-  + beheaded in Rome under Nero (Eusebius)
+
 + stayed + welcomed:
   + own rent: tentmaking, 2Co8-9
 + proclaimed (preach): kingdom of God
@@ -847,18 +863,6 @@ to the other a fragrance **from life to life**.
 <div class="caption">
 [Boulogne, St Paul Writing His Epistles](https://collections.mfah.org/art/detail/20223),
 ~1618 (Museum of Fine Arts, Houston)
-</div>
-</div></div>
-
----
-
-## Statue of Paul
-<div class="imgbox"><div>
-![Monnot, St Paul](static/img/Monnot-Paul_in_Lateran.jpg)
-<div class="caption">
-[Pierre-Étienne Monnot, St Paul](https://commons.wikimedia.org/wiki/File%3APaulus_San_Giovanni_in_Laterano_2006-09-07.jpg)
-(Nave of the Basilica of St. John Lateran, Rome).
-&copy; Marie-Lan Nguyen
 </div>
 </div></div>
 
