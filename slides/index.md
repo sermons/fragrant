@@ -19,7 +19,7 @@ http://fragrant-gospel.seanho.com/
 ---
 
 <!-- .slide: class="Q" data-background="white" -->
-## Do I exude the **fragrance of Christ** in my daily life?
+## Do I exude the **fragrance of Christ** <br/> in my daily life?
 
 ---
 
@@ -188,13 +188,15 @@ according to the **pattern** you have in us.
 
 <div class="imgbox"><div>
 
-## Paul and the Jews
+<h2>Paul and the Jews</h2>
+<ol>
+<li> **Persecution** by Jews: <br/>
+  Acts 13-14, 17-18, 21 </li>
+<li> **Heart** for the Jews: <br/>
+  Romans 9-11 </li>
+</ol>
 
-+ **Persecution** by Jews: <br/>
-  Acts 13-14, 17-18, 21
-+ **Heart** for the Jews: <br/>
-  Romans 9-11
-
+<p></p>
 <div class="caption">
 [Rembrandt, Apostle Paul](http://bilddatenbank.khm.at/viewArtefact?id=1514),
 ~1633 (Kunsthistorisches Museum, Vienna)
@@ -284,8 +286,7 @@ he tried to **persuade** them about **Jesus**.
 
 ---
 
-<!-- .slide: data-background-image="static/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" style="top:0" -->
-## Witness to the Kingdom of God
+<!-- .slide: data-background-image="static/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" class="nocenter" -->
 
 <div class="caption">
 ([Nikolas Bodarevsky, "Trial of the Apostle Paul"](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg),
@@ -369,8 +370,7 @@ he tried to *persuade* them about **Jesus**.
 
 ---
 
-<!-- .slide: data-background-image="static/bg/Raphael-St_Paul_Preaching_Athens.jpg" style="top:0" -->
-## Paul in Athens
+<!-- .slide: data-background-image="static/bg/Raphael-St_Paul_Preaching_Athens.jpg" class="nocenter" -->
 
 <div class="caption">
 ([Raphael, St. Paul Preaching in Athens](http://www.the-athenaeum.org/art/detail.php?ID=34558),
@@ -461,8 +461,7 @@ Cause **divisions**, **reveal** hearts
 
 ---
 
-<!-- .slide: data-background-image="static/bg/Rembrandt-Simeons_Song_of_Praise.jpg" style="top:0" -->
-## The Sign of Contradiction
+<!-- .slide: data-background-image="static/bg/Rembrandt-Simeons_Song_of_Praise.jpg" class="nocenter" -->
 
 <div class="caption">
 ([Rembrandt, Simeon's Song of Praise](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/),
@@ -472,6 +471,7 @@ The Hague.)
 </div>
 
 >>>
++ The Sign of Contradiction
 + Christmas angels: **peace on earth**, goodwill to men?
   + (Codex Sinaiticus dropped last letter of εὐδοκίας, KJV)
   + ("peace on earth to men of [God's] good will")
@@ -816,7 +816,7 @@ to the other a fragrance **from life to life**.
 ---
 
 <!-- .slide: class="Q" data-background="white" -->
-## Do I exude the **fragrance of Christ** in my daily life?
+## Do I exude the **fragrance of Christ** <br/> in my daily life?
 
 >>>
 + doesn't mean being a **nice guy**, moral, charity!

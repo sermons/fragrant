@@ -59,6 +59,9 @@ section.empty[data-background-image] {
   width: 30%;
   border-bottom: 1px solid;
 }
+.reveal section.nocenter {
+  top: 0 !important;
+}
 
 /* Flexbox layout for images */
 .imgbox {
