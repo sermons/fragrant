@@ -183,10 +183,10 @@ according to the **pattern** you have in us.
 
 ---
 <div class="imgbox"><div>
-
-## Paul and the Jews
-+ **Persecution**: <br/> Acts 13-14, 17-18, 21
-+ **Heart** for Jews: <br/> Romans 9-11
+<h2>Paul and the Jews</h2><ul>
+<li> **Persecution**: <br/> Acts 13-14, 17-18, 21 </li>
+<li> **Heart** for Jews: <br/> Romans 9-11 </li>
+</ul>
 
 <div class="caption">
 [Rembrandt, Apostle Paul](http://bilddatenbank.khm.at/viewArtefact?id=1514),
@@ -361,8 +361,9 @@ he tried to *persuade* them about **Jesus**.
 ---
 <!-- .slide: data-background-image="static/bg/Raphael-St_Paul_Preaching_Athens.jpg" class="nocenter empty" -->
 
+<div class="caption" >
 [Raphael, St. Paul Preaching in Athens](http://www.the-athenaeum.org/art/detail.php?ID=34558), tempera cartoon for Sistine Chapel, 1515.
-<!-- .element: class="caption" -->
+</div>
 
 >>>
 + Diff approach in **Athens**:
@@ -456,11 +457,11 @@ Cause **divisions**, **reveal** hearts
 ---
 <!-- .slide: data-background-image="static/bg/Rembrandt-Simeons_Song_of_Praise.jpg" class="nocenter" -->
 ## The Sign of Contradiction
-<div class="caption">
+<p class="caption">
 ([Rembrandt, Simeon's Song of Praise](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/), 1631.
 Royal Picture Gallery Mauritshuis,
 The Hague.)
-</div>
+</p>
 >>>
 + Christmas angels: **peace on earth**, goodwill to men?
   + (Codex Sinaiticus dropped last letter of εὐδοκίας, KJV)
