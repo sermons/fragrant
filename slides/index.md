@@ -528,7 +528,7 @@ National Museum Copenhagen.
 more than me is not worthy of me.
 
 <div class="caption">
-[Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/)
+img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/)
 </div>
 
 >>>
@@ -571,7 +571,7 @@ And **my unworthiness**.
 <!-- .slide: class="Q" data-background="white" -->
 ## Has the **sword** of Christ's kingship pierced **my own** soul?
 
-## Am I willing to let it **divide** my loved ones?
+## Am I willing to let it <br/> **divide** my loved ones?
 
 >>>
 + God's **holiness**,
@@ -638,6 +638,7 @@ Parable of **Sower**:
 
 ---
 
+<!-- .slide: data-background-image="static/bg/TobiasD-eye.jpg" -->
 ## Isaiah 6:9-10 (ESV)
 Go, and say to this people:
 
