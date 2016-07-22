@@ -653,6 +653,10 @@ and **hear** with their ears, <br/>
 and **understand** with their hearts, <br/>
 and **turn** and be **healed**.
 
+<div class="caption"> (img:
+[TobiasD](https://pixabay.com/en/eye-human-face-vision-look-person-321961/)
+</div>
+
 >>>
 + Heb: "**Hear, to hear**"
   + **impr**/proph-fut + inf abs
