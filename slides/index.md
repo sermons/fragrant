@@ -63,11 +63,9 @@ and to the **ends of the earth**
 </div></div>
 
 >>>
-1. close to Syrian Antioch
-2. Macedonia (Philippi) and Greece (Corinth)
-3. **Ephesus**: plan (19:21):
-  + -> **Jeru** -> **Rome**
-  + not expect in **chains**!
+In **Ephesus** had plan (19:21):
++ -> **Jeru** -> **Rome**
++ not expect in **chains**!
 
 ---
 
@@ -102,8 +100,7 @@ and from the Law of Moses and from the Prophets <br/>
 he tried to persuade them about Jesus. ...
 
 >>>
-+ Now we come to today's passage.
-+ Let's read it together, 4 slides.
+Let's read together, 4 slides.
 
 ---
 
@@ -300,6 +297,7 @@ Transcarpathian Regional Art Museum, Ukraine.)
 </div>
 
 >>>
++ Paul to Herod Agrippa II
 + testify, recount, **martyr**
 + from memory, kept in **mind**
 + **focus**: not on witness, but on what he saw
@@ -787,7 +785,7 @@ with all **boldness** and without hindrance!
 
 ---
 
-## Paul After Trial
+## Paul After Acts
 <div class="imgbox"><div>
 <ul>
 <li> 2 years to see **Nero**
@@ -795,15 +793,16 @@ with all **boldness** and without hindrance!
 [(2Tim4)](https://mobile.biblegateway.com/passage/?search=2Tim4.16)
 <li> Possible preaching in **Spain**
 [(Rom15)](https://mobile.biblegateway.com/passage/?search=Rom15.24-28)
-<li> **Beheaded** in Rome under Nero
+<li> **Beheaded** in Rome under Nero (acc. Eusebius)
 </ul>
-</div><div>
-![Monnot, St Paul](static/img/Monnot-Paul_in_Lateran.jpg)
+
 <div class="caption">
 [Pierre-Étienne Monnot, St Paul](https://commons.wikimedia.org/wiki/File%3APaulus_San_Giovanni_in_Laterano_2006-09-07.jpg)
 (Nave of the Basilica of St. John Lateran, Rome).
 &copy; Marie-Lan Nguyen
 </div>
+</div><div>
+![Monnot, St Paul](static/img/Monnot-Paul_in_Lateran.jpg)
 </div></div>
 
 >>>
@@ -831,16 +830,12 @@ with all **boldness** and without **hindrance**.
 <div class="imgbox"><div>
 ![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul.jpg)
 <div class="caption">
-[Rembrandt, The Apostle Paul](http://www.nga.gov/content/ngaweb/Collection/art-object-page.1198.html),
-~1657.
-National Gallery of Art, Washington DC
+[Rembrandt, The Apostle Paul](http://www.nga.gov/content/ngaweb/Collection/art-object-page.1198.html), ~1657.  National Gallery of Art, Washington DC
 </div>
 </div><div>
 ![Praetorian guard](static/img/Praetorian_Guard.jpg)
 <div class="caption">
-[Statue of praetorian soldier](https://commons.wikimedia.org/wiki/File%3APr%C3%A4torianer.jpg),
-near Pozzuoli, 2nd c. AD.
-Pergamon Museum.
+[Statue of praetorian soldier](https://commons.wikimedia.org/wiki/File%3APr%C3%A4torianer.jpg), near Pozzuoli, 2nd c. AD.  Pergamon Museum.
 </div>
 </div></div>
 
