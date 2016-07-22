@@ -17,7 +17,6 @@ http://fragrant-gospel.seanho.com/
   + Do I exude the **fragrance of Christ** in my daily life?
 
 ---
-
 <!-- .slide: class="Q" data-background="white" -->
 # How do I **react** when others take **offense** at the gospel?
 
@@ -44,17 +43,13 @@ and to the **ends of the earth**
 + Half of Acts: "**ends of earth**"
 
 ---
-
 ## You Will Be My Witnesses
 <div class="imgbox"><div>
-<ol>
-<li> Paphos, Pamphylia<br/>
-<span class="hl1">(ch13-14)</span> </li>
-<li> Philippi, Greece <br/>
-<span class="hl1">(ch15-18:22)</span> </li>
-<li> Ephesus, Greece <br/>
-<span class="hl1">(18:23-19:19)</span> </li>
-</ol>
+
+1. Paphos, Pamphylia<br/> <span class="hl1">(ch13-14)</span>
+2. Philippi, Greece <br/> <span class="hl1">(ch15-18:22)</span>
+3. Ephesus, Greece <br/> <span class="hl1">(18:23-19:19)</span>
+
 </div><div style="flex:2">
 ![Cities visited by Paul](static/img/Paul_geography.png)
 <div class="caption">
@@ -68,7 +63,6 @@ In **Ephesus** had plan (19:21):
 + not expect in **chains**!
 
 ---
-
 ## Paul's Journey to Rome (ch21-28)
 <div class="imgbox"><div>
 ![Paul's journey to Rome](static/img/Paul_Rome_journey.svg)
@@ -76,8 +70,8 @@ In **Ephesus** had plan (19:21):
 [Wikipedia Italiano](https://commons.wikimedia.org/wiki/File%3APaul_the_Apostle%2C_fourth_missionary_journey_%28Rome%29.svg)
 </div>
 </div></div>
-
 >>>
+
 + Jeru: accused **defile** temple
   + God: Jeru + **Rome** (23:11)
 + **Caesarea**: stuck 2yrs (24:27)
@@ -188,18 +182,12 @@ according to the **pattern** you have in us.
 + Paul **continues** for 2yrs in house arrest
 
 ---
-
 <div class="imgbox"><div>
 
-<h2>Paul and the Jews</h2>
-<ol>
-<li> **Persecution**: <br/>
-  Acts 13-14, 17-18, 21 </li>
-<li> **Heart** for Jews: <br/>
-  Romans 9-11 </li>
-</ol>
+## Paul and the Jews
++ **Persecution**: <br/> Acts 13-14, 17-18, 21
++ **Heart** for Jews: <br/> Romans 9-11
 
-<p></p>
 <div class="caption">
 [Rembrandt, Apostle Paul](http://bilddatenbank.khm.at/viewArtefact?id=1514),
 ~1633 (Kunsthistorisches Museum, Vienna)
@@ -290,8 +278,8 @@ he tried to **persuade** them about **Jesus**.
 ---
 <!-- .slide: data-background-image="static/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" class="nocenter empty" -->
 <div class="caption">
-([Nikolas Bodarevsky, "Trial of the Apostle Paul"](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg), 1875.
-Transcarpathian Regional Art Museum, Ukraine.)
+[Nikolas Bodarevsky, "Trial of the Apostle Paul"](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg), 1875.
+Transcarpathian Regional Art Museum, Ukraine.
 </div>
 
 >>>
@@ -323,7 +311,6 @@ he tried to **persuade** them about Jesus.
 ---
 
 ## 1 Corinthians 2:4-5 (NASB)
-
 <div class="imgbox"><div style="flex:2">
 
 My **message** and my **preaching**
@@ -373,10 +360,9 @@ he tried to *persuade* them about **Jesus**.
 
 ---
 <!-- .slide: data-background-image="static/bg/Raphael-St_Paul_Preaching_Athens.jpg" class="nocenter empty" -->
-<div class="caption">
-([Raphael, St. Paul Preaching in Athens](http://www.the-athenaeum.org/art/detail.php?ID=34558),
-tempera cartoon for Sistine Chapel, 1515.)
-</div>
+
+[Raphael, St. Paul Preaching in Athens](http://www.the-athenaeum.org/art/detail.php?ID=34558), tempera cartoon for Sistine Chapel, 1515.
+<!-- .element: class="caption" -->
 
 >>>
 + Diff approach in **Athens**:
