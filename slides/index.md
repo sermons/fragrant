@@ -288,9 +288,7 @@ he tried to **persuade** them about **Jesus**.
 + explaining: **witness**
 
 ---
-
-<!-- .slide: data-background-image="static/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" class="nocenter" -->
-
+<!-- .slide: data-background-image="static/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" class="nocenter empty" -->
 <div class="caption">
 ([Nikolas Bodarevsky, "Trial of the Apostle Paul"](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg), 1875.
 Transcarpathian Regional Art Museum, Ukraine.)
@@ -373,9 +371,7 @@ he tried to *persuade* them about **Jesus**.
   + general to **pious countrymen**
 
 ---
-
 <!-- .slide: data-background-image="static/bg/Raphael-St_Paul_Preaching_Athens.jpg" class="nocenter empty" -->
-
 <div class="caption">
 ([Raphael, St. Paul Preaching in Athens](http://www.the-athenaeum.org/art/detail.php?ID=34558),
 tempera cartoon for Sistine Chapel, 1515.)
@@ -471,10 +467,8 @@ Not "after" but:
 Cause **divisions**, **reveal** hearts
 
 ---
-
 <!-- .slide: data-background-image="static/bg/Rembrandt-Simeons_Song_of_Praise.jpg" class="nocenter" -->
 ## The Sign of Contradiction
-
 <div class="caption">
 ([Rembrandt, Simeon's Song of Praise](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/), 1631.
 Royal Picture Gallery Mauritshuis,

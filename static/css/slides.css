@@ -16,6 +16,9 @@ section[data-background-image] {
 section.empty[data-background-image] {
   background-color: rgba(0,0,0,0);
 }
+section.empty[data-background-image] {
+  text-shadow: black 2px 2px 3px;
+}
 
 /* Highlighted Text */
 .reveal section strong {
