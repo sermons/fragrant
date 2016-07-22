@@ -369,10 +369,12 @@ he tried to *persuade* them about **Jesus**.
   + OT **Messiah** == Jesus
 + Still **contentious** today
   + v20: **fulfill** hope, !attack
++ Specific to Jews/Israel, but
+  + general to **pious countrymen**
 
 ---
 
-<!-- .slide: data-background-image="static/bg/Raphael-St_Paul_Preaching_Athens.jpg" class="nocenter" -->
+<!-- .slide: data-background-image="static/bg/Raphael-St_Paul_Preaching_Athens.jpg" class="nocenter empty" -->
 
 <div class="caption">
 ([Raphael, St. Paul Preaching in Athens](http://www.the-athenaeum.org/art/detail.php?ID=34558),
@@ -425,6 +427,8 @@ Therefore **what you worship** in ignorance, <br/>
 >>>
 + **pious**: want to be good/moral/ethical
 + **countrymen**: CN, TW, HK, US
+  + common **background**
+  + also neighbor, fellow soccer parents
 + **testify** to God's kingship, ultimate authority
 + The **persuasion** comes from HS and the power of God
   + gauged appropriately to audience's bg
@@ -532,6 +536,10 @@ National Museum Copenhagen.
   + Demands 100% response
   + Either **all-in** or **all-out**
 + :39 **lose life** for My sake
++ after kid, I'm #2
+  + tyranny of **urgent**, sandwich gen
+  + family **visible** + demanding
+  + Christ **invisible** + gracious
 + **True love** for family means:
   + Stand **firm** on God's truth
   + Don't make **excuses** for their sin
@@ -672,24 +680,47 @@ but the **children of the promise** <br/>
 are counted as offspring.
 
 >>>
++ Written in Corinth only **2yrs** prior
 + if people don't **listen**,
   + not that gospel **failed**
   + or God is not **strong** enough to save
 
 ---
 
-## Romans 11:1-2,5 (NIV)
+## Romans 11:1-2 (NIV)
 Did God **reject** his people? By no means!
 
-[...] <br/>
+I am an Israelite myself,
+a descendant of Abraham, from the tribe of Benjamin.
 God did not reject his people, whom he foreknew.
-
-[...] <br/>
-So too, at the present time <br/>
-there is a **remnant** chosen by grace.
 
 >>>
 + Rock of stumbling: 1Pet2, Rom9/10, Is28:16
+
+---
+
+## Romans 11:21-22 (NIV)
+So do not become **proud**, but **fear**.
+
+For if God did not **spare** the natural branches,
+neither will he spare you.
+
+Note then the **kindness** and the **severity** of God:
+severity toward those who have **fallen**,
+but God's kindness to **you**,
+provided you **continue** in his kindness.
+
+>>>
+
+---
+
+## Romans 11:32 (NIV)
+For God has bound everyone over to **disobedience** <br/>
+so that he may have **mercy** on them all.
+
+>>>
++ Not: "why **doesn't** God save them?"
++ But: "why **does** God save anybody?"
 
 ---
 
@@ -713,27 +744,19 @@ so the **holy seed** will be the stump in the land.”
 
 ---
 
-## Romans 11:21-22 (NIV)
-Do not be **arrogant**, but tremble. <br/>
-For if God did not spare the **natural branches**, <br/>
-he will not spare **you** either.
-
-Consider therefore the **kindness** and **sternness** of God: <br/>
-sternness to those who **fell**, <br/>
-but kindness to **you**, <br/>
-provided that you **continue** in his kindness.
-
-Otherwise, you also will be **cut off**.
-
----
-
-## Romans 11:32 (NIV)
-For God has bound everyone over to **disobedience** <br/>
-so that he may have **mercy** on them all.
+## Romans 11:5 (NIV)
+So too, at the present time <br/>
+there is a **remnant** chosen by grace.
 
 >>>
-+ Not: "why **doesn't** God save them?"
-+ But: "why **does** God save anybody?"
+Dressing JJ for **bed**:
++ trying to **help**; he refuses it
++ me: fine, **give up**, dress yourself
++ JJ: then I take off everything
++ => can't force **change of heart**
+  + that's **Holy Spirit's** job
++ but never give up on **own child**
+  + and **continue** to proclaim
 
 ---
 

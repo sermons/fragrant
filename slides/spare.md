@@ -28,6 +28,10 @@ But **sin**, seizing the **opportunity** <br/>
 afforded by the commandment, <br/>
 produced in me every kind of coveting.
 
+>>>
++ "Don't eat ice cream, it's bad for you"
++ -> think about ice cream, want it
+
 ---
 
 ## Romans 7:13 (NIV) (p2/2)
