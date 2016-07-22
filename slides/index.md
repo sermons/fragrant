@@ -341,6 +341,7 @@ but on the **power of God**.
 <div class="caption">
 [Karel Dujardin, St Paul Healing the Cripple at Lystra](https://www.rijksmuseum.nl/en/collection/SK-A-4922), 1663.
 Rijksmuseum, Amsterdam.
+</div>
 </div></div>
 
 >>>
@@ -474,7 +475,6 @@ Cause **divisions**, **reveal** hearts
 Royal Picture Gallery Mauritshuis,
 The Hague.)
 </div>
-
 >>>
 + Christmas angels: **peace on earth**, goodwill to men?
   + (Codex Sinaiticus dropped last letter of εὐδοκίας, KJV)
@@ -507,17 +507,20 @@ so that **thoughts** from many hearts may be **revealed**.
 ---
 
 <!-- .slide: data-background-image="static/bg/Niedziella-Soeborg_Sword.jpg" -->
-## Matthew 10:34,37-38 (NIV)
+## Matthew 10:34,37 (NIV)
 Do not suppose that I have come to bring **peace** to the earth. <br/>
 I did not come to bring peace, but a **sword**.
 
-[...] Anyone who loves their **father or mother** <br/>
+[...]<br/>
+Anyone who loves their **father or mother** <br/>
 more than me is not worthy of me; <br/>
 anyone who loves their **son or daughter** <br/>
 more than me is not worthy of me.
 
+<!--
 Whoever does not take up their **cross** <br/>
 and **follow me** is not worthy of me.
+-->
 
 <div class="caption">
 [Albion_Soeborg_Medieval_Sword_16](https://www.flickr.com/photos/albioneurope/8498095661),
@@ -529,9 +532,23 @@ National Museum Copenhagen.
 + **Vagaries** of who is a moral/good/ethical person
   + Demands 100% response
   + Either **all-in** or **all-out**
++ :38 take up **cross** + follow
 + :39 **lose life** for My sake
+
+---
+<!-- .slide: data-background-image="static/bg/bryandilts-grandfather.jpg" -->
+... anyone who loves their **son or daughter** <br/>
+more than me is not worthy of me.
+
+<div class="caption">
+[Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/)
+</div>
+
+>>>
 + after kid, I'm #2
-  + tyranny of **urgent**, sandwich gen
+  + love **wife** > love kid?
+  + love **Christ** > than love wife?
++ tyranny of **urgent**, sandwich gen
   + family **visible** + demanding
   + Christ **invisible** + gracious
 + **True love** for family means:
@@ -663,15 +680,19 @@ and **turn** and be **healed**.
 ---
 
 ## Romans 9:6 (ESV)
-But it is not as though the word of God has **failed**.
+But it is not as though <br/>
+the word of God has **failed**.
 
-For not all who are **descended** from Israel <br/>
-**belong** to Israel, [...]
+For not all who are <br/>
+**descended** from Israel <br/>
+**belong** to Israel,
 
+<!--
 It is not the children of the **flesh** <br/>
 who are the children of God, <br/>
 but the **children of the promise** <br/>
 are counted as offspring.
+-->
 
 >>>
 + Written in Corinth only **2yrs** prior
@@ -738,9 +759,18 @@ so the **holy seed** will be the stump in the land.”
 
 ---
 
+<!-- .slide: data-background-image="static/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
 ## Romans 11:5 (NIV)
 So too, at the present time <br/>
 there is a **remnant** chosen by grace.
+
+---
+<!-- .slide: data-background-image="static/bg/bethanypetrik-crying_child.jpg" -->
+[change of heart]
+
+<div class="caption">
+&copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/7978577868/), CC BY-NC-ND 2.0
+</div>
 
 >>>
 Dressing JJ for **bed**:
