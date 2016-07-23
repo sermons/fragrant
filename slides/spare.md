@@ -41,3 +41,52 @@ so that through the commandment
 
 **sin** might become **utterly sinful**.
 
+---
+
+## Romans 9:6 (ESV)
+But it is not as though <br/>
+the word of God has **failed**.
+
+For not all who are <br/>
+**descended** from Israel <br/>
+**belong** to Israel,
+
+<!--
+It is not the children of the **flesh** <br/>
+who are the children of God, <br/>
+but the **children of the promise** <br/>
+are counted as offspring.
+-->
+
+>>>
++ if people don't **listen**,
+  + not that gospel **failed**
+  + or God is not **strong** enough to save
+
+---
+
+## Romans 11:1-2 (NIV)
+Did God **reject** his people? By no means!
+
+I am an Israelite myself,
+a descendant of Abraham, from the tribe of Benjamin.
+God did not reject his people, whom he foreknew.
+
+>>>
++ Rock of stumbling: 1Pet2, Rom9/10, Is28:16
+
+---
+
+## Romans 11:21-22 (NIV)
+So do not become **proud**, but **fear**.
+
+For if God did not **spare** the natural branches,
+neither will he spare you.
+
+Note then the **kindness** and the **severity** of God:
+severity toward those who have **fallen**,
+but God's kindness to **you**,
+provided you **continue** in his kindness.
+
+>>>
+

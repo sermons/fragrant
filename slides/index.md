@@ -189,7 +189,7 @@ according to the **pattern** you have in us.
 </ul>
 
 <div class="caption">
-[Rembrandt, Apostle Paul](http://bilddatenbank.khm.at/viewArtefact?id=1514),
+[Rembrandt, "Apostle Paul"](http://bilddatenbank.khm.at/viewArtefact?id=1514),
 ~1633 (Kunsthistorisches Museum, Vienna)
 </div>
 
@@ -218,6 +218,7 @@ for the sake of **my people**, those of **my own race**, <br/>
 the people of **Israel**. ...
 
 >>>
++ Written in Corinth only **2yrs** prior
 + Not **enemies** but **countrymen**!
   + no anti-Semitism here
   + (Crusades, Luther, Nazis)
@@ -237,6 +238,7 @@ the temple **worship** and the **promises**.
 + **Blessed** by God, **chosen** by God, had **Word** of God
   + OT **worship** + **promises**
   + **Hope** eagerly for **rescue**
++ Specific to Jews, but generalize
 + "**good guys**", not villains!
   + **Pious**, moral, desire good
 + Also, Claudius **expelled** Roman Jews for unrest (18:2)
@@ -264,11 +266,12 @@ How did Paul share gospel with his
 
 ## 1. Persuasion: v23 (NIV)
 He **witnessed** to them from morning till evening, <br/>
-**explaining** about the **kingdom of God**, <br/>
+**explaining** about the kingdom of God, <br/>
 and from the Law of Moses and from the Prophets <br/>
-he tried to **persuade** them about **Jesus**.
+he tried to **persuade** them about Jesus.
 
 >>>
++ Read together
 + NIV: **swap** first 2 verbs
 + witness (**lay out**): put forth
   + **asked** for his thinking
@@ -326,17 +329,17 @@ but on the **power of God**.
 </div><div>
 ![Dujardin, St Paul Healing the Cripple at Lystra](static/img/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
 <div class="caption">
-[Karel Dujardin, St Paul Healing the Cripple at Lystra](https://www.rijksmuseum.nl/en/collection/SK-A-4922), 1663.
+[Karel Dujardin, "St Paul Healing the Cripple at Lystra"](https://www.rijksmuseum.nl/en/collection/SK-A-4922), 1663.
 Rijksmuseum, Amsterdam.
 </div>
 </div></div>
 
 >>>
 + **What** is persuasive?
-  + My **eloquence** / cleverness / cultural relevance?
+  + **Eloquence**, cleverness, cultural relevance?
   + Holy **Spirit**, **power** of God
 + "persuasive" == "faith":
-  + My **faith** rests on what?
+  + What my **faith** rests on
   + What do I find **persuasive**?
 + Don't want **disciples** of my personality but of Christ
 
@@ -355,14 +358,12 @@ he tried to *persuade* them about **Jesus**.
   + OT **Messiah** == Jesus
 + Still **contentious** today
   + v20: **fulfill** hope, !attack
-+ Specific to Jews/Israel, but
-  + general to **pious countrymen**
 
 ---
 <!-- .slide: data-background-image="static/bg/Raphael-St_Paul_Preaching_Athens.jpg" class="nocenter empty" -->
 
 <div class="caption" >
-[Raphael, St. Paul Preaching in Athens](http://www.the-athenaeum.org/art/detail.php?ID=34558), tempera cartoon for Sistine Chapel, 1515.
+[Raphael, "St. Paul Preaching in Athens"](http://www.the-athenaeum.org/art/detail.php?ID=34558), tempera cartoon for Sistine Chapel, 1515.
 </div>
 
 >>>
@@ -400,6 +401,14 @@ Therefore **what you worship** in ignorance, <br/>
 + God **unknown**, vague, abstract
   + Fill **void** w/other pursuits
 + H.S. **ahead** of us in community
+
+---
+
+## 1. Persuasion: v23 (NIV)
+He **witnessed** to them from morning till evening, <br/>
+**explaining** about the kingdom of God, <br/>
+and from the Law of Moses and from the Prophets <br/>
+he tried to **persuade** them about Jesus.
 
 ---
 
@@ -447,18 +456,20 @@ after Paul had made this final statement:
 when he said through Isaiah the prophet:
 
 >>>
+Read together
+
+Cause **divisions**, **reveal** hearts
+
 Not "after" but:
 + Being **a-symphonic** toward each other,
 + they were **dispersing**, (and as they were leaving,)
 + Paul speaking **one word**
 
-Cause **divisions**, **reveal** hearts
-
 ---
 <!-- .slide: data-background-image="static/bg/Rembrandt-Simeons_Song_of_Praise.jpg" class="nocenter" -->
 ## The Sign of Contradiction
 <p class="caption">
-([Rembrandt, Simeon's Song of Praise](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/), 1631.
+([Rembrandt, "Simeon's Song of Praise"](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/), 1631.
 Royal Picture Gallery Mauritshuis,
 The Hague.)
 </p>
@@ -533,11 +544,11 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 
 >>>
 + after kid, I'm #2
-  + love **wife** > love kid?
-  + love **Christ** > than love wife?
-+ tyranny of **urgent**, sandwich gen
-  + family **visible** + demanding
-  + Christ **invisible** + gracious
+  + love **wife** > kid?
+  + love **Christ** > wife?
++ tyranny **urgent**, sandwich gen
+  + fam: **visible**, demanding
+  + Christ: **invisible**, gracious
 + **True love** for family means:
   + Stand **firm** on God's truth
   + Don't make **excuses** for their sin
@@ -613,6 +624,7 @@ Otherwise they might **see** with their eyes, <br/>
 and **turn**, and I would **heal** them.’
 
 >>>
++ Read together
 + Sounds pretty **harsh**?
 + Maybe it's just a **one-off**...
 
@@ -629,12 +641,12 @@ Parable of **Sower**:
 [John 12](https://mobile.biblegateway.com/passage/?search=jn12.39-42): Isaiah saw His **glory**
 
 <div class="caption">
-([Van Gogh, The Sower](http://krollermuller.nl/en/vincent-van-gogh-the-sower), 1888. Kröller-Müller Museum)
+([Van Gogh, "The Sower"](http://krollermuller.nl/en/vincent-van-gogh-the-sower), 1888. Kröller-Müller Museum)
 </div>
 
 >>>
 + Nope, **Jesus** himself quotes it!
-+ Calling of **Isaiah**
++ God's **calling** for Isaiah
 
 ---
 
@@ -655,7 +667,7 @@ and **turn** and be **healed**.
 
 <div class="caption"> (img:
 [TobiasD](https://pixabay.com/en/eye-human-face-vision-look-person-321961/)
-</div>
+)</div>
 
 >>>
 + Heb: "**Hear, to hear**"
@@ -671,53 +683,21 @@ and **turn** and be **healed**.
 
 ---
 
-## Romans 9:6 (ESV)
-But it is not as though <br/>
-the word of God has **failed**.
-
-For not all who are <br/>
-**descended** from Israel <br/>
-**belong** to Israel,
-
-<!--
-It is not the children of the **flesh** <br/>
-who are the children of God, <br/>
-but the **children of the promise** <br/>
-are counted as offspring.
--->
-
->>>
-+ Written in Corinth only **2yrs** prior
-+ if people don't **listen**,
-  + not that gospel **failed**
-  + or God is not **strong** enough to save
-
----
-
-## Romans 11:1-2 (NIV)
-Did God **reject** his people? By no means!
-
-I am an Israelite myself,
-a descendant of Abraham, from the tribe of Benjamin.
-God did not reject his people, whom he foreknew.
-
->>>
-+ Rock of stumbling: 1Pet2, Rom9/10, Is28:16
-
----
-
-## Romans 11:21-22 (NIV)
-So do not become **proud**, but **fear**.
-
-For if God did not **spare** the natural branches,
-neither will he spare you.
-
-Note then the **kindness** and the **severity** of God:
-severity toward those who have **fallen**,
-but God's kindness to **you**,
-provided you **continue** in his kindness.
-
->>>
+## Romans 9-11
++ Did God's Word fail? &rarr;
+  [Rom 9:6](https://mobile.biblegateway.com/passage/?search=ro9.6)
++ Is God unfair? &rarr;
+  [Rom 9:14](https://mobile.biblegateway.com/passage/?search=ro9.14)
++ Isn't it all God's fault anyway? &rarr;
+  [Rom 9:19](https://mobile.biblegateway.com/passage/?search=ro9.19)
++ Why didn't Israel attain salvation? &rarr;
+  [Rom 9:32](https://mobile.biblegateway.com/passage/?search=ro9.32)
++ How then is anyone saved? &rarr;
+  [Rom 10:8-10](https://mobile.biblegateway.com/passage/?search=ro10.8-10)
++ Are they lost forever? &rarr;
+  [Rom 11:1-2](https://mobile.biblegateway.com/passage/?search=ro11.1-2)
++ So they just suck, and we rule, right? &rarr;
+  [Rom 11:18-21](https://mobile.biblegateway.com/passage/?search=ro11.18-21)
 
 ---
 
@@ -761,7 +741,7 @@ there is a **remnant** chosen by grace.
 [change of heart]
 
 <div class="caption">
-&copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/7978577868/), CC BY-NC-ND 2.0
+img &copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/7978577868/), CC BY-NC-ND 2.0
 </div>
 
 >>>
@@ -813,6 +793,7 @@ and **taught** about the Lord Jesus Christ -- <br/>
 with all **boldness** and without hindrance!
 
 >>>
++ Read together
 + To **Gentiles**
   + (13:46-47 Pisidian Antioch)
 + **stayed** + welcomed:
@@ -832,11 +813,11 @@ with all **boldness** and without hindrance!
 [(2Tim4)](https://mobile.biblegateway.com/passage/?search=2Tim4.16)
 <li> Possible preaching in **Spain**
 [(Rom15)](https://mobile.biblegateway.com/passage/?search=Rom15.24-28)
-<li> **Beheaded** in Rome under Nero (acc. Eusebius)
+<li> **Beheaded** in Rome under Nero (acc. to Eusebius)
 </ul>
 
 <div class="caption">
-[Pierre-Étienne Monnot, St Paul](https://commons.wikimedia.org/wiki/File%3APaulus_San_Giovanni_in_Laterano_2006-09-07.jpg)
+[Pierre-Étienne Monnot, "St Paul"](https://commons.wikimedia.org/wiki/File%3APaulus_San_Giovanni_in_Laterano_2006-09-07.jpg)
 (Nave of the Basilica of St. John Lateran, Rome).
 &copy; Marie-Lan Nguyen
 </div>
@@ -854,8 +835,8 @@ with all **boldness** and without hindrance!
 ---
 
 ## 4. Proclamation: v31 (NIV)
-He **proclaimed** the kingdom of God <br/>
-and **taught** about the Lord Jesus Christ -- <br/>
+He **proclaimed** the *kingdom of God* <br/>
+and **taught** about the *Lord Jesus Christ* -- <br/>
 with all **boldness** and without **hindrance**.
 
 >>>
@@ -869,7 +850,7 @@ with all **boldness** and without **hindrance**.
 <div class="imgbox"><div>
 ![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul.jpg)
 <div class="caption">
-[Rembrandt, The Apostle Paul](http://www.nga.gov/content/ngaweb/Collection/art-object-page.1198.html), ~1657.  National Gallery of Art, Washington DC
+[Rembrandt, "The Apostle Paul"](http://www.nga.gov/content/ngaweb/Collection/art-object-page.1198.html), ~1657.  National Gallery of Art, Washington DC
 </div>
 </div><div>
 ![Praetorian guard](static/img/Praetorian_Guard.jpg)
@@ -903,6 +884,7 @@ to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
 
 >>>
++ Read together
 + **everywh**: Troas to Macedonia
   + skipped Corinth
 + from **life** to life:
