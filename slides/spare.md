@@ -18,31 +18,6 @@
 
 ---
 
-## Romans 7:7-8 (NIV) (p1/2)
-I would not have **known** what sin was <br/>
-had it not been for the **law**. <br/>
-For I would not have known what **coveting** really was <br/>
-if the law had not said, “**You shall not covet**.”
-
-But **sin**, seizing the **opportunity** <br/>
-afforded by the commandment, <br/>
-produced in me every kind of coveting.
-
->>>
-+ "Don't eat ice cream, it's bad for you"
-+ -> think about ice cream, want it
-
----
-
-## Romans 7:13 (NIV) (p2/2)
-In order that sin might be **recognized as sin**, <br/>
-it used what is **good** to bring about **my death**, <br/>
-so that through the commandment
-
-**sin** might become **utterly sinful**.
-
----
-
 ## Romans 9:6 (ESV)
 But it is not as though <br/>
 the word of God has **failed**.
@@ -89,4 +64,14 @@ but God's kindness to **you**,
 provided you **continue** in his kindness.
 
 >>>
+
+---
+
+## Romans 11:32 (NIV)
+For God has bound everyone over to **disobedience** <br/>
+so that he may have **mercy** on them all.
+
+>>>
++ Not: "why **doesn't** God save them?"
++ But: "why **does** God save anybody?"
 

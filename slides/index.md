@@ -3,8 +3,14 @@
 ## Acts 28:23-31
 
 >>>
++ Often focus on **success** stories of evangelism.
++ What happens when it seems like we **fail**?
+
+******
+
 Bulletin insert:
 http://fragrant-gospel.seanho.com/
+
 1. **Persuasion** (v23)
   + Do I love my **pious countrymen**?
   + Do I love them enough to **lay out** the gospel clearly to them?
@@ -21,6 +27,9 @@ http://fragrant-gospel.seanho.com/
 # How do I **react** when others take **offense** at the gospel?
 
 >>>
++ What if it's someone we **care** about?
++ Combat?  Frustr?  Resign?
+
 1. How we **share** the gospel
 2. The **effect** it has on hearers
 3. How we should **respond**
@@ -47,7 +56,7 @@ and to the **ends of the earth**
 <div class="imgbox"><div>
 
 1. Paphos, Pamphylia<br/> <span class="hl1">(ch13-14)</span>
-2. Philippi, Greece <br/> <span class="hl1">(ch15-18:22)</span>
+2. Philippi, Corinth <br/> <span class="hl1">(ch15-18:22)</span>
 3. Ephesus, Greece <br/> <span class="hl1">(18:23-19:19)</span>
 
 </div><div style="flex:2">
@@ -64,16 +73,13 @@ In **Ephesus** had plan (19:21):
 
 ---
 ## Paul's Journey to Rome (ch21-28)
-<div class="imgbox"><div>
 ![Paul's journey to Rome](static/img/Paul_Rome_journey.svg)
 <div class="caption">
 [Wikipedia Italiano](https://commons.wikimedia.org/wiki/File%3APaul_the_Apostle%2C_fourth_missionary_journey_%28Rome%29.svg)
 </div>
-</div></div>
->>>
 
-+ Jeru: accused **defile** temple
-  + God: Jeru + **Rome** (23:11)
+>>>
++ **Jeru**: accused defile temple
 + **Caesarea**: stuck 2yrs (24:27)
 + Sail, **shipwreck** (ch27)
 + ch28a arrive near Rome.
@@ -137,10 +143,10 @@ and taught about the Lord Jesus Christ -- <br/>
 with all boldness and without hindrance!
 
 >>>
-+ "But it's **Paul**: apostle, writer of NT, etc."
-  + "I'm not a missionary"
-+ narr: **exemplary**, not **exhaustive**
-  + Diff methods elsewhere in NT
++ "But **Paul**: apostle, wrote NT"
+  + "I'm not a missionary!"
++ narrative: **exemplary**, not **exhaustive**
+  + Other methods in NT
 + (not: "descrip, not prescrip")
   + not just a nice **story** that doesn't apply to us!
 
@@ -153,10 +159,10 @@ and **observe** those who walk <br/>
 according to the **pattern** you have in us.
 
 >>>
-+ But examples matter!
++ Examples do matter!
   + **Totality** of Biblical ex
-  + common threads
-  + **pattern** for us to follow
+  + Common **threads**
+  + **Pattern** for us to follow
 + Ultimate example is **Christ**
   + (1Cor11:1 follow me as I follow Christ)
 
@@ -174,8 +180,7 @@ according to the **pattern** you have in us.
   <span class="hl1">(v28-31)</span>
 
 >>>
-+ **Circles** starting from v17:
-  + leaders -> Jew -> Gentile
++ v17: leaders &rarr; Jew &rarr; Gentile
 + Paul **lays out** gospel to beloved countrymen
 + Hearers **divided** response
 + Paul **quotes** OT prophecy
@@ -200,9 +205,9 @@ according to the **pattern** you have in us.
 >>>
 + First, some **context**
 + Jews **persecuted** on journeys
-  + Accusers in **Jeru** prob from Asia Minor
-+ Paul's attitude toward Jews?
-  + Hate? Give up? Avoid?
+  + Asia Minor &rarr; **Jeru**
++ Paul's **attitude** toward Jews?
+  + Hate? **Give up**? Avoid?
 + To understand Paul's **heart** for the Jews, cf Rom9-11
 
 ---
@@ -218,7 +223,7 @@ for the sake of **my people**, those of **my own race**, <br/>
 the people of **Israel**. ...
 
 >>>
-+ Written in Corinth only **2yrs** prior
++ Rom: Corinth only **2yrs** prior
 + Not **enemies** but **countrymen**!
   + no anti-Semitism here
   + (Crusades, Luther, Nazis)
@@ -238,7 +243,7 @@ the temple **worship** and the **promises**.
 + **Blessed** by God, **chosen** by God, had **Word** of God
   + OT **worship** + **promises**
   + **Hope** eagerly for **rescue**
-+ Specific to Jews, but generalize
++ Specific to Israel, but ...
 + "**good guys**", not villains!
   + **Pious**, moral, desire good
 + Also, Claudius **expelled** Roman Jews for unrest (18:2)
@@ -271,7 +276,7 @@ and from the Law of Moses and from the Prophets <br/>
 he tried to **persuade** them about Jesus.
 
 >>>
-+ Read together
++ **Read** together
 + NIV: **swap** first 2 verbs
 + witness (**lay out**): put forth
   + **asked** for his thinking
@@ -289,7 +294,8 @@ Transcarpathian Regional Art Museum, Ukraine.
 + Paul to Herod Agrippa II
 + testify, recount, **martyr**
 + from memory, kept in **mind**
-+ **focus**: not on witness, but on what he saw
++ focus: not on **witness**
+  + but on what he **saw**
 + not us, but **God's kingship**
 
 ---
@@ -306,8 +312,7 @@ he tried to **persuade** them about Jesus.
   + John the Baptist, Jesus
 + **persuade** (faith, belief, trust):
   + convince, coax, seduce
-+ wait, isn't that **bad**?
-  + telemarketer
++ wait, sounds **bad**? telemarketer
   + (14:19) Jews "**won over**"
   + in fact...
 
@@ -340,8 +345,8 @@ Rijksmuseum, Amsterdam.
   + Holy **Spirit**, **power** of God
 + "persuasive" == "faith":
   + What my **faith** rests on
-  + What do I find **persuasive**?
-+ Don't want **disciples** of my personality but of Christ
+  + == What I find **persuv**
++ **Disciples**: my persality, or Christ?
 
 ---
 
@@ -395,9 +400,8 @@ Therefore **what you worship** in ignorance, <br/>
 
 >>>
 + Desire to be **pious**
-+ Thirst: **spiritual** fulfil
++ Thirst for **spiritual** fulfillment
 + 89% of US adults believe in "God or a universal spirit"
-  + (63% certain)
 + God **unknown**, vague, abstract
   + Fill **void** w/other pursuits
 + H.S. **ahead** of us in community
@@ -410,6 +414,14 @@ He **witnessed** to them from morning till evening, <br/>
 and from the Law of Moses and from the Prophets <br/>
 he tried to **persuade** them about Jesus.
 
+>>>
+How Paul shared gospel in 1 full day:
+1. **Lay out** clearly
+2. **Testify** to God's kingship
+3. **Persuade** in HS and in power,
+  + fr: **piety** + spirit thirst
+  + to: **fulfilment** in Jesus
+
 ---
 
 <!-- .slide: class="Q" data-background="white" -->
@@ -418,12 +430,11 @@ he tried to **persuade** them about Jesus.
 ## Love them enough to **lay out** the gospel clearly to them?
 
 >>>
-+ **pious**: want to be good/moral/ethical
++ **pious**: want good/moral/eth
 + **countrymen**: CN, TW, HK, US
-  + common **background**
-  + also neighbor, fellow soccer parents
-+ **testify** to God's kingship, ultimate authority
-+ The **persuasion** comes from HS and the power of God
+  + common **bg**: nbr, fellow soccer parents
++ **testify**: God king, ult auth
++ **persuasion**: from HS + power of God
   + gauged appropriately to audience's bg
 
 ---
@@ -456,11 +467,9 @@ after Paul had made this final statement:
 when he said through Isaiah the prophet:
 
 >>>
-Read together
-
-Cause **divisions**, **reveal** hearts
-
-Not "after" but:
++ **Read** together
++ Cause **divisions**, **reveal** hearts
++ Not "after" but:
 + Being **a-symphonic** toward each other,
 + they were **dispersing**, (and as they were leaving,)
 + Paul speaking **one word**
@@ -475,10 +484,11 @@ The Hague.)
 </p>
 >>>
 + Christmas angels: **peace on earth**, goodwill to men?
-  + (Codex Sinaiticus dropped last letter of εὐδοκίας, KJV)
-  + ("peace on earth to men of [God's] good will")
 + Jesus presented at **temple**
 + righteous **Simeon** prophesied:
+******
++ (Codex Sinaiticus dropped last letter of εὐδοκίας, KJV)
++ ("peace on earth to men of [God's] good will")
 
 ---
 
@@ -493,14 +503,12 @@ and a **sword** will pierce through your own **soul** also --
 so that **thoughts** from many hearts may be **revealed**.
 
 >>>
-+ Unwaver truth: **God's kingdom**
-  + God is **King**
++ Unwaver truth: God is **King**
   + Jesus **saves** from sin
-+ **True**, even if **disbelieve**
-+ Not a **weapon** I can wield against others:
++ Not **weapon** against others:
   + Pierce **own** soul, too
 + Reveal sin in **facade** of good
-  + CTC: cut the crap
+  + **CTC**: cut the crap
 
 ---
 
@@ -543,8 +551,7 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 </div>
 
 >>>
-+ after kid, I'm #2
-  + love **wife** > kid?
++ after kid, I'm #2: love **wife** > kid?
   + love **Christ** > wife?
 + tyranny **urgent**, sandwich gen
   + fam: **visible**, demanding
@@ -607,6 +614,7 @@ And **my unworthiness**.
 >>>
 + So some **reject** gospel
 + **Why**?  Whose **fault** is it?
++ What do we **do** about it?
 
 ---
 
@@ -624,14 +632,15 @@ Otherwise they might **see** with their eyes, <br/>
 and **turn**, and I would **heal** them.’
 
 >>>
-+ Read together
++ **Read** together
 + Sounds pretty **harsh**?
-+ Maybe it's just a **one-off**...
++ Let's go **deeper**:
++ Is it just a **one-off**?
 
 ---
 
 <!-- .slide: data-background-image="static/bg/VanGogh-The_Sower.jpg" -->
-## Hearing but not Understanding
+## Ever Hearing, Never Understanding
 
 Parable of **Sower**:
 [Mt 13](https://mobile.biblegateway.com/passage/?search=mt13.13-15),
@@ -645,15 +654,16 @@ Parable of **Sower**:
 </div>
 
 >>>
-+ Nope, **Jesus** himself quotes it!
-+ God's **calling** for Isaiah
++ Nope, it's in all 3 **synoptics**
+  + Sower: why use **parables**
++ John: bc Is saw God's **glory**
++ orig: God's **calling** for Isaiah
 
 ---
 
 <!-- .slide: data-background-image="static/bg/TobiasD-eye.jpg" -->
 ## Isaiah 6:9-10 (ESV)
-Go, and say to this people:
-
+Go, and say to this people: <br/>
 “Keep on **hearing**, but do not understand; <br/>
 keep on **seeing**, but do not perceive."
 
@@ -670,44 +680,93 @@ and **turn** and be **healed**.
 )</div>
 
 >>>
-+ Heb: "**Hear, to hear**"
-  + **impr**/proph-fut + inf abs
-+ understanding (**discern**):
-  + divide, filter, recog import
-+ perceiving (**understand**):
-  + process, learn experience
-+ **fattened** -> heavy -> cloud
-  + "Make-fat the heart" (hiphil impr)
++ Heb: "Hear, you will cert hear"
+  + **impr**/proph-fut + **inf abs**
++ **fattened** &rarr; heavy &rarr; cloud
+  + Make fat: **hiphil imperatv**
   + LXX: passive
-+ see -> hear -> understand -> **turn**
++ **How** does preaching gospel make a heart **dull**?
 
 ---
 
-## Romans 9-11
-+ Did God's Word fail? &rarr;
-  [Rom 9:6](https://mobile.biblegateway.com/passage/?search=ro9.6)
-+ Is God unfair? &rarr;
-  [Rom 9:14](https://mobile.biblegateway.com/passage/?search=ro9.14)
-+ Isn't it all God's fault anyway? &rarr;
-  [Rom 9:19](https://mobile.biblegateway.com/passage/?search=ro9.19)
-+ Why didn't Israel attain salvation? &rarr;
-  [Rom 9:32](https://mobile.biblegateway.com/passage/?search=ro9.32)
-+ How then is anyone saved? &rarr;
-  [Rom 10:8-10](https://mobile.biblegateway.com/passage/?search=ro10.8-10)
-+ Are they lost forever? &rarr;
-  [Rom 11:1-2](https://mobile.biblegateway.com/passage/?search=ro11.1-2)
-+ So they just suck, and we rule, right? &rarr;
-  [Rom 11:18-21](https://mobile.biblegateway.com/passage/?search=ro11.18-21)
+<!-- .slide: data-background-image="static/bg/unsplash-d3Sg34sNBRM-ice_cream.jpg" -->
+## Romans 7:7-8 (NIV) (p.1/2)
+I would not have **known** what sin was <br/>
+had it not been for the **law**.
 
----
+For I would not have known what **coveting** really was <br/>
+if the law had not said, “**You shall not covet**.”
 
-## Romans 11:32 (NIV)
-For God has bound everyone over to **disobedience** <br/>
-so that he may have **mercy** on them all.
+But **sin**, seizing the **opportunity** <br/>
+afforded by the commandment, <br/>
+produced in me every kind of coveting.
 
 >>>
-+ Not: "why **doesn't** God save them?"
-+ But: "why **does** God save anybody?"
++ "No ice cream, it's bad for you"
+  + &rarr; think about + want it
++ Law is good, to bring **life**
+  + **Sin** sprang to life
+  + and **killed** me
+
+---
+
+<!-- .slide: data-background-image="static/bg/unsplash-d3Sg34sNBRM-ice_cream.jpg" -->
+## Romans 7:13 (NIV) (p.2/2)
+In order that sin might be **recognized as sin**, <br/>
+it used what is **good** to bring about **my death**, <br/>
+so that through the commandment
+
+**sin** might become **utterly sinful**.
+
+>>>
++ 2-edged **sword** of God's Word:
+  + Reveals God's **holiness**
+  + Makes sin utterly **sinful**
++ When preached to **hardened** hearts,
+  + Hardens them even **more**
++ Is that a failing of the **gospel**?
+  + God not **powerful** enough?
+
+---
+
+## Romans 9-11: A Partial Hardening
++ Did God's Word **fail**? &rarr;
+  [Rom 9:6](https://mobile.biblegateway.com/passage/?search=ro9.6)
++ Is God **unfair**? &rarr;
+  [Rom 9:14](https://mobile.biblegateway.com/passage/?search=ro9.14)
++ Isn't it all God's **fault** anyway? &rarr;
+  [Rom 9:19](https://mobile.biblegateway.com/passage/?search=ro9.19)
++ Why didn't the **pious** attain salvation? &rarr;
+  [Rom 9:32](https://mobile.biblegateway.com/passage/?search=ro9.32)
++ How then is **anyone** saved? &rarr;
+  [Rom 10:8-10](https://mobile.biblegateway.com/passage/?search=ro10.8-10)
++ Are they lost **forever**? &rarr;
+  [Rom 11:1-2](https://mobile.biblegateway.com/passage/?search=ro11.1-2)
++ So they just suck, and we **rule**, right? &rarr;
+  [Rom 11:18-21](https://mobile.biblegateway.com/passage/?search=ro11.18-21)
+
+>>>
+Many Q's when it seems like our evangelism **fails**
+
+---
+<!-- .slide: data-background-image="static/bg/bethanypetrik-crying_child.jpg" class="nocenter" -->
+... lest they **understand** with their hearts, <br/>
+and **turn** and be **healed**.
+
+<div class="caption">
+img &copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/7978577868/), CC BY-NC-ND 2.0
+</div>
+
+>>>
++ Dressing JJ for **bed**:
++ trying to **help**; he refuses it
++ me: **fine**, dress yourself
++ JJ: then I take off everything
++ &Rarr; can't force **change of heart**
+  + that's **Holy Spirit's** job
++ but never give up on **own child**
+  + and **continue** to proclaim
++ Hope: a **remnant** will return
 
 ---
 
@@ -720,7 +779,7 @@ And he answered: <br/>
 and without inhabitant, [...] <br/>
 and the land is utterly **forsaken**.
 
-But as the terebinth and **oak** <br/>
+[...] But as the terebinth and **oak** <br/>
 leave **stumps** when they are cut down, <br/>
 so the **holy seed** will be the stump in the land.”
 
@@ -737,31 +796,16 @@ So too, at the present time <br/>
 there is a **remnant** chosen by grace.
 
 ---
-<!-- .slide: data-background-image="static/bg/bethanypetrik-crying_child.jpg" -->
-[change of heart]
-
-<div class="caption">
-img &copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/7978577868/), CC BY-NC-ND 2.0
-</div>
-
->>>
-Dressing JJ for **bed**:
-+ trying to **help**; he refuses it
-+ me: fine, **give up**, dress yourself
-+ JJ: then I take off everything
-+ => can't force **change of heart**
-  + that's **Holy Spirit's** job
-+ but never give up on **own child**
-  + and **continue** to proclaim
-
----
 
 <!-- .slide: class="Q" data-background="white" -->
 # How do I **react** when others take **offense** at the gospel?
 
 >>>
-+ Combat?  Frustration?  Resignation?
-+ Heartfelt **hope** + continued **proclamation**
++ Combat?  Frustr?  Resign?
+  + "Well, forget you!"
+  + "Meh, I did my job"
++ Heartfelt **hope**
+  + continued **proclamation**
 
 ---
 
@@ -777,7 +821,7 @@ Dressing JJ for **bed**:
   <span class="hl1">(v28-31)</span>
 
 >>>
-+ How did Paul **continue** after this **disappointing** response?
+How did Paul **continue** after this **disappointing** response?
 
 ---
 
@@ -793,15 +837,14 @@ and **taught** about the Lord Jesus Christ -- <br/>
 with all **boldness** and without hindrance!
 
 >>>
-+ Read together
-+ To **Gentiles**
-  + (13:46-47 Pisidian Antioch)
++ **Read** together
++ **Gentiles**: (13:46-47) Pis Antioch
 + **stayed** + welcomed:
-  + own rent: **tentmaking**, 2Co8-9
+  + **rent**: tents (1Co9, 2Co11)
 + Acts ends seemingly **abruptly**:
   + What about Paul's **trial**?
   + Appeal to **Caesar**?
-  + Accusations by Jeru **Jews**?
+  + Accused by Jeru **Jews**?
 
 ---
 
@@ -826,11 +869,11 @@ with all **boldness** and without hindrance!
 </div></div>
 
 >>>
-+ According to early **church fathers**
++ Acc. early **church fathers**
 + also 2yrs in **Caesarea** for Felix
   + not **important** to Romans
-+ **Eusebius**: not killed by Nero directly,
-  + but increasing anti-Chr sentiment
++ **Eusebius**: not Nero direct,
+  + but his anti-Chr sentiment
 
 ---
 
@@ -840,8 +883,9 @@ and **taught** about the *Lord Jesus Christ* -- <br/>
 with all **boldness** and without **hindrance**.
 
 >>>
-+ proclaimed (**preach**): kingdom of God
-  + **taught**: about Jesus
++ proclaimed (**preach**):
+  + **kingdom** of God
++ **taught**: about Jesus
 + boldness (**free speech**)
   + unhindered (w/o **stop**)
 
@@ -884,14 +928,14 @@ to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
 
 >>>
-+ Read together
-+ **everywh**: Troas to Macedonia
++ **Read** together
++ **everywh**: Troas &rarr; Macedonia
   + skipped Corinth
-+ from **life** to life:
-  + **rebuke** -> godly **sorrow** -> **repentance**
-+ from **death** to death:
++ **life** &rarr; life: **rebuke** &rarr;
+  + godly **sorrow** &rarr; **repent**
++ **death** &rarr; death:
   + hearts **veiled** read Law
-+ **turn** to Lord -> veil **lifted**
++ **turn** to Lord &rarr; veil **lifted**
 
 ---
 
@@ -899,13 +943,13 @@ to the other a fragrance **from life to life**.
 # Do I exude the **fragrance of Christ** <br/> in my daily life?
 
 >>>
-+ doesn't mean being a **nice guy**, moral, charity!
++ not: **nice guy**, moral, charity!
 + ack own **unworthiness**
-  + universal need for **redemption**
+  + univ need **redemption**
 + be a **smelly** Christian:
   + stench: death to **sin**
   + aroma: **new life** Christ
-+ **death** -> death, **life** -> life
++ **death** &rarr; death, **life** &rarr; life
 
 ---
 
@@ -918,6 +962,9 @@ and among those who are **perishing**,
 
 to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
+
+>>>
+**Read** together, last slide
 
 ---
 
