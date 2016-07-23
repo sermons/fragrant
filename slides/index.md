@@ -6,7 +6,7 @@
 + Often focus on **success** stories of evangelism.
 + What happens when it seems like we **fail**?
 
-******
+______
 
 Bulletin insert:
 http://fragrant-gospel.seanho.com/
@@ -27,13 +27,12 @@ http://fragrant-gospel.seanho.com/
 # How do I **react** when others take **offense** at the gospel?
 
 >>>
-+ What if it's someone we **care** about?
-+ Combat?  Frustr?  Resign?
-
-1. How we **share** the gospel
-2. The **effect** it has on hearers
-3. How we should **respond**
-4. How we **live** our daily lives
++ What if it's s.o. we **care** about?
+  + Combat?  Frustr?  Resign?
++ 1. How we **share** the gospel
++ 2. **Effect** on hearers
++ 3. How we should **respond**
++ 4. How we **live** daily lives
 
 ---
 
@@ -82,10 +81,10 @@ In **Ephesus** had plan (19:21):
 + **Jeru**: accused defile temple
 + **Caesarea**: stuck 2yrs (24:27)
 + Sail, **shipwreck** (ch27)
-+ ch28a arrive near Rome.
-  + **Christians** care for him
++ Rome: **Chr** care for him
   + Call **Jewish** leaders
-  + Jews want to **hear** his thoughts
+  + Want **hear** his thoughts
++ Today's passage, let's **read**:
 
 ---
 
@@ -98,9 +97,6 @@ He witnessed to them from morning till evening, <br/>
 explaining about the kingdom of God, <br/>
 and from the Law of Moses and from the Prophets <br/>
 he tried to persuade them about Jesus. ...
-
->>>
-Let's read together, 4 slides.
 
 ---
 
@@ -208,7 +204,7 @@ according to the **pattern** you have in us.
   + Asia Minor &rarr; **Jeru**
 + Paul's **attitude** toward Jews?
   + Hate? **Give up**? Avoid?
-+ To understand Paul's **heart** for the Jews, cf Rom9-11
++ To understand Paul's **heart** for the Jews, cf **Rom9-11**
 
 ---
 
@@ -264,8 +260,9 @@ the temple **worship** and the **promises**.
   <span class="hl1">(v28-31)</span>
 
 >>>
-How did Paul share gospel with his
-**pious countrymen** whom he loved so deeply?
++ How did Paul share gospel with his
+  **pious countrymen** whom he loved so deeply?
++ Let's **read** together:
 
 ---
 
@@ -276,7 +273,6 @@ and from the Law of Moses and from the Prophets <br/>
 he tried to **persuade** them about Jesus.
 
 >>>
-+ **Read** together
 + NIV: **swap** first 2 verbs
 + witness (**lay out**): put forth
   + **asked** for his thinking
@@ -296,7 +292,7 @@ Transcarpathian Regional Art Museum, Ukraine.
 + from memory, kept in **mind**
 + focus: not on **witness**
   + but on what he **saw**
-+ not us, but **God's kingship**
++ not us, but testify to ...
 
 ---
 
@@ -312,7 +308,7 @@ he tried to **persuade** them about Jesus.
   + John the Baptist, Jesus
 + **persuade** (faith, belief, trust):
   + convince, coax, seduce
-+ wait, sounds **bad**? telemarketer
++ wait, **telemarketing**?
   + (14:19) Jews "**won over**"
   + in fact...
 
@@ -346,7 +342,7 @@ Rijksmuseum, Amsterdam.
 + "persuasive" == "faith":
   + What my **faith** rests on
   + == What I find **persuv**
-+ **Disciples**: my persality, or Christ?
++ **Discip**: my perslty, or Christ?
 
 ---
 
@@ -415,10 +411,11 @@ and from the Law of Moses and from the Prophets <br/>
 he tried to **persuade** them about Jesus.
 
 >>>
-How Paul shared gospel in 1 full day:
-1. **Lay out** clearly
-2. **Testify** to God's kingship
-3. **Persuade** in HS and in power,
++ How Paul shared gospel in 1 full day:
++ 1. **Lay out** clearly
++ 2. **Testify** to God's kingship
+  + ultimate authority
++ 3. **Persuade** in HS + power,
   + fr: **piety** + spirit thirst
   + to: **fulfilment** in Jesus
 
@@ -433,9 +430,7 @@ How Paul shared gospel in 1 full day:
 + **pious**: want good/moral/eth
 + **countrymen**: CN, TW, HK, US
   + common **bg**: nbr, fellow soccer parents
-+ **testify**: God king, ult auth
-+ **persuasion**: from HS + power of God
-  + gauged appropriately to audience's bg
++ Lay out &rarr; testify &rarr; persuade
 
 ---
 
@@ -453,6 +448,7 @@ How Paul shared gospel in 1 full day:
 >>>
 + When the gospel is **laid out** clearly,
 + What should we expect the **response** to be?
++ Let's continue **reading** together:
 
 ---
 
@@ -467,12 +463,18 @@ after Paul had made this final statement:
 when he said through Isaiah the prophet:
 
 >>>
-+ **Read** together
 + Cause **divisions**, **reveal** hearts
 + Not "after" but:
-+ Being **a-symphonic** toward each other,
-+ they were **dispersing**, (and as they were leaving,)
-+ Paul speaking **one word**
+  "Being **a-symphonic** toward each other,
+  they were **dispersing**,
+  Paul speaking **one word**"
+  (i.e., as they were leaving)
++ Wait, Christmas angels?
+  + **peace on earth**
+  + goodwill to men?
+______
++ (Codex Sinaiticus dropped last letter of εὐδοκίας, KJV)
++ ("peace on earth to men of [God's] good will")
 
 ---
 <!-- .slide: data-background-image="static/bg/Rembrandt-Simeons_Song_of_Praise.jpg" class="nocenter" -->
@@ -483,12 +485,8 @@ Royal Picture Gallery Mauritshuis,
 The Hague.)
 </p>
 >>>
-+ Christmas angels: **peace on earth**, goodwill to men?
-+ Jesus presented at **temple**
-+ righteous **Simeon** prophesied:
-******
-+ (Codex Sinaiticus dropped last letter of εὐδοκίας, KJV)
-+ ("peace on earth to men of [God's] good will")
++ Baby Jesus presented at **temple**
++ Righteous **Simeon** prophesied:
 
 ---
 
@@ -509,6 +507,7 @@ so that **thoughts** from many hearts may be **revealed**.
   + Pierce **own** soul, too
 + Reveal sin in **facade** of good
   + **CTC**: cut the crap
++ Jesus affirms this later:
 
 ---
 
@@ -540,6 +539,7 @@ National Museum Copenhagen.
   + Either **all-in** or **all-out**
 + :38 take up **cross** + follow
 + :39 **lose life** for My sake
++ Hard when it gets **personal**:
 
 ---
 <!-- .slide: data-background-image="static/bg/bryandilts-grandfather.jpg" -->
@@ -551,7 +551,7 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 </div>
 
 >>>
-+ after kid, I'm #2: love **wife** > kid?
++ w/kid, I'm #2: love **wife** > kid?
   + love **Christ** > wife?
 + tyranny **urgent**, sandwich gen
   + fam: **visible**, demanding
@@ -615,6 +615,7 @@ And **my unworthiness**.
 + So some **reject** gospel
 + **Why**?  Whose **fault** is it?
 + What do we **do** about it?
++ Let's **read** the prophecy Paul quotes:
 
 ---
 
@@ -632,8 +633,7 @@ Otherwise they might **see** with their eyes, <br/>
 and **turn**, and I would **heal** them.’
 
 >>>
-+ **Read** together
-+ Sounds pretty **harsh**?
++ Sounds pretty **harsh**!
 + Let's go **deeper**:
 + Is it just a **one-off**?
 
@@ -649,15 +649,16 @@ Parable of **Sower**:
 
 [John 12](https://mobile.biblegateway.com/passage/?search=jn12.39-42): Isaiah saw His **glory**
 
-<div class="caption">
-([Van Gogh, "The Sower"](http://krollermuller.nl/en/vincent-van-gogh-the-sower), 1888. Kröller-Müller Museum)
-</div>
+<div class="caption">(
+[Van Gogh, "The Sower"](http://krollermuller.nl/en/vincent-van-gogh-the-sower), 1888. Kröller-Müller Museum
+)</div>
 
 >>>
 + Nope, it's in all 3 **synoptics**
   + Sower: why use **parables**
-+ John: bc Is saw God's **glory**
-+ orig: God's **calling** for Isaiah
++ John: because saw God's **glory**
++ let's go deeper, to the original:
+  + God's **calling** for Isaiah
 
 ---
 
@@ -684,8 +685,8 @@ and **turn** and be **healed**.
   + **impr**/proph-fut + **inf abs**
 + **fattened** &rarr; heavy &rarr; cloud
   + Make fat: **hiphil imperatv**
-  + LXX: passive
-+ **How** does preaching gospel make a heart **dull**?
+  + LXX/GNT: passive
++ **How** does preaching the gospel make a heart **dull**?
 
 ---
 
@@ -703,7 +704,7 @@ produced in me every kind of coveting.
 
 >>>
 + "No ice cream, it's bad for you"
-  + &rarr; think about + want it
+  + &Rarr; think about + want it
 + Law is good, to bring **life**
   + **Sin** sprang to life
   + and **killed** me
@@ -722,10 +723,10 @@ so that through the commandment
 + 2-edged **sword** of God's Word:
   + Reveals God's **holiness**
   + Makes sin utterly **sinful**
-+ When preached to **hardened** hearts,
++ Preached to **hardened** hearts:
   + Hardens them even **more**
 + Is that a failing of the **gospel**?
-  + God not **powerful** enough?
+  + God not **pwrful** enough?
 
 ---
 
@@ -746,7 +747,10 @@ so that through the commandment
   [Rom 11:18-21](https://mobile.biblegateway.com/passage/?search=ro11.18-21)
 
 >>>
-Many Q's when it seems like our evangelism **fails**
+Rom9-11 addresses this and many other Q's
+when it seems like our evangelism **fails**.
+
+Needs a **change of heart**, work of H.S.
 
 ---
 <!-- .slide: data-background-image="static/bg/bethanypetrik-crying_child.jpg" class="nocenter" -->
@@ -756,17 +760,16 @@ and **turn** and be **healed**.
 <div class="caption">
 img &copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/7978577868/), CC BY-NC-ND 2.0
 </div>
-
 >>>
 + Dressing JJ for **bed**:
 + trying to **help**; he refuses it
 + me: **fine**, dress yourself
 + JJ: then I take off everything
 + &Rarr; can't force **change of heart**
-  + that's **Holy Spirit's** job
 + but never give up on **own child**
-  + and **continue** to proclaim
-+ Hope: a **remnant** will return
+  + **continue** to proclaim
+  + hope: **remnant** returns
++ Let's return to **Isaiah**'s calling:
 
 ---
 
@@ -786,7 +789,9 @@ so the **holy seed** will be the stump in the land.”
 >>>
 + **oak**: 1st, preeminent, landmark
 + **stump**: stone, obelisk, (fort)
-+ holy **seed** (1): (Gen3:15)
++ holy **Seed** (sing.): (Gen3:15)
+  + A **remnant** redeem by Jesus
++ Full-circle Acts &rarr; Is &rarr; **Rom**:
 
 ---
 
@@ -794,6 +799,12 @@ so the **holy seed** will be the stump in the land.”
 ## Romans 11:5 (NIV)
 So too, at the present time <br/>
 there is a **remnant** chosen by grace.
+
+>>>
++ Always **hope** for a remnant
++ After **hardened** hearts
+  + **opposition**, rebellion
+  + God's **chastening**
 
 ---
 
@@ -821,7 +832,10 @@ there is a **remnant** chosen by grace.
   <span class="hl1">(v28-31)</span>
 
 >>>
-How did Paul **continue** after this **disappointing** response?
+How did Paul **continue** after
+the **disappointment** of rejection?
+
+Let's **read** together:
 
 ---
 
@@ -837,8 +851,7 @@ and **taught** about the Lord Jesus Christ -- <br/>
 with all **boldness** and without hindrance!
 
 >>>
-+ **Read** together
-+ **Gentiles**: (13:46-47) Pis Antioch
++ **Gent**: (13:46-47) Pis Antioch
 + **stayed** + welcomed:
   + **rent**: tents (1Co9, 2Co11)
 + Acts ends seemingly **abruptly**:
@@ -874,6 +887,7 @@ with all **boldness** and without hindrance!
   + not **important** to Romans
 + **Eusebius**: not Nero direct,
   + but his anti-Chr sentiment
++ How did Paul **spend** 2yrs waiting?
 
 ---
 
@@ -888,6 +902,7 @@ with all **boldness** and without **hindrance**.
 + **taught**: about Jesus
 + boldness (**free speech**)
   + unhindered (w/o **stop**)
++ but **who** could he reach?
 
 ---
 
@@ -908,7 +923,8 @@ with all **boldness** and without **hindrance**.
   + not seen by Caesar
 + **influence** in Rome:
   + Phil1:12-13 **Praetorium**: elite guard of Caesar
-  + Phil4:22 Caesar's **household**
+  + Phil4:22 Caesar **house**
++ **Read** together:
 
 ---
 
@@ -928,7 +944,6 @@ to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
 
 >>>
-+ **Read** together
 + **everywh**: Troas &rarr; Macedonia
   + skipped Corinth
 + **life** &rarr; life: **rebuke** &rarr;
@@ -964,7 +979,7 @@ to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
 
 >>>
-**Read** together, last slide
+**Read** together again, last slide
 
 ---
 
