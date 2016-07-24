@@ -32,7 +32,7 @@ http://fragrant-gospel.seanho.com/
 + 1. How we **share** the gospel
 + 2. **Effect** on hearers
 + 3. How we should **respond**
-+ 4. How we **live** daily lives
++ 4. How it **changes** daily life
 
 ---
 
@@ -46,9 +46,10 @@ and to the **ends of the earth**
 <span class="hl1">(ch12-28)</span>."
 
 >>>
++ Connect Acts / Rom / Isaiah
 + Finishing series on Acts
 + Gospel in concentric **circles**
-+ Half of Acts: "**ends of earth**"
++ Half of Acts: Paul's **3 journeys**"
 
 ---
 ## You Will Be My Witnesses
@@ -66,8 +67,8 @@ and to the **ends of the earth**
 </div></div>
 
 >>>
-In **Ephesus** had plan (19:21):
-+ -> **Jeru** -> **Rome**
++ In **Ephesus** had plan (19:21):
+  + -> **Jeru** -> **Rome**
 + not expect in **chains**!
 
 ---
@@ -80,7 +81,7 @@ In **Ephesus** had plan (19:21):
 >>>
 + **Jeru**: accused defile temple
 + **Caesarea**: stuck 2yrs (24:27)
-+ Sail, **shipwreck** (ch27)
++ **Shipwreck** (ch27): priorities, foundation, witness
 + Rome: **Chr** care for him
   + Call **Jewish** leaders
   + Want **hear** his thoughts
@@ -141,10 +142,10 @@ with all boldness and without hindrance!
 >>>
 + "But **Paul**: apostle, wrote NT"
   + "I'm not a missionary!"
-+ narrative: **exemplary**, not **exhaustive**
++ narr: "descrip, not prescrip"?
++ not **exhaustive**, **exemplary*
   + Other methods in NT
-+ (not: "descrip, not prescrip")
-  + not just a nice **story** that doesn't apply to us!
++ not just a nice **story** that doesn't apply to us!
 
 ---
 
@@ -242,6 +243,7 @@ the temple **worship** and the **promises**.
 + Specific to Israel, but ...
 + "**good guys**", not villains!
   + **Pious**, moral, desire good
+___
 + Also, Claudius **expelled** Roman Jews for unrest (18:2)
   + they also **size up** Paul
   + Paul's **motive**: unrest?
@@ -274,10 +276,11 @@ he tried to **persuade** them about Jesus.
 
 >>>
 + NIV: **swap** first 2 verbs
-+ witness (**lay out**): put forth
-  + **asked** for his thinking
++ "witness" (**lay out**): put forth
+  + exposition
+  + **asked** his thinking: v22
   + Clear **main point**
-+ explaining: **witness**
++ "explaining": **witness**
 
 ---
 <!-- .slide: data-background-image="static/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" class="nocenter empty" -->
@@ -303,12 +306,12 @@ and from the Law of Moses and from the Prophets <br/>
 he tried to **persuade** them about Jesus.
 
 >>>
-+ witness to **authority** of God
-+ **kingdom of God**: is near
-  + John the Baptist, Jesus
++ ... to **kingdom** of God:
+  + king **now** of creation
+  + **near**: soon all will bow
 + **persuade** (faith, belief, trust):
   + convince, coax, seduce
-+ wait, **telemarketing**?
++ ew, **telemarketing**?
   + (14:19) Jews "**won over**"
   + in fact...
 
@@ -354,7 +357,7 @@ he tried to *persuade* them about **Jesus**.
 
 >>>
 + **Jews**: OT bg, hope Messiah
-  + v31 Gentiles: "taught"
+  + pious countrymen
 + **Jesus**: from Moses/Prophets
   + OT **Messiah** == Jesus
 + Still **contentious** today
@@ -371,6 +374,7 @@ he tried to *persuade* them about **Jesus**.
 + Diff approach in **Athens**:
 + No **OT** bg, hope of Messiah
 + Still start from their **piety**
++ Present Christ as **Creator**
 
 ---
 
@@ -404,33 +408,17 @@ Therefore **what you worship** in ignorance, <br/>
 
 ---
 
-## 1. Persuasion: v23 (NIV)
-He **witnessed** to them from morning till evening, <br/>
-**explaining** about the kingdom of God, <br/>
-and from the Law of Moses and from the Prophets <br/>
-he tried to **persuade** them about Jesus.
-
->>>
-+ How Paul shared gospel in 1 full day:
-+ 1. **Lay out** clearly
-+ 2. **Testify** to God's kingship
-  + ultimate authority
-+ 3. **Persuade** in HS + power,
-  + fr: **piety** + spirit thirst
-  + to: **fulfilment** in Jesus
-
----
-
 <!-- .slide: class="Q" data-background="white" -->
 ## Do I love my **pious countrymen**?
 
 ## Love them enough to **lay out** the gospel clearly to them?
 
 >>>
-+ **pious**: want good/moral/eth
 + **countrymen**: CN, TW, HK, US
-  + common **bg**: nbr, fellow soccer parents
+  + common **background**: nbr, fellow soccer parents
++ **pious**: want good/moral/eth
 + Lay out &rarr; testify &rarr; persuade
+  + in HS + power
 
 ---
 
@@ -464,17 +452,19 @@ when he said through Isaiah the prophet:
 
 >>>
 + Cause **divisions**, **reveal** hearts
++ Wait, didn't Jesus come to bring **peace**?
++ what about Christmas angels?
+  + **peace on earth**
+  + goodwill to men?
++ shortly after Jesus' birth:
+______
 + Not "after" but:
   "Being **a-symphonic** toward each other,
   they were **dispersing**,
   Paul speaking **one word**"
   (i.e., as they were leaving)
-+ Wait, Christmas angels?
-  + **peace on earth**
-  + goodwill to men?
-______
-+ (Codex Sinaiticus dropped last letter of εὐδοκίας, KJV)
-+ ("peace on earth to men of [God's] good will")
++ Codex Sinaiticus dropped last letter of εὐδοκίας, KJV
+  + "peace on earth to men of [God's] good will"
 
 ---
 <!-- .slide: data-background-image="static/bg/Rembrandt-Simeons_Song_of_Praise.jpg" class="nocenter" -->
@@ -507,7 +497,7 @@ so that **thoughts** from many hearts may be **revealed**.
   + Pierce **own** soul, too
 + Reveal sin in **facade** of good
   + **CTC**: cut the crap
-+ Jesus affirms this later:
++ Jesus came to bring **peace**?
 
 ---
 
@@ -553,12 +543,13 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 >>>
 + w/kid, I'm #2: love **wife** > kid?
   + love **Christ** > wife?
-+ tyranny **urgent**, sandwich gen
++ sandwich gen: tyranny **urgent**
   + fam: **visible**, demanding
   + Christ: **invisible**, gracious
 + **True love** for family means:
   + Stand **firm** on God's truth
   + Don't make **excuses** for their sin
++ Ms: against **dating non-Chr**, until
 
 ---
 
