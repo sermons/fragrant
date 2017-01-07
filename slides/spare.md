@@ -74,4 +74,3 @@ so that he may have **mercy** on them all.
 >>>
 + Not: "why **doesn't** God save them?"
 + But: "why **does** God save anybody?"
-
