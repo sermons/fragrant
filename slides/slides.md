@@ -60,7 +60,7 @@ and to the **ends of the earth**
 3. Ephesus, Greece <br/> <span class="hl1">(18:23-19:19)</span>
 
 </div><div style="flex:2">
-![Cities visited by Paul](static/img/Paul_geography.png)
+![Cities visited by Paul](https://sermons.seanho.com/img/fig/Paul_geography.png)
 <div class="caption">
 [(@Alecmconroy)](https://commons.wikimedia.org/wiki/File%3ABroad_overview_of_geography_relevant_to_paul_of_tarsus.png)
 </div>
@@ -73,7 +73,7 @@ and to the **ends of the earth**
 
 ---
 ## Paul's Journey to Rome (ch21-28)
-![Paul's journey to Rome](static/img/Paul_Rome_journey.svg)
+![Paul's journey to Rome](https://sermons.seanho.com/img/fig/Paul_Rome_journey.svg)
 <div class="caption">
 [Wikipedia Italiano](https://commons.wikimedia.org/wiki/File%3APaul_the_Apostle%2C_fourth_missionary_journey_%28Rome%29.svg)
 </div>
@@ -196,7 +196,7 @@ according to the **pattern** you have in us.
 </div>
 
 </div><div style="flex:2">
-![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul-WGA19120.jpg)
+![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul-WGA19120.jpg)
 </div></div>
 
 >>>
@@ -331,7 +331,7 @@ on the **wisdom of men**, <br/>
 but on the **power of God**.
 
 </div><div>
-![Dujardin, St Paul Healing the Cripple at Lystra](static/img/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
+![Dujardin, St Paul Healing the Cripple at Lystra](https://sermons.seanho.com/img/fig/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
 <div class="caption">
 [Karel Dujardin, "St Paul Healing the Cripple at Lystra"](https://www.rijksmuseum.nl/en/collection/SK-A-4922), 1663.
 Rijksmuseum, Amsterdam.
@@ -392,7 +392,7 @@ I also found an altar with this inscription, <br/>
 Therefore **what you worship** in ignorance, <br/>
 **this I proclaim** to you."
 </div><div>
-![89% adults believe in God](static/img/Pew-RLS14-BeliefInGod.png)
+![89% adults believe in God](https://sermons.seanho.com/img/fig/Pew-RLS14-BeliefInGod.png)
 <div class="caption">
 [Pew 2014 Religious Landscape Study](http://www.pewresearch.org/fact-tank/2015/11/04/americans-faith-in-god-may-be-eroding/)
 </div>
@@ -555,7 +555,7 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 
 ## Beneath the Cross of Jesus
 <div class="imgbox"><div>
-![Elizabeth Clephane](static/img/Clephane.jpg)
+![Elizabeth Clephane](https://sermons.seanho.com/img/fig/Clephane.jpg)
 <div class="caption">
 [Elizabeth Clephane](http://www.hymntime.com/tch/htm/b/t/c/btcjesus.htm) 1868, Scotland
 </div>
@@ -869,7 +869,7 @@ with all **boldness** and without hindrance!
 &copy; Marie-Lan Nguyen
 </div>
 </div><div>
-![Monnot, St Paul](static/img/Monnot-Paul_in_Lateran.jpg)
+![Monnot, St Paul](https://sermons.seanho.com/img/fig/Monnot-Paul_in_Lateran.jpg)
 </div></div>
 
 >>>
@@ -898,12 +898,12 @@ with all **boldness** and without **hindrance**.
 ---
 
 <div class="imgbox"><div>
-![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul.jpg)
+![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul.jpg)
 <div class="caption">
 [Rembrandt, "The Apostle Paul"](http://www.nga.gov/content/ngaweb/Collection/art-object-page.1198.html), ~1657.  National Gallery of Art, Washington DC
 </div>
 </div><div>
-![Praetorian guard](static/img/Praetorian_Guard.jpg)
+![Praetorian guard](https://sermons.seanho.com/img/fig/Praetorian_Guard.jpg)
 <div class="caption">
 [Statue of praetorian soldier](https://commons.wikimedia.org/wiki/File%3APr%C3%A4torianer.jpg), near Pozzuoli, 2nd c. AD.  Pergamon Museum.
 </div>
