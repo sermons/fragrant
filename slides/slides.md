@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 # The Fragrant Gospel
 ## Acts 28:23-31
 
@@ -149,7 +149,7 @@ with all boldness and without hindrance!
 
 ---
 
-<!-- .slide: data-background-image="static/bg/father_son_walk.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/father_son_walk.jpg" -->
 ## Philippians 3:17 (NASB)
 Brethren, **join** in following my **example**, <br/>
 and **observe** those who walk <br/>
@@ -165,7 +165,7 @@ according to the **pattern** you have in us.
 
 ---
 
-<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: **Persuasion**
   <span class="hl1">(v23)</span>
@@ -209,7 +209,7 @@ according to the **pattern** you have in us.
 
 ---
 
-<!-- .slide: data-background-image="static/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
 ## Romans 9:2-3 (NIV) (p.1/2)
 I have great **sorrow** and unceasing **anguish** in my heart.
 
@@ -229,7 +229,7 @@ the people of **Israel**. ...
 
 ---
 
-<!-- .slide: data-background-image="static/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
 ## Romans 9:4 (NIV) (p.2/2)
 Theirs is the **adoption** to sonship; <br/>
 theirs the divine **glory**, the **covenants**, <br/>
@@ -250,7 +250,7 @@ ___
 
 ---
 
-<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: **Persuasion**
   <span class="hl1">(v23)</span>
@@ -283,7 +283,7 @@ he tried to **persuade** them about Jesus.
 + "explaining": **witness**
 
 ---
-<!-- .slide: data-background-image="static/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" class="nocenter empty" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" class="nocenter empty" -->
 <div class="caption">
 [Nikolas Bodarevsky, "Trial of the Apostle Paul"](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg), 1875.
 Transcarpathian Regional Art Museum, Ukraine.
@@ -364,7 +364,7 @@ he tried to *persuade* them about **Jesus**.
   + v20: **fulfill** hope, !attack
 
 ---
-<!-- .slide: data-background-image="static/bg/Raphael-St_Paul_Preaching_Athens.jpg" class="nocenter empty" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Raphael-St_Paul_Preaching_Athens.jpg" class="nocenter empty" -->
 
 <div class="caption" >
 [Raphael, "St. Paul Preaching in Athens"](http://www.the-athenaeum.org/art/detail.php?ID=34558), tempera cartoon for Sistine Chapel, 1515.
@@ -378,7 +378,7 @@ he tried to *persuade* them about **Jesus**.
 
 ---
 
-<!-- .slide: data-background-image="static/bg/Raphael-St_Paul_Preaching_Athens.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Raphael-St_Paul_Preaching_Athens.jpg" -->
 ## Acts 17:22-24 (NASB)
 <div class="imgbox"><div style="flex:3">
 “Men of **Athens**, I observe that <br/>
@@ -422,7 +422,7 @@ Therefore **what you worship** in ignorance, <br/>
 
 ---
 
-<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: **Persuasion**
   <span class="hl1">(v23)</span>
@@ -467,7 +467,7 @@ ______
   + "peace on earth to men of [God's] good will"
 
 ---
-<!-- .slide: data-background-image="static/bg/Rembrandt-Simeons_Song_of_Praise.jpg" class="nocenter" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Rembrandt-Simeons_Song_of_Praise.jpg" class="nocenter" -->
 ## The Sign of Contradiction
 <p class="caption">
 ([Rembrandt, "Simeon's Song of Praise"](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/), 1631.
@@ -480,7 +480,7 @@ The Hague.)
 
 ---
 
-<!-- .slide: data-background-image="static/bg/Rembrandt-Simeons_Song_of_Praise.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Rembrandt-Simeons_Song_of_Praise.jpg" -->
 ## Luke 2:34-35 (ESV)
 Behold, this child is appointed for <br/>
 the **fall** and **rising** of many in Israel,
@@ -501,7 +501,7 @@ so that **thoughts** from many hearts may be **revealed**.
 
 ---
 
-<!-- .slide: data-background-image="static/bg/Niedziella-Soeborg_Sword.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Niedziella-Soeborg_Sword.jpg" -->
 ## Matthew 10:34,37 (NIV)
 Do not suppose that I have come to bring **peace** to the earth. <br/>
 I did not come to bring peace, but a **sword**.
@@ -532,7 +532,7 @@ National Museum Copenhagen.
 + Hard when it gets **personal**:
 
 ---
-<!-- .slide: data-background-image="static/bg/bryandilts-grandfather.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bryandilts-grandfather.jpg" -->
 ... anyone who loves their **son or daughter** <br/>
 more than me is not worthy of me.
 
@@ -591,7 +591,7 @@ And **my unworthiness**.
 
 ---
 
-<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: **Persuasion**
   <span class="hl1">(v23)</span>
@@ -630,7 +630,7 @@ and **turn**, and I would **heal** them.’
 
 ---
 
-<!-- .slide: data-background-image="static/bg/VanGogh-The_Sower.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/VanGogh-The_Sower.jpg" -->
 ## Ever Hearing, Never Understanding
 
 Parable of **Sower**:
@@ -653,7 +653,7 @@ Parable of **Sower**:
 
 ---
 
-<!-- .slide: data-background-image="static/bg/TobiasD-eye.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/TobiasD-eye.jpg" -->
 ## Isaiah 6:9-10 (ESV)
 Go, and say to this people: <br/>
 “Keep on **hearing**, but do not understand; <br/>
@@ -681,7 +681,7 @@ and **turn** and be **healed**.
 
 ---
 
-<!-- .slide: data-background-image="static/bg/unsplash-d3Sg34sNBRM-ice_cream.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-d3Sg34sNBRM-ice_cream.jpg" -->
 ## Romans 7:7-8 (NIV) (p.1/2)
 I would not have **known** what sin was <br/>
 had it not been for the **law**.
@@ -702,7 +702,7 @@ produced in me every kind of coveting.
 
 ---
 
-<!-- .slide: data-background-image="static/bg/unsplash-d3Sg34sNBRM-ice_cream.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-d3Sg34sNBRM-ice_cream.jpg" -->
 ## Romans 7:13 (NIV) (p.2/2)
 In order that sin might be **recognized as sin**, <br/>
 it used what is **good** to bring about **my death**, <br/>
@@ -744,7 +744,7 @@ when it seems like our evangelism **fails**.
 Needs a **change of heart**, work of H.S.
 
 ---
-<!-- .slide: data-background-image="static/bg/bethanypetrik-crying_child.jpg" class="nocenter" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bethanypetrik-crying_child.jpg" class="nocenter" -->
 ... lest they **understand** with their hearts, <br/>
 and **turn** and be **healed**.
 
@@ -764,7 +764,7 @@ img &copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/797
 
 ---
 
-<!-- .slide: data-background-image="static/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
 ## Isaiah 6:11,13 (NIV)
 Then I said, “For **how long**, Lord?”
 
@@ -786,7 +786,7 @@ so the **holy seed** will be the stump in the land.”
 
 ---
 
-<!-- .slide: data-background-image="static/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
 ## Romans 11:5 (NIV)
 So too, at the present time <br/>
 there is a **remnant** chosen by grace.
@@ -811,7 +811,7 @@ there is a **remnant** chosen by grace.
 
 ---
 
-<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: **Persuasion**
   <span class="hl1">(v23)</span>
@@ -919,7 +919,7 @@ with all **boldness** and without **hindrance**.
 
 ---
 
-<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## 2 Corinthians 2:14-16 (ESV)
 
 Thanks be to God, who in Christ
@@ -959,7 +959,7 @@ to the other a fragrance **from life to life**.
 
 ---
 
-<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## 2 Corinthians 2:15-16 (ESV)
 
 For we are the **aroma of Christ** to God <br/>
@@ -974,5 +974,5 @@ to the other a fragrance **from life to life**.
 
 ---
 
-<!-- .slide: data-background-image="static/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" class="empty" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" class="empty" -->
 
