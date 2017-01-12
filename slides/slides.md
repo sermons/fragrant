@@ -90,54 +90,54 @@ and to the **ends of the earth**
 ---
 
 ## Acts 28:23 (NIV) (p.1/4)
-They arranged to meet Paul on a certain day, <br/>
-and came in even larger numbers <br/>
+They arranged to **meet Paul** on a certain day, <br/>
+and came in even **larger numbers** <br/>
 to the place where he was staying.
 
-He witnessed to them from morning till evening, <br/>
-explaining about the kingdom of God, <br/>
-and from the Law of Moses and from the Prophets <br/>
-he tried to persuade them about Jesus. ...
+He **witnessed** to them from morning till evening, <br/>
+explaining about the **kingdom of God**, <br/>
+and from the **Law** of Moses and from the **Prophets** <br/>
+he tried to **persuade** them about Jesus. ...
 
 ---
 
 ## Acts 28:24-25 (NIV) (p.2/4)
-Some were convinced by what he said, <br/>
-but others would not believe.
+Some were **convinced** by what he said, <br/>
+but others **would not** believe.
 
-They disagreed among themselves and began to leave <br/>
+They **disagreed** among themselves and began to leave <br/>
 after Paul had made this final statement:
 
-“The Holy Spirit spoke the truth to your ancestors <br/>
-when he said through Isaiah the prophet: ...
+“The **Holy Spirit** spoke the truth to your ancestors <br/>
+when he said through **Isaiah** the prophet: ...
 
 ---
 
 ## Acts 28:26-27 (NIV) (p.3/4)
 “ ‘Go to this people and say, <br/>
-“You will be ever hearing but never understanding; <br/>
-you will be ever seeing but never perceiving.”
+“You will be ever **hearing** but never **understanding**; <br/>
+you will be ever **seeing** but never **perceiving**.”
 
-For this people’s heart has become calloused; <br/>
-they hardly hear with their ears, <br/>
-and they have closed their eyes.
+For this people’s **heart** has become calloused; <br/>
+they hardly hear with their **ears**, <br/>
+and they have closed their **eyes**.
 
-Otherwise they might see with their eyes, <br/>
-hear with their ears, understand with their hearts <br/>
-and turn, and I would heal them.’ ...
+Otherwise they might **see** with their eyes, <br/>
+**hear** with their ears, **understand** with their hearts <br/>
+and **turn**, and I would **heal** them.’ ...
 
 ---
 
 ## Acts 28:28-31 (NIV) (p.4/4)
-“Therefore I want you to know that God’s salvation <br/>
-has been sent to the Gentiles, and they will listen!”
+“Therefore I want you to know that God’s **salvation** <br/>
+has been sent to the **Gentiles**, and they will listen!”
 
-For two whole years Paul stayed there in his own <br/>
-rented house and welcomed all who came to see him.
+For *two** whole years Paul stayed there in his own <br/>
+rented house and **welcomed** all who came to see him.
 
-He proclaimed the kingdom of God <br/>
-and taught about the Lord Jesus Christ -- <br/>
-with all boldness and without hindrance!
+He **proclaimed** the kingdom of God <br/>
+and **taught** about the Lord Jesus Christ -- <br/>
+with all **boldness** and without hindrance!
 
 >>>
 + "But **Paul**: apostle, wrote NT"
