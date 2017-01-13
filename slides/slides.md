@@ -36,14 +36,14 @@ http://fragrant-gospel.seanho.com/
 
 ---
 
-## Outline of Acts (1:8)
+## Outline of Acts <span class="ref">(1:8)</span>
 "You will receive power when the Holy Spirit comes on you; <br/>
 and you will be my witnesses in **Jerusalem**
-<span class="hl1">(ch2-7)</span>, <br/>
+<span class="ref">(ch2-7)</span>, <br/>
 and in all **Judea and Samaria**
-<span class="hl1">(ch8-11)</span>, <br/>
+<span class="ref">(ch8-11)</span>, <br/>
 and to the **ends of the earth**
-<span class="hl1">(ch12-28)</span>."
+<span class="ref">(ch12-28)</span>."
 
 >>>
 + Connect Acts / Rom / Isaiah
@@ -55,9 +55,9 @@ and to the **ends of the earth**
 ## You Will Be My Witnesses
 <div class="imgbox"><div>
 
-1. Paphos, Pamphylia<br/> <span class="hl1">(ch13-14)</span>
-2. Philippi, Corinth <br/> <span class="hl1">(ch15-18:22)</span>
-3. Ephesus, Greece <br/> <span class="hl1">(18:23-19:19)</span>
+1. Paphos, Pamphylia<br/> <span class="ref">(ch13-14)</span>
+2. Philippi, Corinth <br/> <span class="ref">(ch15-18:22)</span>
+3. Ephesus, Greece <br/> <span class="ref">(18:23-19:19)</span>
 
 </div><div style="flex:2">
 ![Cities visited by Paul](https://sermons.seanho.com/img/fig/Paul_geography.png)
@@ -72,7 +72,7 @@ and to the **ends of the earth**
 + not expect in **chains**!
 
 ---
-## Paul's Journey to Rome (ch21-28)
+## Paul's Journey to Rome <span class="ref">(ch21-28)</span>
 ![Paul's journey to Rome](https://sermons.seanho.com/img/fig/Paul_Rome_journey.svg)
 <div class="caption">
 [Wikipedia Italiano](https://commons.wikimedia.org/wiki/File%3APaul_the_Apostle%2C_fourth_missionary_journey_%28Rome%29.svg)
@@ -89,7 +89,7 @@ and to the **ends of the earth**
 
 ---
 
-## Acts 28:23 (NIV) (p.1/4)
+## Acts 28:23 <span class="ref">(NIV) (p.1/4)</span>
 They arranged to **meet Paul** on a certain day, <br/>
 and came in even **larger numbers** <br/>
 to the place where he was staying.
@@ -101,7 +101,7 @@ he tried to **persuade** them about Jesus. ...
 
 ---
 
-## Acts 28:24-25 (NIV) (p.2/4)
+## Acts 28:24-25 <span class="ref">(NIV) (p.2/4)</span>
 Some were **convinced** by what he said, <br/>
 but others **would not** believe.
 
@@ -113,7 +113,7 @@ when he said through **Isaiah** the prophet: ...
 
 ---
 
-## Acts 28:26-27 (NIV) (p.3/4)
+## Acts 28:26-27 <span class="ref">(NIV) (p.3/4)</span>
 “ ‘Go to this people and say, <br/>
 “You will be ever **hearing** but never **understanding**; <br/>
 you will be ever **seeing** but never **perceiving**.”
@@ -128,7 +128,7 @@ and **turn**, and I would **heal** them.’ ...
 
 ---
 
-## Acts 28:28-31 (NIV) (p.4/4)
+## Acts 28:28-31 <span class="ref">(NIV) (p.4/4)</span>
 “Therefore I want you to know that God’s **salvation** <br/>
 has been sent to the **Gentiles**, and they will listen!”
 
@@ -150,7 +150,7 @@ with all **boldness** and without hindrance!
 ---
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/father_son_walk.jpg" -->
-## Philippians 3:17 (NASB)
+## Philippians 3:17 <span class="ref">(NASB)</span>
 Brethren, **join** in following my **example**, <br/>
 and **observe** those who walk <br/>
 according to the **pattern** you have in us.
@@ -184,10 +184,12 @@ according to the **pattern** you have in us.
 + Paul **continues** for 2yrs in house arrest
 
 ---
-<div class="imgbox"><div>
+<div class="imgbox"><div style="flex:3">
 <h2>Paul and the Jews</h2><ul>
-<li> **Persecution**: <br/> Acts 13-14, 17-18, 21 </li>
-<li> **Heart** for Jews: <br/> Romans 9-11 </li>
+<li> **Persecution**: <br/>
+  <span class="ref">Acts 13-14, 17-18, 21</span> </li>
+<li> **Heart** for Jews: <br/>
+  <span class="ref">Romans 9-11</span> </li>
 </ul>
 
 <div class="caption">
@@ -195,7 +197,7 @@ according to the **pattern** you have in us.
 ~1633 (Kunsthistorisches Museum, Vienna)
 </div>
 
-</div><div style="flex:2">
+</div><div style="flex:5">
 ![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul-WGA19120.jpg)
 </div></div>
 
@@ -210,7 +212,7 @@ according to the **pattern** you have in us.
 ---
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
-## Romans 9:2-3 (NIV) (p.1/2)
+## Romans 9:2-3 <span class="ref">(NIV) (p.1/2)</span>
 I have great **sorrow** and unceasing **anguish** in my heart.
 
 For I could wish that I myself <br/>
@@ -230,7 +232,7 @@ the people of **Israel**. ...
 ---
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
-## Romans 9:4 (NIV) (p.2/2)
+## Romans 9:4 <span class="ref">(NIV) (p.2/2)</span>
 Theirs is the **adoption** to sonship; <br/>
 theirs the divine **glory**, the **covenants**, <br/>
 the receiving of the **law**, <br/>
@@ -253,13 +255,13 @@ ___
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: **Persuasion**
-  <span class="hl1">(v23)</span>
+  <span class="ref">(v23)</span>
 2. Hearers' response: **Partition**
-  <span class="hl1">(v24-25)</span>
+  <span class="ref">(v24-25)</span>
 3. Holy Spirit's prophecy: **Promise**
-  <span class="hl1">(v26-27)</span>
+  <span class="ref">(v26-27)</span>
 4. Paul's lifestyle: **Proclamation**
-  <span class="hl1">(v28-31)</span>
+  <span class="ref">(v28-31)</span>
 
 >>>
 + How did Paul share gospel with his
@@ -268,7 +270,7 @@ ___
 
 ---
 
-## 1. Persuasion: v23 (NIV)
+## 1. Persuasion: <span class="ref">v23 (NIV)</span>
 He **witnessed** to them from morning till evening, <br/>
 **explaining** about the kingdom of God, <br/>
 and from the Law of Moses and from the Prophets <br/>
@@ -299,7 +301,7 @@ Transcarpathian Regional Art Museum, Ukraine.
 
 ---
 
-## 1. Persuasion: v23 (NIV)
+## 1. Persuasion: <span class="ref">v23 (NIV)</span>
 He *witnessed* to them from morning till evening, <br/>
 *explaining* about the **kingdom of God**, <br/>
 and from the Law of Moses and from the Prophets <br/>
@@ -317,7 +319,7 @@ he tried to **persuade** them about Jesus.
 
 ---
 
-## 1 Corinthians 2:4-5 (NASB)
+## 1 Corinthians 2:4-5 <span class="ref">(NASB)</span>
 <div class="imgbox"><div style="flex:2">
 
 My **message** and my **preaching**
@@ -349,7 +351,7 @@ Rijksmuseum, Amsterdam.
 
 ---
 
-## 1. Persuasion: v23 (NIV)
+## 1. Persuasion: <span class="ref">v23 (NIV)</span>
 He *witnessed* to them from morning till evening, <br/>
 *explaining* about the *kingdom of God*, <br/>
 and from the **Law of Moses** and from the **Prophets** <br/>
@@ -379,7 +381,7 @@ he tried to *persuade* them about **Jesus**.
 ---
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Raphael-St_Paul_Preaching_Athens.jpg" -->
-## Acts 17:22-24 (NASB)
+## Acts 17:22-24 <span class="ref">(NASB)</span>
 <div class="imgbox"><div style="flex:3">
 “Men of **Athens**, I observe that <br/>
 you are **very religious** in all respects.
@@ -425,13 +427,13 @@ Therefore **what you worship** in ignorance, <br/>
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: **Persuasion**
-  <span class="hl1">(v23)</span>
+  <span class="ref">(v23)</span>
 2. Hearers' response: **Partition**
-  <span class="hl1">(v24-25)</span>
+  <span class="ref">(v24-25)</span>
 3. Holy Spirit's prophecy: **Promise**
-  <span class="hl1">(v26-27)</span>
+  <span class="ref">(v26-27)</span>
 4. Paul's lifestyle: **Proclamation**
-  <span class="hl1">(v28-31)</span>
+  <span class="ref">(v28-31)</span>
 
 >>>
 + When the gospel is **laid out** clearly,
@@ -440,7 +442,7 @@ Therefore **what you worship** in ignorance, <br/>
 
 ---
 
-## 2. Partition: v24-25 (NIV)
+## 2. Partition: <span class="ref">v24-25 (NIV)</span>
 Some were **convinced** by what he said, <br/>
 but others **would not believe**.
 
@@ -481,7 +483,7 @@ The Hague.)
 ---
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Rembrandt-Simeons_Song_of_Praise.jpg" -->
-## Luke 2:34-35 (ESV)
+## Luke 2:34-35 <span class="ref">(ESV)</span>
 Behold, this child is appointed for <br/>
 the **fall** and **rising** of many in Israel,
 
@@ -502,7 +504,7 @@ so that **thoughts** from many hearts may be **revealed**.
 ---
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Niedziella-Soeborg_Sword.jpg" -->
-## Matthew 10:34,37 (NIV)
+## Matthew 10:34,37 <span class="ref">(NIV)</span>
 Do not suppose that I have come to bring **peace** to the earth. <br/>
 I did not come to bring peace, but a **sword**.
 
@@ -594,13 +596,13 @@ And **my unworthiness**.
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: **Persuasion**
-  <span class="hl1">(v23)</span>
+  <span class="ref">(v23)</span>
 2. Hearers' response: **Partition**
-  <span class="hl1">(v24-25)</span>
+  <span class="ref">(v24-25)</span>
 3. Holy Spirit's prophecy: **Promise**
-  <span class="hl1">(v26-27)</span>
+  <span class="ref">(v26-27)</span>
 4. Paul's lifestyle: **Proclamation**
-  <span class="hl1">(v28-31)</span>
+  <span class="ref">(v28-31)</span>
 
 >>>
 + So some **reject** gospel
@@ -610,7 +612,7 @@ And **my unworthiness**.
 
 ---
 
-## 3. Promise: v26-27 (NIV)
+## 3. Promise: v26-27 <span class="ref">(NIV)</span>
 “ ‘Go to this people and say, <br/>
 “You will be ever **hearing** but never **understanding**; <br/>
 you will be ever **seeing** but never **perceiving**.”
@@ -654,7 +656,7 @@ Parable of **Sower**:
 ---
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/TobiasD-eye.jpg" -->
-## Isaiah 6:9-10 (ESV)
+## Isaiah 6:9-10 <span class="ref">(ESV)</span>
 Go, and say to this people: <br/>
 “Keep on **hearing**, but do not understand; <br/>
 keep on **seeing**, but do not perceive."
@@ -682,7 +684,7 @@ and **turn** and be **healed**.
 ---
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-d3Sg34sNBRM-ice_cream.jpg" -->
-## Romans 7:7-8 (NIV) (p.1/2)
+## Romans 7:7-8 <span class="ref">(NIV) (p.1/2)</span >
 I would not have **known** what sin was <br/>
 had it not been for the **law**.
 
@@ -703,7 +705,7 @@ produced in me every kind of coveting.
 ---
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-d3Sg34sNBRM-ice_cream.jpg" -->
-## Romans 7:13 (NIV) (p.2/2)
+## Romans 7:13 <span class="ref">(NIV) (p.2/2)</span>
 In order that sin might be **recognized as sin**, <br/>
 it used what is **good** to bring about **my death**, <br/>
 so that through the commandment
@@ -765,7 +767,7 @@ img &copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/797
 ---
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
-## Isaiah 6:11,13 (NIV)
+## Isaiah 6:11,13 <span class="ref">(NIV)</span>
 Then I said, “For **how long**, Lord?”
 
 And he answered: <br/>
@@ -787,7 +789,7 @@ so the **holy seed** will be the stump in the land.”
 ---
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
-## Romans 11:5 (NIV)
+## Romans 11:5 <span class="ref">(NIV)</span>
 So too, at the present time <br/>
 there is a **remnant** chosen by grace.
 
@@ -814,13 +816,13 @@ there is a **remnant** chosen by grace.
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: **Persuasion**
-  <span class="hl1">(v23)</span>
+  <span class="ref">(v23)</span>
 2. Hearers' response: **Partition**
-  <span class="hl1">(v24-25)</span>
+  <span class="ref">(v24-25)</span>
 3. Holy Spirit's prophecy: **Promise**
-  <span class="hl1">(v26-27)</span>
+  <span class="ref">(v26-27)</span>
 4. Paul's lifestyle: **Proclamation**
-  <span class="hl1">(v28-31)</span>
+  <span class="ref">(v28-31)</span>
 
 >>>
 How did Paul **continue** after
@@ -830,7 +832,7 @@ Let's **read** together:
 
 ---
 
-## 4. Proclamation: 28-31 (NIV)
+## 4. Proclamation: <span class="ref"> v28-31 (NIV)</span>
 “Therefore I want you to know that **God’s salvation** <br/>
 has been sent to the **Gentiles**, and they will **listen**!”
 
@@ -882,7 +884,7 @@ with all **boldness** and without hindrance!
 
 ---
 
-## 4. Proclamation: v31 (NIV)
+## 4. Proclamation: <span class="ref">v31 (NIV)</span>
 He **proclaimed** the *kingdom of God* <br/>
 and **taught** about the *Lord Jesus Christ* -- <br/>
 with all **boldness** and without **hindrance**.
@@ -920,7 +922,7 @@ with all **boldness** and without **hindrance**.
 ---
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-## 2 Corinthians 2:14-16 (ESV)
+## 2 Corinthians 2:14-16 <span class="ref">(ESV)</span>
 
 Thanks be to God, who in Christ
 always leads us in **triumphal procession**,
@@ -960,7 +962,7 @@ to the other a fragrance **from life to life**.
 ---
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-## 2 Corinthians 2:15-16 (ESV)
+## 2 Corinthians 2:15-16 <span class="ref">(ESV)</span>
 
 For we are the **aroma of Christ** to God <br/>
 among those who are being **saved** <br/>
