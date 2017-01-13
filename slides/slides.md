@@ -132,7 +132,7 @@ and **turn**, and I would **heal** them.’ ...
 “Therefore I want you to know that God’s **salvation** <br/>
 has been sent to the **Gentiles**, and they will listen!”
 
-For *two** whole years Paul stayed there in his own <br/>
+For **two** whole years Paul stayed there in his own <br/>
 rented house and **welcomed** all who came to see him.
 
 He **proclaimed** the kingdom of God <br/>
