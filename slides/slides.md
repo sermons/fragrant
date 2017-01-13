@@ -143,7 +143,7 @@ with all **boldness** and without hindrance!
 + "But **Paul**: apostle, wrote NT"
   + "I'm not a missionary!"
 + narr: "descrip, not prescrip"?
-+ not **exhaustive**, **exemplary*
++ not **exhaustive**, **exemplary**
   + Other methods in NT
 + not just a nice **story** that doesn't apply to us!
 
