@@ -245,7 +245,7 @@ the temple **worship** and the **promises**.
 + Specific to Israel, but ...
 + "**good guys**", not villains!
   + **Pious**, moral, desire good
-___
+______
 + Also, Claudius **expelled** Roman Jews for unrest (18:2)
   + they also **size up** Paul
   + Paul's **motive**: unrest?
