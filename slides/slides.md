@@ -285,7 +285,7 @@ he tried to **persuade** them about Jesus.
 + "explaining": **witness**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" class="nocenter empty" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" class="top empty" -->
 <div class="caption">
 [Nikolas Bodarevsky, "Trial of the Apostle Paul"](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg), 1875.
 Transcarpathian Regional Art Museum, Ukraine.
@@ -366,7 +366,7 @@ he tried to *persuade* them about **Jesus**.
   + v20: **fulfill** hope, !attack
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Raphael-St_Paul_Preaching_Athens.jpg" class="nocenter empty" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Raphael-St_Paul_Preaching_Athens.jpg" class="top empty" -->
 
 <div class="caption" >
 [Raphael, "St. Paul Preaching in Athens"](http://www.the-athenaeum.org/art/detail.php?ID=34558), tempera cartoon for Sistine Chapel, 1515.
@@ -469,7 +469,7 @@ ______
   + "peace on earth to men of [God's] good will"
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Rembrandt-Simeons_Song_of_Praise.jpg" class="nocenter" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Rembrandt-Simeons_Song_of_Praise.jpg" class="top" -->
 ## The Sign of Contradiction
 <p class="caption">
 ([Rembrandt, "Simeon's Song of Praise"](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/), 1631.
@@ -746,7 +746,7 @@ when it seems like our evangelism **fails**.
 Needs a **change of heart**, work of H.S.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bethanypetrik-crying_child.jpg" class="nocenter" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bethanypetrik-crying_child.jpg" class="top" -->
 ... lest they **understand** with their hearts, <br/>
 and **turn** and be **healed**.
 
