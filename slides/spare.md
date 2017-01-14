@@ -1,4 +1,53 @@
 
+---
+
+## Beneath the Cross of Jesus
+<div class="imgbox"><div>
+![Elizabeth Clephane](https://sermons.seanho.com/img/fig/Clephane.jpg)
+<div class="caption">
+[Elizabeth Clephane](http://www.hymntime.com/tch/htm/b/t/c/btcjesus.htm) 1868, Scotland
+</div>
+</div><div style="flex:3; -webkit-box-flex:0.33">
+Upon that **cross of Jesus** <br/>
+Mine **eye** at times can see <br/>
+The very **dying** form of One <br/>
+Who **suffered** there for me;
+
+And from my **stricken heart** with tears <br/>
+**Two wonders** I confess; <br/>
+The wonders of **redeeming love** <br/>
+And **my unworthiness**.
+</div></div>
+
+>>>
++ Sword pierces our **own soul**
++ And pierces those who **hear**
+
+---
+
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/VanGogh-The_Sower.jpg" -->
+## Ever Hearing, Never Understanding
+
+Parable of **Sower**:
+[Mt 13](https://mobile.biblegateway.com/passage/?search=mt13.13-15),
+[Mk 4](https://mobile.biblegateway.com/passage/?search=mk4.11-12),
+[Lk 8](https://mobile.biblegateway.com/passage/?search=lk8.10).
+
+[John 12](https://mobile.biblegateway.com/passage/?search=jn12.39-42): Isaiah saw His **glory**
+
+<div class="caption">(
+[Van Gogh, "The Sower"](http://krollermuller.nl/en/vincent-van-gogh-the-sower), 1888. Kröller-Müller Museum
+)</div>
+
+>>>
++ Nope, it's in all 3 **synoptics**
+  + Sower: why use **parables**
++ John: because saw God's **glory**
++ let's go deeper, to the original:
+  + God's **calling** for Isaiah
+
+---
+
 ## Paul Writing Epistles
 <div class="imgbox"><div>
 ![Boulogne, St Paul Writing His Epistles](static/img/Boulogne-Paul_Writing.jpg)
