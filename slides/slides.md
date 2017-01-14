@@ -6,22 +6,6 @@
 + Often focus on **success** stories of evangelism.
 + What happens when it seems like we **fail**?
 
-______
-
-Bulletin insert:
-http://fragrant-gospel.seanho.com/
-
-1. **Persuasion** (v23)
-  + Do I love my **pious countrymen**?
-  + Do I love them enough to **lay out** the gospel clearly to them?
-2. **Partition** (v24-25)
-  + Has the **sword** of Christ's kingship pierced **my own** soul?
-  + Am I willing to let it **divide** my loved ones?
-3. **Promise** (v26-27)
-  + How do I **react** when others take **offense** at the gospel?
-4. **Proclamation** (v28-31)
-  + Do I exude the **fragrance of Christ** in my daily life?
-
 ---
 <!-- .slide: class="Q" data-background="white" -->
 # How do I **react** when others take **offense** at the gospel?
@@ -50,26 +34,6 @@ and to the **ends of the earth**
 + Finishing series on Acts
 + Gospel in concentric **circles**
 + Half of Acts: Paul's **3 journeys**"
-
----
-## You Will Be My Witnesses
-<div class="imgbox"><div>
-
-1. Paphos, Pamphylia<br/> <span class="ref">(ch13-14)</span>
-2. Philippi, Corinth <br/> <span class="ref">(ch15-18:22)</span>
-3. Ephesus, Greece <br/> <span class="ref">(18:23-19:19)</span>
-
-</div><div style="flex:2; -webkit-box-flex:0.5">
-![Cities visited by Paul](https://sermons.seanho.com/img/fig/Paul_geography.png)
-<div class="caption">
-[(@Alecmconroy)](https://commons.wikimedia.org/wiki/File%3ABroad_overview_of_geography_relevant_to_paul_of_tarsus.png)
-</div>
-</div></div>
-
->>>
-+ In **Ephesus** had plan (19:21):
-  + -> **Jeru** -> **Rome**
-+ not expect in **chains**!
 
 ---
 ## Paul's Journey to Rome <span class="ref">(ch21-28)</span>

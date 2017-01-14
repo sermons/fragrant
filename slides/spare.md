@@ -1,5 +1,25 @@
 
 ---
+## You Will Be My Witnesses
+<div class="imgbox"><div>
+
+1. Paphos, Pamphylia<br/> <span class="ref">(ch13-14)</span>
+2. Philippi, Corinth <br/> <span class="ref">(ch15-18:22)</span>
+3. Ephesus, Greece <br/> <span class="ref">(18:23-19:19)</span>
+
+</div><div style="flex:2; -webkit-box-flex:0.5">
+![Cities visited by Paul](https://sermons.seanho.com/img/fig/Paul_geography.png)
+<div class="caption">
+[(@Alecmconroy)](https://commons.wikimedia.org/wiki/File%3ABroad_overview_of_geography_relevant_to_paul_of_tarsus.png)
+</div>
+</div></div>
+
+>>>
++ In **Ephesus** had plan (19:21):
+  + -> **Jeru** -> **Rome**
++ not expect in **chains**!
+
+---
 
 ## Beneath the Cross of Jesus
 <div class="imgbox"><div>
