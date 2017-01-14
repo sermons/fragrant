@@ -59,7 +59,7 @@ and to the **ends of the earth**
 2. Philippi, Corinth <br/> <span class="ref">(ch15-18:22)</span>
 3. Ephesus, Greece <br/> <span class="ref">(18:23-19:19)</span>
 
-</div><div style="flex:2">
+</div><div style="flex:2; -webkit-box-flex:0.5">
 ![Cities visited by Paul](https://sermons.seanho.com/img/fig/Paul_geography.png)
 <div class="caption">
 [(@Alecmconroy)](https://commons.wikimedia.org/wiki/File%3ABroad_overview_of_geography_relevant_to_paul_of_tarsus.png)
@@ -184,7 +184,7 @@ according to the **pattern** you have in us.
 + Paul **continues** for 2yrs in house arrest
 
 ---
-<div class="imgbox"><div style="flex:3">
+<div class="imgbox"><div style="flex:3; -webkit-box-flex:0.33">
 <h2>Paul and the Jews</h2><ul>
 <li> **Persecution**: <br/>
   <span class="ref">Acts 13-14, 17-18, 21</span> </li>
@@ -197,7 +197,7 @@ according to the **pattern** you have in us.
 ~1633 (Kunsthistorisches Museum, Vienna)
 </div>
 
-</div><div style="flex:5">
+</div><div style="flex:5; -webkit-box-flex:0.2">
 ![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul-WGA19120.jpg)
 </div></div>
 
@@ -320,7 +320,7 @@ he tried to **persuade** them about Jesus.
 ---
 
 ## 1 Corinthians 2:4-5 <span class="ref">(NASB)</span>
-<div class="imgbox"><div style="flex:2">
+<div class="imgbox"><div style="flex:2; -webkit-box-flex:0.5">
 
 My **message** and my **preaching**
 
@@ -382,7 +382,7 @@ he tried to *persuade* them about **Jesus**.
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Raphael-St_Paul_Preaching_Athens.jpg" -->
 ## Acts 17:22-24 <span class="ref">(NASB)</span>
-<div class="imgbox"><div style="flex:3">
+<div class="imgbox"><div style="flex:3; -webkit-box-flex:0.33">
 “Men of **Athens**, I observe that <br/>
 you are **very religious** in all respects.
 
@@ -561,7 +561,7 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 <div class="caption">
 [Elizabeth Clephane](http://www.hymntime.com/tch/htm/b/t/c/btcjesus.htm) 1868, Scotland
 </div>
-</div><div style="flex:3">
+</div><div style="flex:3; -webkit-box-flex:0.33">
 Upon that **cross of Jesus** <br/>
 Mine **eye** at times can see <br/>
 The very **dying** form of One <br/>
