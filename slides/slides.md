@@ -203,12 +203,15 @@ the receiving of the **law**, <br/>
 the temple **worship** and the **promises**.
 
 >>>
-+ **Blessed** by God, **chosen** by God, had **Word** of God
++ **Blessed**, **chosen**, had **Word**
   + OT **worship** + **promises**
   + **Hope** eagerly for **rescue**
 + Specific to Israel, but ...
 + "**good guys**", not villains!
   + **Pious**, moral, desire good
++ **How** did Paul share gospel with his
+  **pious countrymen** whom he loved so deeply?
+
 ______
 + Also, Claudius **expelled** Roman Jews for unrest (18:2)
   + they also **size up** Paul
@@ -216,29 +219,9 @@ ______
 
 ---
 
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-## Ac28: The Fragrant Gospel
-1. Paul's heart: **Persuasion**
-  <span class="ref">(v23)</span>
-2. Hearers' response: **Partition**
-  <span class="ref">(v24-25)</span>
-3. Holy Spirit's prophecy: **Promise**
-  <span class="ref">(v26-27)</span>
-4. Paul's lifestyle: **Proclamation**
-  <span class="ref">(v28-31)</span>
-
->>>
-+ How did Paul share gospel with his
-  **pious countrymen** whom he loved so deeply?
-+ Let's **read** together:
-
----
-
 ## 1. Persuasion: <span class="ref">v23 (NIV)</span>
 He **witnessed** to them from morning till evening, <br/>
-**explaining** about the kingdom of God, <br/>
-and from the Law of Moses and from the Prophets <br/>
-he tried to **persuade** them about Jesus.
+**explaining** about the kingdom of God, ...
 
 >>>
 + NIV: **swap** first 2 verbs
@@ -246,7 +229,7 @@ he tried to **persuade** them about Jesus.
   + exposition
   + **asked** his thinking: v22
   + Clear **main point**
-+ "explaining": **witness**
++ "explaining": **witness**, testify
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" class="top empty" -->
@@ -390,13 +373,13 @@ Therefore **what you worship** in ignorance, <br/>
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
-1. Paul's heart: **Persuasion**
+1. Paul's heart: Persuasion
   <span class="ref">(v23)</span>
-2. Hearers' response: **Partition**
+2. **Hearers' response: Partition**
   <span class="ref">(v24-25)</span>
-3. Holy Spirit's prophecy: **Promise**
+3. Holy Spirit's prophecy: Promise
   <span class="ref">(v26-27)</span>
-4. Paul's lifestyle: **Proclamation**
+4. Paul's lifestyle: Proclamation
   <span class="ref">(v28-31)</span>
 
 >>>
@@ -413,8 +396,8 @@ but others **would not believe**.
 They **disagreed** among themselves and began to **leave** <br/>
 after Paul had made this final statement:
 
-“The Holy Spirit spoke the truth to your ancestors <br/>
-when he said through Isaiah the prophet:
+“The **Holy Spirit** spoke the truth to your ancestors <br/>
+when he said through **Isaiah** the prophet:
 
 >>>
 + Cause **divisions**, **reveal** hearts
