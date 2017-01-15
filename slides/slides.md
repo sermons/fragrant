@@ -612,13 +612,13 @@ so that through the commandment
   [Rom 9:14](https://mobile.biblegateway.com/passage/?search=ro9.14)
 + Isn't it all God's **fault** anyway? &rarr;
   [Rom 9:19](https://mobile.biblegateway.com/passage/?search=ro9.19)
-+ Why didn't the **pious** attain salvation? &rarr;
++ Isn't it good enough to be **moral** / ethical? &rarr;
   [Rom 9:32](https://mobile.biblegateway.com/passage/?search=ro9.32)
 + How then is **anyone** saved? &rarr;
   [Rom 10:8-10](https://mobile.biblegateway.com/passage/?search=ro10.8-10)
 + Are they lost **forever**? &rarr;
   [Rom 11:1-2](https://mobile.biblegateway.com/passage/?search=ro11.1-2)
-+ So they just suck, and we **rule**, right? &rarr;
++ Is it because we're **better** than they are? &rarr;
   [Rom 11:18-21](https://mobile.biblegateway.com/passage/?search=ro11.18-21)
 
 >>>
