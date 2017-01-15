@@ -113,22 +113,6 @@ with all **boldness** and without hindrance!
 
 ---
 
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/father_son_walk.jpg" -->
-## Philippians 3:17 <span class="ref">(NASB)</span>
-Brethren, **join** in following my **example**, <br/>
-and **observe** those who walk <br/>
-according to the **pattern** you have in us.
-
->>>
-+ Examples do matter!
-  + **Totality** of Biblical ex
-  + Common **threads**
-  + **Pattern** for us to follow
-+ Ultimate example is **Christ**
-  + (1Cor11:1 follow me as I follow Christ)
-
----
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: **Persuasion**
@@ -455,7 +439,6 @@ so that **thoughts** from many hearts may be **revealed**.
 Do not suppose that I have come to bring **peace** to the earth. <br/>
 I did not come to bring peace, but a **sword**.
 
-[...]<br/>
 Anyone who loves their **father or mother** <br/>
 more than me is not worthy of me; <br/>
 anyone who loves their **son or daughter** <br/>
@@ -518,13 +501,13 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
-1. Paul's heart: **Persuasion**
+1. Paul's heart: Persuasion
   <span class="ref">(v23)</span>
-2. Hearers' response: **Partition**
+2. Hearers' response: Partition
   <span class="ref">(v24-25)</span>
-3. Holy Spirit's prophecy: **Promise**
+3. **Holy Spirit's prophecy: Promise**
   <span class="ref">(v26-27)</span>
-4. Paul's lifestyle: **Proclamation**
+4. Paul's lifestyle: Proclamation
   <span class="ref">(v28-31)</span>
 
 >>>
@@ -674,7 +657,7 @@ And he answered: <br/>
 and without inhabitant, [...] <br/>
 and the land is utterly **forsaken**.
 
-[...] But as the terebinth and **oak** <br/>
+But as the terebinth and **oak** <br/>
 leave **stumps** when they are cut down, <br/>
 so the **holy seed** will be the stump in the land.”
 
@@ -714,13 +697,13 @@ there is a **remnant** chosen by grace.
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
-1. Paul's heart: **Persuasion**
+1. Paul's heart: Persuasion
   <span class="ref">(v23)</span>
-2. Hearers' response: **Partition**
+2. Hearers' response: Partition
   <span class="ref">(v24-25)</span>
-3. Holy Spirit's prophecy: **Promise**
+3. Holy Spirit's prophecy: Promise
   <span class="ref">(v26-27)</span>
-4. Paul's lifestyle: **Proclamation**
+4. **Paul's lifestyle: Proclamation**
   <span class="ref">(v28-31)</span>
 
 >>>

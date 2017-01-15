@@ -1,5 +1,21 @@
 
 ---
+
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/father_son_walk.jpg" -->
+## Philippians 3:17 <span class="ref">(NASB)</span>
+Brethren, **join** in following my **example**, <br/>
+and **observe** those who walk <br/>
+according to the **pattern** you have in us.
+
+>>>
++ Examples do matter!
+  + **Totality** of Biblical ex
+  + Common **threads**
+  + **Pattern** for us to follow
++ Ultimate example is **Christ**
+  + (1Cor11:1 follow me as I follow Christ)
+
+---
 ## You Will Be My Witnesses
 <div class="imgbox"><div>
 
