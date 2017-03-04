@@ -1,4 +1,5 @@
-# Acts 28, The Fragrant Gospel
+# The Fragrant Gospel
+## Acts 28:23-31
 
 [![Travis-CI build status](https://travis-ci.org/sermons/fragrant-gospel.svg)](https://travis-ci.org/sermons/fragrant-gospel)
 [![Node dependencies](https://david-dm.org/sermons/fragrant-gospel.svg)](https://david-dm.org/sermons/fragrant-gospel)
