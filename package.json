@@ -1,9 +1,9 @@
 {
   "name": "@sermons/fragrant-gospel",
-  "version": "1.2.4",
   "repository": "sermons/fragrant-gospel",
   "description": "Acts 28:23-31, The Fragrant Gospel",
   "keywords": ["slides", "sermons", "talks"],
+  "version": "1.2.4",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "fragrant-gospel.seanho.com",
