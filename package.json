@@ -3,7 +3,7 @@
   "repository": "sermons/fragrant-gospel",
   "description": "Acts 28:23-31, The Fragrant Gospel",
   "keywords": ["slides", "sermons", "talks"],
-  "version": "1.2.4",
+  "version": "1.3.0",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "fragrant-gospel.seanho.com",
@@ -62,7 +62,7 @@
     "grunt-build-control": "^0.7.1",
     "grunt-coffeelint": "^0.0.16",
     "coffeelint": "^1.16.0",
-    "phantom": "^4.0.1"
+    "grunt-git": "^1.0.3"
   },
   "scripts": {
     "test": "grunt test",
