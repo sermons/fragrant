@@ -42,6 +42,9 @@ and to the **ends of the earth**
 [Wikipedia Italiano](https://commons.wikimedia.org/wiki/File%3APaul_the_Apostle%2C_fourth_missionary_journey_%28Rome%29.svg)
 </div>
 
+[###](#/outline)
+<!-- .element: style="color:rgba(0,0,0,0.2)" -->
+
 >>>
 + **Jeru**: accused defile temple
 + **Caesarea**: stuck 2yrs (24:27)
@@ -113,7 +116,7 @@ with all **boldness** and without hindrance!
 
 ---
 
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" id="outline" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: **Persuasion**
   <span class="hl1">(v23)</span>
