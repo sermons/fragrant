@@ -10,6 +10,9 @@
 <!-- .slide: class="Q" data-background="white" -->
 # How do I **react** when others take **offense** at the gospel?
 
+[###](#/outline)
+<!-- .element: style="color:rgba(0,0,0,0.2)" -->
+
 >>>
 + What if it's s.o. we **care** about?
   + Combat?  Frustr?  Resign?
@@ -17,42 +20,6 @@
 + 2. **Effect** on hearers
 + 3. How we should **respond**
 + 4. How it **changes** daily life
-
----
-
-## Outline of Acts <span class="ref">(1:8)</span>
-"You will receive power when the Holy Spirit comes on you; <br/>
-and you will be my witnesses in **Jerusalem**
-<span class="ref">(ch2-7)</span>, <br/>
-and in all **Judea and Samaria**
-<span class="ref">(ch8-11)</span>, <br/>
-and to the **ends of the earth**
-<span class="ref">(ch12-28)</span>."
-
->>>
-+ Connect Acts / Rom / Isaiah
-+ Finishing series on Acts
-+ Gospel in concentric **circles**
-+ Half of Acts: Paul's **3 journeys**"
-
----
-## Paul's Journey to Rome <span class="ref">(ch21-28)</span>
-![Paul's journey to Rome](https://sermons.seanho.com/img/fig/Paul_Rome_journey.svg)
-<div class="caption">
-[Wikipedia Italiano](https://commons.wikimedia.org/wiki/File%3APaul_the_Apostle%2C_fourth_missionary_journey_%28Rome%29.svg)
-</div>
-
-[###](#/outline)
-<!-- .element: style="color:rgba(0,0,0,0.2)" -->
-
->>>
-+ **Jeru**: accused defile temple
-+ **Caesarea**: stuck 2yrs (24:27)
-+ **Shipwreck** (ch27): priorities, foundation, witness
-+ Rome: **Chr** care for him
-  + Call **Jewish** leaders
-  + Want **hear** his thoughts
-+ Today's passage, let's **read**:
 
 ---
 
