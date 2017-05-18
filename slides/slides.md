@@ -103,7 +103,7 @@ with all **boldness** and without hindrance!
 
 ---
 <div class="imgbox"><div style="flex:3; -webkit-box-flex:0.33">
-<h2>Paul and the Jews</h2><ul>
+<h2>Paul and <br/> the Jews</h2><ul>
 <li> **Persecution**: <br/>
   <span class="ref">Acts 13-14, 17-18, 21</span> </li>
 <li> **Heart** for Jews: <br/>
