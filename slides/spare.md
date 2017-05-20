@@ -192,3 +192,32 @@ so that he may have **mercy** on them all.
 >>>
 + Not: "why **doesn't** God save them?"
 + But: "why **does** God save anybody?"
+
+---
+## Paul After Acts
+<div class="imgbox"><div>
+<ul>
+<li> 2 years to see **Nero**
+<li> Probably **acquitted** at trial
+[(2Tim4)](https://mobile.biblegateway.com/passage/?search=2Tim4.16)
+<li> Possible preaching in **Spain**
+[(Rom15)](https://mobile.biblegateway.com/passage/?search=Rom15.24-28)
+<li> **Beheaded** in Rome under Nero (acc. to Eusebius)
+</ul>
+
+<div class="caption">
+[Pierre-Étienne Monnot, "St Paul"](https://commons.wikimedia.org/wiki/File%3APaulus_San_Giovanni_in_Laterano_2006-09-07.jpg)
+(Nave of the Basilica of St. John Lateran, Rome).
+&copy; Marie-Lan Nguyen
+</div>
+</div><div>
+![Monnot, St Paul](https://sermons.seanho.com/img/fig/Monnot-Paul_in_Lateran.jpg)
+</div></div>
+
+>>>
++ Acc. early **church fathers**
++ also 2yrs in **Caesarea** for Felix
+  + not **important** to Romans
++ **Eusebius**: not Nero direct,
+  + but his anti-Chr sentiment
++ How did Paul **spend** 2yrs waiting?
