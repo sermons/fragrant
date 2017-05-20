@@ -215,6 +215,10 @@ so that he may have **mercy** on them all.
 </div></div>
 
 >>>
++ Acts ends seemingly **abruptly**:
+  + What about Paul's **trial**?
+  + Appeal to **Caesar**?
+  + Accused by Jeru **Jews**?
 + Acc. early **church fathers**
 + also 2yrs in **Caesarea** for Felix
   + not **important** to Romans

@@ -712,10 +712,6 @@ with all **boldness** and without hindrance!
 + **Gent**: (13:46-47) Pis Antioch
 + **stayed** + welcomed:
   + **rent**: tents (1Co9, 2Co11)
-+ Acts ends seemingly **abruptly**:
-  + What about Paul's **trial**?
-  + Appeal to **Caesar**?
-  + Accused by Jeru **Jews**?
 
 ---
 
