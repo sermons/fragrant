@@ -197,7 +197,10 @@ ______
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" -->
 <span class="ref">23</span>
 He **witnessed** to them from morning till evening, <br/>
-**explaining** about the kingdom of God, ...
+**explaining** about the kingdom of God,
+
+and from the Law of Moses and from the Prophets <br/>
+he tried to **persuade** them about Jesus.
 
 <div class="ref">
 Acts 28:23 (NIV)
@@ -211,31 +214,19 @@ Transcarpathian Regional Art Museum, Ukraine.
 >>>
 + (NIV: **swap** first 2 verbs)
 + "witness" (**lay out**): put forth
-  + exposition
-  + **asked** his thinking: v22
-  + Clear **main point**
+  + clear exposition
 + "explaining": **witness**, testify
-  + recount: **martyr**
-  + focus not on **messenger**
-  + but **message**
-
+  + recount: *martyr*
+  + not about **messenger** but **msg**
++ **persuade** (faith, belief, trust):
+  + convince, coax, seduce
+  + ew, **telemarketing**?
+    + (14:19) Jews "**won over**"
+  + no, in fact...
 ______
 + ... to **kingdom** of God:
   + king **now** of creation
   + **near**: soon all will bow
-
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" -->
-<span class="ref">23</span>
-... and from the Law of Moses and from the Prophets <br/>
-he tried to **persuade** them about Jesus.
-
->>>
-+ **persuade** (faith, belief, trust):
-  + convince, coax, seduce
-+ ew, **telemarketing**?
-  + (14:19) Jews "**won over**"
-  + in fact...
 
 ---
 ## 1 Corinthians 2:4-5 <span class="ref">(NASB)</span>
@@ -291,7 +282,7 @@ he tried to *persuade* them about **Jesus**.
 
 >>>
 + Diff approach in **Athens**:
-+ No **OT** bg, hope of Messiah
+  + No **OT** bg, hope of Messiah
 + Still start from their **piety**
 + Present Christ as **Creator**
 
@@ -319,12 +310,11 @@ Therefore **what you worship** in ignorance, <br/>
 + 89% of US adults believe in "God or a universal spirit"
 + God **unknown**, vague, abstract
   + Fill **void** w/other pursuits
-+ H.S. **ahead** of us in community
 
 ---
 <!-- .slide: data-background="white" -->
-## Do I love my **pious countrymen**?
-## Love them enough to **lay out** the gospel clearly to them?
+# Do I love my **pious countrymen**?
+# Love them enough to **lay out** the gospel clearly to them?
 
 >>>
 + **countrymen**: CN, TW, HK, US
@@ -699,19 +689,26 @@ has been sent to the **Gentiles**, and they will **listen**!”
 For **two whole years** Paul stayed there in his own <br/>
 rented house and **welcomed** all who came to see him.
 
-<span class="ref">31</span>
-He **proclaimed** the *kingdom of God* <br/>
-and **taught** about the *Lord Jesus Christ* -- <br/>
-with all **boldness** and without **hindrance**.
-
 <div class="ref">
-Acts 28:28-31 (NIV)
+Acts 28:28-30 (NIV) (p.1/2)
 </div>
 
 >>>
 + **Gent**: (13:46-47) Pis Antioch
 + **stayed** + welcomed:
   + **rent**: tents (1Co9, 2Co11)
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/fig/Boulogne-Paul_Writing.jpg" -->
+He **proclaimed** the *kingdom of God* <br/>
+and **taught** about the *Lord Jesus Christ* -- <br/>
+with all **boldness** and without **hindrance**.
+
+<div class="ref">
+Acts 28:31 (NIV) (p.2/2)
+</div>
+
+>>>
 + proclaimed (**preach**):
   + **kingdom** of God
 + **taught**: about Jesus
@@ -720,12 +717,17 @@ Acts 28:28-31 (NIV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-<span class="ref">14</span>
 Thanks be to God, who in Christ
 always leads us in **triumphal procession**,
 and through us spreads the **fragrance**
 of the **knowledge of Him** everywhere.
 
+<div class="ref">
+2 Corinthians 2:14 (ESV) (p.1/2)
+</div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 <span class="ref">15</span>
 For we are the **aroma of Christ** to God <br/>
 among those who are being **saved** <br/>
@@ -736,7 +738,7 @@ to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
 
 <div class="ref">
-2 Corinthians 2:14-16 (ESV)
+2 Corinthians 2:15-16 (ESV) (p.2/2)
 </div>
 
 >>>
