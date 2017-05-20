@@ -355,7 +355,8 @@ Some were **convinced** by what he said, <br/>
 but others **would not believe**.
 
 <span class="ref">25</span>
-They **disagreed** among themselves and began to **leave** ...
+They **disagreed** among themselves <br/>
+and began to **leave** ...
 
 <div class="ref">
 Acts 28:24-25 (NIV)
@@ -416,24 +417,13 @@ Luke 2:34-35 (ESV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Niedziella-Soeborg_Sword.jpg" -->
-<span class="ref">34</span>
 Do not suppose that I have come <br/>
-to bring **peace** to the earth. <br/>
+to bring **peace** to the earth.
+
 I did not come to bring peace, but a **sword**.
 
-<span class="ref">37</span>
-Anyone who loves their **father or mother** <br/>
-more than me is not worthy of me; <br/>
-anyone who loves their **son or daughter** <br/>
-more than me is not worthy of me.
-
-<!--
-Whoever does not take up their **cross** <br/>
-and **follow me** is not worthy of me.
--->
-
 <div class="ref">
-Matthew 10:34,37 (NIV)
+Matthew 10:34 (NIV) (p.1/2)
 </div>
 
 <div class="caption">
@@ -452,8 +442,19 @@ National Museum Copenhagen.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bryandilts-grandfather.jpg" -->
-... anyone who loves their **son or daughter** <br/>
+Anyone who loves their **father or mother** <br/>
+more than me is not worthy of me; <br/>
+anyone who loves their **son or daughter** <br/>
 more than me is not worthy of me.
+
+<!--
+Whoever does not take up their **cross** <br/>
+and **follow me** is not worthy of me.
+-->
+
+<div class="ref">
+Matthew 10:37 (NIV) (p.2/2)
+</div>
 
 <div class="caption">
 img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/)
