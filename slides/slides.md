@@ -697,16 +697,17 @@ How did Paul **continue** after
 the **disappointment** of rejection?
 
 ---
-## 4. Proclamation: <span class="ref"> v28-31 (NIV)</span>
+<span class="ref">28</span>
 “Therefore I want you to know that **God’s salvation** <br/>
 has been sent to the **Gentiles**, and they will **listen**!”
 
+<span class="ref">30</span>
 For **two whole years** Paul stayed there in his own <br/>
 rented house and **welcomed** all who came to see him.
 
-He **proclaimed** the kingdom of God <br/>
-and **taught** about the Lord Jesus Christ -- <br/>
-with all **boldness** and without hindrance!
+<div class="ref">
+Acts 28:28,30 (NIV)
+</div>
 
 >>>
 + **Gent**: (13:46-47) Pis Antioch
@@ -714,7 +715,6 @@ with all **boldness** and without hindrance!
   + **rent**: tents (1Co9, 2Co11)
 
 ---
-
 ## 4. Proclamation: <span class="ref">v31 (NIV)</span>
 He **proclaimed** the *kingdom of God* <br/>
 and **taught** about the *Lord Jesus Christ* -- <br/>
@@ -729,7 +729,6 @@ with all **boldness** and without **hindrance**.
 + but **who** could he reach?
 
 ---
-
 <div class="imgbox"><div>
 ![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul.jpg)
 <div class="caption">
