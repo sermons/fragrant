@@ -310,10 +310,7 @@ I also found an altar with this inscription, <br/>
 Therefore **what you worship** in ignorance, <br/>
 **this I proclaim** to you."
 </div><div>
-![89% adults believe in God](https://sermons.seanho.com/img/fig/Pew-RLS14-BeliefInGod.png)
-<div class="caption">
-[Pew 2014 Religious Landscape Study](http://www.pewresearch.org/fact-tank/2015/11/04/americans-faith-in-god-may-be-eroding/)
-</div>
+[![89% adults believe in God](https://sermons.seanho.com/img/fig/Pew-RLS14-BeliefInGod.png)](http://www.pewresearch.org/fact-tank/2015/11/04/americans-faith-in-god-may-be-eroding/)
 </div></div>
 
 >>>
