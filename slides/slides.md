@@ -705,45 +705,45 @@ has been sent to the **Gentiles**, and they will **listen**!”
 For **two whole years** Paul stayed there in his own <br/>
 rented house and **welcomed** all who came to see him.
 
+<span class="ref">31</span>
+He **proclaimed** the *kingdom of God* <br/>
+and **taught** about the *Lord Jesus Christ* -- <br/>
+with all **boldness** and without **hindrance**.
+
 <div class="ref">
-Acts 28:28,30 (NIV)
+Acts 28:28-31 (NIV)
 </div>
 
 >>>
 + **Gent**: (13:46-47) Pis Antioch
 + **stayed** + welcomed:
   + **rent**: tents (1Co9, 2Co11)
-
----
-## 4. Proclamation: <span class="ref">v31 (NIV)</span>
-He **proclaimed** the *kingdom of God* <br/>
-and **taught** about the *Lord Jesus Christ* -- <br/>
-with all **boldness** and without **hindrance**.
-
->>>
 + proclaimed (**preach**):
   + **kingdom** of God
 + **taught**: about Jesus
 + boldness (**free speech**)
   + unhindered (w/o **stop**)
-+ but **who** could he reach?
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-## 2 Corinthians 2:14-16 <span class="ref">(ESV)</span>
-
+<span class="ref">14</span>
 Thanks be to God, who in Christ
 always leads us in **triumphal procession**,
 and through us spreads the **fragrance**
 of the **knowledge of Him** everywhere.
 
+<span class="ref">15</span>
 For we are the **aroma of Christ** to God <br/>
 among those who are being **saved** <br/>
 and among those who are **perishing**,
 
+<span class="ref">16</span>
 to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
+
+<div class="ref">
+2 Corinthians 2:14-16 (ESV)
+</div>
 
 >>>
 + **everywh**: Troas &rarr; Macedonia
@@ -755,8 +755,7 @@ to the other a fragrance **from life to life**.
 + **turn** to Lord &rarr; veil **lifted**
 
 ---
-
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Do I exude the **fragrance of Christ** <br/> in my daily life?
 
 >>>
@@ -767,23 +766,23 @@ to the other a fragrance **from life to life**.
   + stench: death to **sin**
   + aroma: **new life** Christ
 + **death** &rarr; death, **life** &rarr; life
++ **Read** together again, last slide:
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-## 2 Corinthians 2:15-16 <span class="ref">(ESV)</span>
-
+<span class="ref">15</span>
 For we are the **aroma of Christ** to God <br/>
 among those who are being **saved** <br/>
 and among those who are **perishing**,
 
+<span class="ref">16</span>
 to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
 
->>>
-**Read** together again, last slide
+<div class="ref">
+2 Corinthians 2:15-16 (ESV)
+</div>
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" class="empty" -->
 
