@@ -225,3 +225,24 @@ so that he may have **mercy** on them all.
 + **Eusebius**: not Nero direct,
   + but his anti-Chr sentiment
 + How did Paul **spend** 2yrs waiting?
+
+---
+<div class="imgbox"><div>
+![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul.jpg)
+<div class="caption">
+[Rembrandt, "The Apostle Paul"](http://www.nga.gov/content/ngaweb/Collection/art-object-page.1198.html), ~1657.  National Gallery of Art, Washington DC
+</div>
+</div><div>
+![Praetorian guard](https://sermons.seanho.com/img/fig/Praetorian_Guard.jpg)
+<div class="caption">
+[Statue of praetorian soldier](https://commons.wikimedia.org/wiki/File%3APr%C3%A4torianer.jpg), near Pozzuoli, 2nd c. AD.  Pergamon Museum.
+</div>
+</div></div>
+
+>>>
++ **limitations**: house arrest
+  + not seen by Caesar
++ **influence** in Rome:
+  + Phil1:12-13 **Praetorium**: elite guard of Caesar
+  + Phil4:22 Caesar **house**
++ **Read** together:
