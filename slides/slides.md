@@ -22,8 +22,7 @@
 + 4. How it **changes** daily life
 
 ---
-
-## Acts 28:23 <span class="ref">(NIV) (p.1/4)</span>
+<span class="ref">23</span>
 They arranged to **meet Paul** on a certain day, <br/>
 and came in even **larger numbers** <br/>
 to the place where he was staying.
@@ -33,25 +32,33 @@ explaining about the **kingdom of God**, <br/>
 and from the **Law** of Moses and from the **Prophets** <br/>
 he tried to **persuade** them about Jesus. ...
 
----
+<div class="ref">
+Acts 28:23 (NIV) (p.1/4)
+</div>
 
-## Acts 28:24-25 <span class="ref">(NIV) (p.2/4)</span>
+---
+<span class="ref">24</span>
 Some were **convinced** by what he said, <br/>
 but others **would not** believe.
 
+<span class="ref">25</span>
 They **disagreed** among themselves and began to leave <br/>
 after Paul had made this final statement:
 
 “The **Holy Spirit** spoke the truth to your ancestors <br/>
 when he said through **Isaiah** the prophet: ...
 
----
+<div class="ref">
+Acts 28:24-25 (NIV) (p.2/4)
+</div>
 
-## Acts 28:26-27 <span class="ref">(NIV) (p.3/4)</span>
+---
+<span class="ref">26</span>
 “ ‘Go to this people and say, <br/>
 “You will be ever **hearing** but never **understanding**; <br/>
 you will be ever **seeing** but never **perceiving**.”
 
+<span class="ref">27</span>
 For this people’s **heart** has become calloused; <br/>
 they hardly hear with their **ears**, <br/>
 and they have closed their **eyes**.
@@ -60,18 +67,27 @@ Otherwise they might **see** with their eyes, <br/>
 **hear** with their ears, **understand** with their hearts <br/>
 and **turn**, and I would **heal** them.’ ...
 
----
+<div class="ref">
+Acts 28:26-27 (NIV) (p.3/4)
+</div>
 
-## Acts 28:28-31 <span class="ref">(NIV) (p.4/4)</span>
+---
+<span class="ref">28</span>
 “Therefore I want you to know that God’s **salvation** <br/>
 has been sent to the **Gentiles**, and they will listen!”
 
+<span class="ref">30</span>
 For **two** whole years Paul stayed there in his own <br/>
 rented house and **welcomed** all who came to see him.
 
+<span class="ref">31</span>
 He **proclaimed** the kingdom of God <br/>
 and **taught** about the Lord Jesus Christ -- <br/>
 with all **boldness** and without hindrance!
+
+<div class="ref">
+Acts 28:28-31 (NIV) (p.4/4)
+</div>
 
 >>>
 + "But **Paul**: apostle, wrote NT"
@@ -82,7 +98,6 @@ with all **boldness** and without hindrance!
 + not just a nice **story** that doesn't apply to us!
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" id="outline" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: **Persuasion**
@@ -128,16 +143,20 @@ with all **boldness** and without hindrance!
 + To understand Paul's **heart** for the Jews, cf **Rom9-11**
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
-## Romans 9:2-3 <span class="ref">(NIV) (p.1/2)</span>
+<span class="ref">2</span>
 I have great **sorrow** and unceasing **anguish** in my heart.
 
+<span class="ref">3</span>
 For I could wish that I myself <br/>
 were **cursed** and **cut off** from Christ
 
 for the sake of **my people**, those of **my own race**, <br/>
 the people of **Israel**. ...
+
+<div class="ref">
+Romans 9:2-3 (NIV) (p.1/2)
+</div>
 
 >>>
 + Rom: Corinth only **2yrs** prior
@@ -148,13 +167,16 @@ the people of **Israel**. ...
 + What's more, he valued their unique **background**:
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
-## Romans 9:4 <span class="ref">(NIV) (p.2/2)</span>
+<span class="ref">4</span>
 Theirs is the **adoption** to sonship; <br/>
 theirs the divine **glory**, the **covenants**, <br/>
 the receiving of the **law**, <br/>
 the temple **worship** and the **promises**.
+
+<div class="ref">
+Romans 9:4 (NIV) (p.2/2)
+</div>
 
 >>>
 + **Blessed**, **chosen**, had **Word**
@@ -172,46 +194,47 @@ ______
   + Paul's **motive**: unrest?
 
 ---
-
-## 1. Persuasion: <span class="ref">v23 (NIV)</span>
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" -->
+<span class="ref">23</span>
 He **witnessed** to them from morning till evening, <br/>
 **explaining** about the kingdom of God, ...
 
+<div class="ref">
+Acts 28:23 (NIV)
+</div>
+
+<div class="caption">
+[Nikolas Bodarevsky, "Trial of the Apostle Paul"](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg) (Paul and Agrippa II). 1875.
+Transcarpathian Regional Art Museum, Ukraine.
+</div>
+
 >>>
-+ NIV: **swap** first 2 verbs
++ (NIV: **swap** first 2 verbs)
 + "witness" (**lay out**): put forth
   + exposition
   + **asked** his thinking: v22
   + Clear **main point**
 + "explaining": **witness**, testify
+  + recount: **martyr**
+  + focus not on **messenger**
+  + but **message**
 
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" class="top empty" -->
-<div class="caption">
-[Nikolas Bodarevsky, "Trial of the Apostle Paul"](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg), 1875.
-Transcarpathian Regional Art Museum, Ukraine.
-</div>
-
->>>
-+ Paul to Herod Agrippa II
-+ testify, recount, **martyr**
-+ from memory, kept in **mind**
-+ focus: not on **witness**
-  + but on what he **saw**
-+ not us, but testify to ...
-
----
-
-## 1. Persuasion: <span class="ref">v23 (NIV)</span>
-He *witnessed* to them from morning till evening, <br/>
-*explaining* about the **kingdom of God**, <br/>
-and from the Law of Moses and from the Prophets <br/>
-he tried to **persuade** them about Jesus.
-
->>>
+______
 + ... to **kingdom** of God:
   + king **now** of creation
   + **near**: soon all will bow
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" -->
+<span class="ref">23</span>
+... and from the Law of Moses and from the Prophets <br/>
+he tried to **persuade** them about Jesus.
+
+<div class="ref">
+Acts 28:23 (NIV)
+</div>
+
+>>>
 + **persuade** (faith, belief, trust):
   + convince, coax, seduce
 + ew, **telemarketing**?
@@ -219,7 +242,6 @@ he tried to **persuade** them about Jesus.
   + in fact...
 
 ---
-
 ## 1 Corinthians 2:4-5 <span class="ref">(NASB)</span>
 <div class="imgbox"><div style="flex:2; -webkit-box-flex:0.5">
 
@@ -251,11 +273,9 @@ Rijksmuseum, Amsterdam.
 + **Discip**: my perslty, or Christ?
 
 ---
-
-## 1. Persuasion: <span class="ref">v23 (NIV)</span>
-He *witnessed* to them from morning till evening, <br/>
-*explaining* about the *kingdom of God*, <br/>
-and from the **Law of Moses** and from the **Prophets** <br/>
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
+<span class="ref">23</span>
+... and from the **Law of Moses** and from the **Prophets** <br/>
 he tried to *persuade* them about **Jesus**.
 
 >>>
@@ -280,7 +300,6 @@ he tried to *persuade* them about **Jesus**.
 + Present Christ as **Creator**
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Raphael-St_Paul_Preaching_Athens.jpg" -->
 ## Acts 17:22-24 <span class="ref">(NASB)</span>
 <div class="imgbox"><div style="flex:3; -webkit-box-flex:0.33">
@@ -310,10 +329,8 @@ Therefore **what you worship** in ignorance, <br/>
 + H.S. **ahead** of us in community
 
 ---
-
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 ## Do I love my **pious countrymen**?
-
 ## Love them enough to **lay out** the gospel clearly to them?
 
 >>>
@@ -324,7 +341,6 @@ Therefore **what you worship** in ignorance, <br/>
   + in HS + power
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: Persuasion
@@ -339,33 +355,32 @@ Therefore **what you worship** in ignorance, <br/>
 >>>
 + When the gospel is **laid out** clearly,
 + What should we expect the **response** to be?
-+ Let's continue **reading** together:
 
 ---
-
-## 2. Partition: <span class="ref">v24-25 (NIV)</span>
+<span class="ref">24</span>
 Some were **convinced** by what he said, <br/>
 but others **would not believe**.
 
-They **disagreed** among themselves and began to **leave** <br/>
-after Paul had made this final statement:
+<span class="ref">25</span>
+They **disagreed** among themselves and began to **leave** ...
 
-“The **Holy Spirit** spoke the truth to your ancestors <br/>
-when he said through **Isaiah** the prophet:
+<div class="ref">
+Acts 28:24-25 (NIV)
+</div>
 
 >>>
 + Cause **divisions**, **reveal** hearts
 + Wait, didn't Jesus come to bring **peace**?
-+ what about Christmas angels?
-  + **peace on earth**
-  + goodwill to men?
-+ shortly after Jesus' birth:
+  + shortly after Jesus' birth:
 ______
 + Not "after" but:
   "Being **a-symphonic** toward each other,
   they were **dispersing**,
   Paul speaking **one word**"
   (i.e., as they were leaving)
++ what about Christmas angels?
+  + **peace on earth**
+  + goodwill to men?
 + Codex Sinaiticus dropped last letter of εὐδοκίας, KJV
   + "peace on earth to men of [God's] good will"
 
@@ -382,16 +397,20 @@ The Hague.)
 + Righteous **Simeon** prophesied:
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Rembrandt-Simeons_Song_of_Praise.jpg" -->
-## Luke 2:34-35 <span class="ref">(ESV)</span>
+<span class="ref">34</span>
 Behold, this child is appointed for <br/>
 the **fall** and **rising** of many in Israel,
 
 and for a **sign** that is **opposed** -- <br/>
+<span class="ref">35</span>
 and a **sword** will pierce through your own **soul** also --
 
 so that **thoughts** from many hearts may be **revealed**.
+
+<div class="ref">
+Luke 2:34-35 (ESV)
+</div>
 
 >>>
 + Unwaver truth: God is **King**
@@ -403,12 +422,13 @@ so that **thoughts** from many hearts may be **revealed**.
 + Jesus came to bring **peace**?
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Niedziella-Soeborg_Sword.jpg" -->
-## Matthew 10:34,37 <span class="ref">(NIV)</span>
-Do not suppose that I have come to bring **peace** to the earth. <br/>
+<span class="ref">34</span>
+Do not suppose that I have come <br/>
+to bring **peace** to the earth. <br/>
 I did not come to bring peace, but a **sword**.
 
+<span class="ref">37</span>
 Anyone who loves their **father or mother** <br/>
 more than me is not worthy of me; <br/>
 anyone who loves their **son or daughter** <br/>
@@ -418,6 +438,10 @@ more than me is not worthy of me.
 Whoever does not take up their **cross** <br/>
 and **follow me** is not worthy of me.
 -->
+
+<div class="ref">
+Matthew 10:34,37 (NIV)
+</div>
 
 <div class="caption">
 [Albion_Soeborg_Medieval_Sword_16](https://www.flickr.com/photos/albioneurope/8498095661),
@@ -454,10 +478,8 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 + Ms: against **dating non-Chr**, until
 
 ---
-
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 ## Has the **sword** of Christ's kingship pierced **my own** soul?
-
 ## Am I willing to let it <br/> **divide** my loved ones?
 
 >>>
@@ -468,7 +490,6 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 + gospel does not allow one to be **ambivalent**
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: Persuasion
@@ -484,35 +505,16 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 + So some **reject** gospel
 + **Why**?  Whose **fault** is it?
 + What do we **do** about it?
-+ Let's **read** the prophecy Paul quotes:
++ Paul quotes a **prophecy** from Isaiah:
 
 ---
-
-## 3. Promise: v26-27 <span class="ref">(NIV)</span>
-“ ‘Go to this people and say, <br/>
-“You will be ever **hearing** but never **understanding**; <br/>
-you will be ever **seeing** but never **perceiving**.”
-
-For this people’s **heart** has become calloused; <br/>
-they hardly hear with their **ears**, <br/>
-and they have closed their **eyes**.
-
-Otherwise they might **see** with their eyes, <br/>
-**hear** with their ears, **understand** with their hearts <br/>
-and **turn**, and I would **heal** them.’
-
->>>
-+ Sounds pretty **harsh**!
-+ Go to the **original**:
-
----
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/TobiasD-eye.jpg" -->
-## Isaiah 6:9-10 <span class="ref">(ESV)</span>
+<span class="ref">9</span>
 Go, and say to this people: <br/>
 “Keep on **hearing**, but do not understand; <br/>
 keep on **seeing**, but do not perceive."
 
+<span class="ref">10</span>
 Make the heart of this people **dull**, <br/>
 and their ears **heavy**, and **blind** their eyes;
 
@@ -520,6 +522,10 @@ lest they **see** with their eyes, <br/>
 and **hear** with their ears, <br/>
 and **understand** with their hearts, <br/>
 and **turn** and be **healed**.
+
+<div class="ref">
+Isaiah 6:9-10 (NIV)
+</div>
 
 <div class="caption"> (img:
 [TobiasD](https://pixabay.com/en/eye-human-face-vision-look-person-321961/)
@@ -534,18 +540,22 @@ and **turn** and be **healed**.
 + **How** does preaching the gospel make a heart **dull**?
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-d3Sg34sNBRM-ice_cream.jpg" -->
-## Romans 7:7-8 <span class="ref">(NIV) (p.1/2)</span >
+<span class="ref">7</span>
 I would not have **known** what sin was <br/>
 had it not been for the **law**.
 
 For I would not have known what **coveting** really was <br/>
 if the law had not said, “**You shall not covet**.”
 
+<span class="ref">8</span>
 But **sin**, seizing the **opportunity** <br/>
 afforded by the commandment, <br/>
 produced in me every kind of coveting.
+
+<div class="ref">
+Romans 7:7-8 (NIV) (p.1/2)
+</div>
 
 >>>
 + "No ice cream, it's bad for you"
@@ -555,14 +565,17 @@ produced in me every kind of coveting.
   + and **killed** me
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-d3Sg34sNBRM-ice_cream.jpg" -->
-## Romans 7:13 <span class="ref">(NIV) (p.2/2)</span>
+<span class="ref">13</span>
 In order that sin might be **recognized as sin**, <br/>
 it used what is **good** to bring about **my death**, <br/>
 so that through the commandment
 
 **sin** might become **utterly sinful**.
+
+<div class="ref">
+Romans 7:13 (NIV) (p.2/2)
+</div>
 
 >>>
 + 2-edged **sword** of God's Word:
@@ -574,7 +587,6 @@ so that through the commandment
   + God not **pwrful** enough?
 
 ---
-
 ## Romans 9-11: A Partial Hardening
 + Did God's Word **fail**? &rarr;
   [Rom 9:6](https://mobile.biblegateway.com/passage/?search=ro9.6)
@@ -614,12 +626,11 @@ img &copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/797
 + but never give up on **own child**
   + **continue** to proclaim
   + hope: **remnant** returns
-+ Let's return to **Isaiah**'s calling:
++ Echoed even in **Isaiah**'s calling:
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
-## Isaiah 6:11,13 <span class="ref">(NIV)</span>
+<span class="ref">11</span>
 Then I said, “For **how long**, Lord?”
 
 And he answered: <br/>
@@ -627,9 +638,14 @@ And he answered: <br/>
 and without inhabitant, [...] <br/>
 and the land is utterly **forsaken**.
 
+<span class="ref">13</span>
 But as the terebinth and **oak** <br/>
 leave **stumps** when they are cut down, <br/>
 so the **holy seed** will be the stump in the land.”
+
+<div class="ref">
+Isaiah 6:11,13 (NIV)
+</div>
 
 >>>
 + **oak**: 1st, preeminent, landmark
@@ -639,11 +655,13 @@ so the **holy seed** will be the stump in the land.”
 + Full-circle Acts &rarr; Is &rarr; **Rom**:
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
-## Romans 11:5 <span class="ref">(NIV)</span>
 So too, at the present time <br/>
 there is a **remnant** chosen by grace.
+
+<div class="ref">
+Romans 11:5 (NIV)
+</div>
 
 >>>
 + Always **hope** for a remnant
@@ -652,8 +670,7 @@ there is a **remnant** chosen by grace.
   + God's **chastening**
 
 ---
-
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # How do I **react** when others take **offense** at the gospel?
 
 >>>
@@ -664,7 +681,6 @@ there is a **remnant** chosen by grace.
   + continued **proclamation**
 
 ---
-
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: Persuasion
@@ -680,10 +696,7 @@ there is a **remnant** chosen by grace.
 How did Paul **continue** after
 the **disappointment** of rejection?
 
-Let's **read** together:
-
 ---
-
 ## 4. Proclamation: <span class="ref"> v28-31 (NIV)</span>
 “Therefore I want you to know that **God’s salvation** <br/>
 has been sent to the **Gentiles**, and they will **listen**!”
@@ -705,7 +718,6 @@ with all **boldness** and without hindrance!
   + Accused by Jeru **Jews**?
 
 ---
-
 ## Paul After Acts
 <div class="imgbox"><div>
 <ul>
