@@ -502,7 +502,7 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 + Paul quotes a **prophecy** from Isaiah:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/TobiasD-eye.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BM0y9zmkA1M-eye.jpg" -->
 <span class="ref">9</span>
 Go, and say to this people: <br/>
 “Keep on **hearing**, but do not understand; <br/>
