@@ -510,12 +510,7 @@ keep on **seeing**, but do not perceive."
 
 <span class="ref">10</span>
 Make the heart of this people **dull**, <br/>
-and their ears **heavy**, and **blind** their eyes;
-
-lest they **see** with their eyes, <br/>
-and **hear** with their ears, <br/>
-and **understand** with their hearts, <br/>
-and **turn** and be **healed**.
+and their ears **heavy**, and **blind** their eyes
 
 <div class="ref">
 Isaiah 6:9-10 (NIV)
@@ -608,6 +603,10 @@ Needs a **change of heart**, work of H.S.
 ... lest they **understand** with their hearts, <br/>
 and **turn** and be **healed**.
 
+<div class="ref">
+Isaiah 6:10 (NIV)
+</div>
+
 <div class="caption">
 img &copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/7978577868/), CC BY-NC-ND 2.0
 </div>
@@ -646,7 +645,7 @@ Isaiah 6:11,13 (NIV)
 + **stump**: stone, obelisk, (fort)
 + holy **Seed** (sing.): (Gen3:15)
   + A **remnant** redeem by Jesus
-+ Full-circle Acts &rarr; Is &rarr; **Rom**:
++ Common thread: Acts &rarr; Is &rarr; **Rom**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
