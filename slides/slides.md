@@ -230,10 +230,6 @@ ______
 ... and from the Law of Moses and from the Prophets <br/>
 he tried to **persuade** them about Jesus.
 
-<div class="ref">
-Acts 28:23 (NIV)
-</div>
-
 >>>
 + **persuade** (faith, belief, trust):
   + convince, coax, seduce
