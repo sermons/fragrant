@@ -697,6 +697,7 @@ How did Paul **continue** after
 the **disappointment** of rejection?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/fig/Boulogne-Paul_Writing.jpg" -->
 <span class="ref">28</span>
 “Therefore I want you to know that **God’s salvation** <br/>
 has been sent to the **Gentiles**, and they will **listen**!”
