@@ -435,7 +435,7 @@ Matthew 10:34 (NIV) (p.1/2)
 </div>
 
 <div class="caption">
-[Albion_Soeborg_Medieval_Sword_16](https://www.flickr.com/photos/albioneurope/8498095661),
+[Albion Soeborg medieval sword](https://www.flickr.com/photos/albioneurope/8498095661),
 National Museum Copenhagen. <br/>
 &copy; Søren Niedziella, CC-BY 2.0.
 </div>
