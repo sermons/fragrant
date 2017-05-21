@@ -195,7 +195,6 @@ ______
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" -->
-<span class="ref">23</span>
 He **witnessed** to them from morning till evening, <br/>
 **explaining** about the kingdom of God,
 
@@ -263,7 +262,7 @@ Rijksmuseum, Amsterdam.
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 <span class="ref">23</span>
 ... and from the **Law of Moses** and from the **Prophets** <br/>
-he tried to *persuade* them about **Jesus**.
+he tried to persuade them about **Jesus**.
 
 >>>
 + **Jews**: OT bg, hope Messiah
@@ -590,12 +589,9 @@ Needs a **change of heart**, work of H.S.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bethanypetrik-crying_child.jpg" class="top" -->
+<span class="ref">10</span>
 ... lest they **understand** with their hearts, <br/>
 and **turn** and be **healed**.
-
-<div class="ref">
-Isaiah 6:10 (NIV)
-</div>
 
 <div class="caption">
 img &copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/7978577868/), CC BY-NC-ND 2.0
