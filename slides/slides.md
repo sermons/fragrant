@@ -3,8 +3,11 @@
 ## Acts 28:23-31
 
 >>>
-+ Often focus on **success** stories of evangelism.
-+ What happens when it seems like we **fail**?
++ Do you have **loved ones** who
+  + you **care** deeply for but
+  + have not yet **turned** to obedience to Christ? 
++ invited to church, shared gospel
+  + resistant, stubborn, take **offense**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -14,7 +17,7 @@
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
 
 >>>
-+ What if it's s.o. we **care** about?
++ How do I **respond**? 
   + Combat?  Frustr?  Resign?
 + 1. How we **share** the gospel
 + 2. **Effect** on hearers
