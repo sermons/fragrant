@@ -332,8 +332,8 @@ Acts 17:22-24 (NASB)
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I love my **pious countrymen**?
-# Love them enough to **lay out** the gospel clearly to them?
+## Do I love my **pious countrymen**?
+## Love them enough to **lay out** the gospel clearly to them?
 
 >>>
 + **countrymen**: CN, TW, HK, US
@@ -403,13 +403,15 @@ The Hague.)
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Rembrandt-Simeons_Song_of_Praise.jpg" -->
 <span class="ref">34</span>
 Behold, this child is appointed for <br/>
-the **fall** and **rising** of many in Israel,
+the **fall** and **rising** of many in Israel, <br/>
+and for a **sign** that is **opposed** --
 
-and for a **sign** that is **opposed** -- <br/>
 <span class="ref">35</span>
-and a **sword** will pierce through your own **soul** also --
+and a **sword** will pierce through <br/>
+your own **soul** also --
 
-so that **thoughts** from many hearts may be **revealed**.
+so that **thoughts** from many hearts <br/>
+may be **revealed**.
 
 <div class="ref">
 Luke 2:34-35 (ESV)
@@ -482,7 +484,7 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 
 ---
 <!-- .slide: data-background="white" -->
-## Has the **sword** of Christ's kingship pierced **my own** soul?
+## Has the **sword** <br/> of Christ's kingship <br/> pierced **my own** soul?
 ## Am I willing to let it <br/> **divide** my loved ones?
 
 >>>
@@ -543,7 +545,8 @@ Isaiah 6:9-10 (NIV)
 I would not have **known** what sin was <br/>
 had it not been for the **law**.
 
-For I would not have known what **coveting** really was <br/>
+For I would not have known <br/>
+what **coveting** really was <br/>
 if the law had not said, “**You shall not covet**.”
 
 <span class="ref">8</span>
@@ -585,21 +588,21 @@ Romans 7:13 (NIV) (p.2/2)
   + God not **pwrful** enough?
 
 ---
-## Romans 9-11: A Partial Hardening
+## <span class="ref">Romans 9-11:</span> <br/> A Partial Hardening
 + Did God's Word **fail**? &rarr;
-  [Rom 9:6](https://mobile.biblegateway.com/passage/?search=ro9.6)
+  [9:6](https://mobile.biblegateway.com/passage/?search=ro9.6)
 + Is God **unfair**? &rarr;
-  [Rom 9:14](https://mobile.biblegateway.com/passage/?search=ro9.14)
+  [9:14](https://mobile.biblegateway.com/passage/?search=ro9.14)
 + Isn't it all God's **fault** anyway? &rarr;
-  [Rom 9:19](https://mobile.biblegateway.com/passage/?search=ro9.19)
-+ Isn't it good enough to be **moral** / ethical? &rarr;
-  [Rom 9:32](https://mobile.biblegateway.com/passage/?search=ro9.32)
+  [9:19](https://mobile.biblegateway.com/passage/?search=ro9.19)
++ Can't I just be **moral** / ethical? &rarr;
+  [9:32](https://mobile.biblegateway.com/passage/?search=ro9.32)
 + How then is **anyone** saved? &rarr;
-  [Rom 10:8-10](https://mobile.biblegateway.com/passage/?search=ro10.8-10)
+  [10:8-10](https://mobile.biblegateway.com/passage/?search=ro10.8-10)
 + Are they lost **forever**? &rarr;
-  [Rom 11:1-2](https://mobile.biblegateway.com/passage/?search=ro11.1-2)
-+ Is it because we're **better** than they are? &rarr;
-  [Rom 11:18-21](https://mobile.biblegateway.com/passage/?search=ro11.18-21)
+  [11:1-2](https://mobile.biblegateway.com/passage/?search=ro11.1-2)
++ Are we **better** than they are? &rarr;
+  [11:18-21](https://mobile.biblegateway.com/passage/?search=ro11.18-21)
 
 >>>
 Rom9-11 addresses this and many other Q's
@@ -629,7 +632,6 @@ img &copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/797
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
-<span class="ref">11</span>
 Then I said, “For **how long**, Lord?”
 
 And he answered: <br/>
@@ -637,13 +639,18 @@ And he answered: <br/>
 and without inhabitant, [...] <br/>
 and the land is utterly **forsaken**.
 
-<span class="ref">13</span>
+<div class="ref">
+Isaiah 6:11 (NIV) (p.1/2)
+</div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
 But as the terebinth and **oak** <br/>
 leave **stumps** when they are cut down, <br/>
 so the **holy seed** will be the stump in the land.”
 
 <div class="ref">
-Isaiah 6:11,13 (NIV)
+Isaiah 6:13 (NIV) (p.2/2)
 </div>
 
 >>>
@@ -698,12 +705,13 @@ the **disappointment** of rejection?
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/fig/Boulogne-Paul_Writing.jpg" -->
 <span class="ref">28</span>
-“Therefore I want you to know that **God’s salvation** <br/>
-has been sent to the **Gentiles**, and they will **listen**!”
+God’s **salvation** has been sent <br/>
+to the **Gentiles**, and they will **listen**!”
 
 <span class="ref">30</span>
-For **two whole years** Paul stayed there in his own <br/>
-rented house and **welcomed** all who came to see him.
+For **two whole years** Paul stayed there <br/>
+in his own rented house <br/>
+and **welcomed** all who came to see him.
 
 <div class="ref">
 Acts 28:28-30 (NIV) (p.1/2)
@@ -733,9 +741,9 @@ Acts 28:31 (NIV) (p.2/2)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-Thanks be to God, who in Christ
-always leads us in **triumphal procession**,
-and through us spreads the **fragrance**
+Thanks be to God, who in Christ <br/>
+always leads us in **triumphal procession**, <br/>
+and through us spreads the **fragrance** <br/>
 of the **knowledge of Him** everywhere.
 
 <div class="ref">
