@@ -111,7 +111,7 @@ Acts 28:30-31 (NIV) (p.5/5)
   <span class="hl1">(v23)</span>
 2. Hearers' response: **Partition**
   <span class="hl1">(v24-25)</span>
-3. Holy Spirit's prophecy: **Promise**
+3. Spirit's prophecy: **Promise**
   <span class="hl1">(v26-27)</span>
 4. Paul's lifestyle: **Proclamation**
   <span class="hl1">(v28-31)</span>
@@ -336,7 +336,7 @@ Therefore **what you worship** in ignorance, <br/>
   <span class="ref">(v23)</span>
 2. **Hearers' response: Partition**
   <span class="ref">(v24-25)</span>
-3. Holy Spirit's prophecy: Promise
+3. Spirit's prophecy: Promise
   <span class="ref">(v26-27)</span>
 4. Paul's lifestyle: Proclamation
   <span class="ref">(v28-31)</span>
@@ -486,7 +486,7 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
   <span class="ref">(v23)</span>
 2. Hearers' response: Partition
   <span class="ref">(v24-25)</span>
-3. **Holy Spirit's prophecy: Promise**
+3. **Spirit's prophecy: Promise**
   <span class="ref">(v26-27)</span>
 4. Paul's lifestyle: Proclamation
   <span class="ref">(v28-31)</span>
@@ -673,7 +673,7 @@ Romans 11:5 (NIV)
   <span class="ref">(v23)</span>
 2. Hearers' response: Partition
   <span class="ref">(v24-25)</span>
-3. Holy Spirit's prophecy: Promise
+3. Spirit's prophecy: Promise
   <span class="ref">(v26-27)</span>
 4. **Paul's lifestyle: Proclamation**
   <span class="ref">(v28-31)</span>
