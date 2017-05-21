@@ -22,18 +22,20 @@
 + 4. How it **changes** daily life
 
 ---
-<span class="ref">23</span>
 They arranged to **meet Paul** on a certain day, <br/>
 and came in even **larger numbers** <br/>
 to the place where he was staying.
 
-He **witnessed** to them from morning till evening, <br/>
-explaining about the **kingdom of God**, <br/>
-and from the **Law** of Moses and from the **Prophets** <br/>
-he tried to **persuade** them about Jesus. ...
+He **witnessed** to them <br/>
+from morning till evening, <br/>
+explaining about the **kingdom of God**,
+
+and from the **Law** of Moses <br/>
+and from the **Prophets** <br/>
+he tried to **persuade** them about Jesus.
 
 <div class="ref">
-Acts 28:23 (NIV) (p.1/4)
+Acts 28:23 (NIV) (p.1/5)
 </div>
 
 ---
@@ -42,43 +44,56 @@ Some were **convinced** by what he said, <br/>
 but others **would not** believe.
 
 <span class="ref">25</span>
-They **disagreed** among themselves and began to leave <br/>
+They **disagreed** among themselves <br/>
+and began to leave <br/>
 after Paul had made this final statement:
 
-“The **Holy Spirit** spoke the truth to your ancestors <br/>
-when he said through **Isaiah** the prophet: ...
+“The **Holy Spirit** spoke the truth <br/>
+to your ancestors <br/>
+when he said through **Isaiah** the prophet:
 
 <div class="ref">
-Acts 28:24-25 (NIV) (p.2/4)
+Acts 28:24-25 (NIV) (p.2/5)
 </div>
 
 ---
 <span class="ref">26</span>
 “ ‘Go to this people and say, <br/>
-“You will be ever **hearing** but never **understanding**; <br/>
+“You will be ever **hearing** <br/>
+but never **understanding**; <br/>
 you will be ever **seeing** but never **perceiving**.”
 
 <span class="ref">27</span>
-For this people’s **heart** has become calloused; <br/>
+For this people’s **heart** <br/>
+has become calloused; <br/>
 they hardly hear with their **ears**, <br/>
 and they have closed their **eyes**.
 
-Otherwise they might **see** with their eyes, <br/>
-**hear** with their ears, **understand** with their hearts <br/>
-and **turn**, and I would **heal** them.’ ...
-
 <div class="ref">
-Acts 28:26-27 (NIV) (p.3/4)
+Acts 28:26-27 (NIV) (p.3/5)
 </div>
 
 ---
-<span class="ref">28</span>
-“Therefore I want you to know that God’s **salvation** <br/>
-has been sent to the **Gentiles**, and they will listen!”
+“ ‘Otherwise they might **see** with their eyes, <br/>
+**hear** with their ears, <br/>
+**understand** with their hearts <br/>
+and **turn**, and I would **heal** them.’
 
+<span class="ref">28</span>
+“Therefore I want you to know <br/>
+that God’s **salvation** <br/>
+has been sent to the **Gentiles**, <br/>
+and they will listen!”
+
+<div class="ref">
+Acts 28:27-28 (NIV) (p.4/5)
+</div>
+
+---
 <span class="ref">30</span>
-For **two** whole years Paul stayed there in his own <br/>
-rented house and **welcomed** all who came to see him.
+For **two** whole years Paul <br/>
+stayed there in his own rented house <br/>
+and **welcomed** all who came to see him.
 
 <span class="ref">31</span>
 He **proclaimed** the kingdom of God <br/>
@@ -86,7 +101,7 @@ and **taught** about the Lord Jesus Christ -- <br/>
 with all **boldness** and without hindrance!
 
 <div class="ref">
-Acts 28:28-31 (NIV) (p.4/4)
+Acts 28:30-31 (NIV) (p.5/5)
 </div>
 
 >>>
