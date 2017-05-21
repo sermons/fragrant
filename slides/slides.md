@@ -106,7 +106,7 @@ Acts 28:30-31 (NIV) (p.5/5)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" id="outline" -->
-## Ac28: The Fragrant Gospel
+## The Fragrant Gospel <span class="ref">(Ac28)</span>
 1. Paul's heart: **Persuasion**
   <span class="ref">(v23)</span>
 2. Hearers' response: **Partition**
@@ -343,7 +343,7 @@ Acts 17:22-24 (NASB)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-## Ac28: The Fragrant Gospel
+## The Fragrant Gospel <span class="ref">(Ac28)</span>
 1. Paul's heart: Persuasion
   <span class="ref">(v23)</span>
 2. **Hearers' response: Partition**
@@ -495,7 +495,7 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-## Ac28: The Fragrant Gospel
+## The Fragrant Gospel <span class="ref">(Ac28)</span>
 1. Paul's heart: Persuasion
   <span class="ref">(v23)</span>
 2. Hearers' response: Partition
@@ -687,7 +687,7 @@ Romans 11:5 (NIV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-## Ac28: The Fragrant Gospel
+## The Fragrant Gospel <span class="ref">(Ac28)</span>
 1. Paul's heart: Persuasion
   <span class="ref">(v23)</span>
 2. Hearers' response: Partition
