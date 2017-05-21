@@ -108,13 +108,13 @@ Acts 28:30-31 (NIV) (p.5/5)
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" id="outline" -->
 ## Ac28: The Fragrant Gospel
 1. Paul's heart: **Persuasion**
-  <span class="hl1">(v23)</span>
+  <span class="ref">(v23)</span>
 2. Hearers' response: **Partition**
-  <span class="hl1">(v24-25)</span>
+  <span class="ref">(v24-25)</span>
 3. Spirit's prophecy: **Promise**
-  <span class="hl1">(v26-27)</span>
+  <span class="ref">(v26-27)</span>
 4. Paul's lifestyle: **Proclamation**
-  <span class="hl1">(v28-31)</span>
+  <span class="ref">(v28-31)</span>
 
 >>>
 + v17: leaders &rarr; Jew &rarr; Gentile
