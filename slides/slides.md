@@ -151,7 +151,6 @@ Acts 28:30-31 (NIV) (p.5/5)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
-<span class="ref">2</span>
 I have great **sorrow** <br/>
 and unceasing **anguish** in my heart.
 
@@ -177,7 +176,6 @@ Romans 9:2-3 (NIV) (p.1/2)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
-<span class="ref">4</span>
 Theirs is the **adoption** to sonship; <br/>
 theirs the divine **glory**, the **covenants**, <br/>
 the receiving of the **law**, <br/>
@@ -217,7 +215,7 @@ Acts 28:23 (NIV)
 </div>
 
 <div class="caption">
-[Nikolas Bodarevsky, "Trial of the Apostle Paul"](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg) (Paul and Agrippa II). 1875.
+[Nikolas Bodarevsky, "Trial of the Apostle Paul"](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg) (Paul and Agrippa II). 1875. <br/>
 Transcarpathian Regional Art Museum, Ukraine.
 </div>
 
@@ -241,10 +239,11 @@ ______
 ---
 <div class="imgbox"><div style="flex:2; -webkit-box-flex:0.5">
 <span class="ref">4</span>
-My **message** and my **preaching**
-
+My **message** <br>
+and my **preaching** <br/>
 were not in **persuasive** <br/>
-words of wisdom, <br/>
+words of wisdom,
+
 but in demonstration <br/>
 of the **Spirit** and of **power**,
 
@@ -312,9 +311,9 @@ you are **very religious** ...
 with this inscription, <br/>
 ‘TO AN **UNKNOWN GOD**.’
 
-Therefore **what you worship** <br/>
-in ignorance, <br/>
-**this I proclaim** to you."
+Therefore what <br/>
+you **worship** in ignorance, <br/>
+this I **proclaim** to you."
 
 <div class="ref">
 Acts 17:22-24 (NASB)
@@ -333,7 +332,7 @@ Acts 17:22-24 (NASB)
 ---
 <!-- .slide: data-background="white" -->
 ## Do I love my **pious countrymen**?
-## Love them enough to **lay out** the gospel clearly to them?
+## Love them enough <br/> to **lay out** the gospel <br/> clearly to them?
 
 >>>
 + **countrymen**: CN, TW, HK, US
@@ -439,7 +438,7 @@ Matthew 10:34 (NIV) (p.1/2)
 
 <div class="caption">
 [Albion_Soeborg_Medieval_Sword_16](https://www.flickr.com/photos/albioneurope/8498095661),
-National Museum Copenhagen.
+National Museum Copenhagen. <br/>
 &copy; Søren Niedziella, CC-BY 2.0.
 </div>
 
@@ -588,7 +587,7 @@ Romans 7:13 (NIV) (p.2/2)
   + God not **pwrful** enough?
 
 ---
-## <span class="ref">Romans 9-11:</span> <br/> A Partial Hardening
+## A Partial Hardening <br/> <span class="ref">Romans 9-11</span>
 + Did God's Word **fail**? &rarr;
   [9:6](https://mobile.biblegateway.com/passage/?search=ro9.6)
 + Is God **unfair**? &rarr;
@@ -636,7 +635,7 @@ Then I said, “For **how long**, Lord?”
 
 And he answered: <br/>
 “Until the cities lie **ruined** <br/>
-and without inhabitant, [...] <br/>
+and without inhabitant, ... <br/>
 and the land is utterly **forsaken**.
 
 <div class="ref">
