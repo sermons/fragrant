@@ -577,7 +577,8 @@ Romans 7:13 (NIV) (p.2/2)
   + God not **pwrful** enough?
 
 ---
-## A Partial Hardening <br/> <span class="ref">Romans 9-11</span>
+## A Partial Hardening
+### <span class="ref">Romans 9-11</span>
 + Did God's Word **fail**? &rarr;
   [9:6](https://mobile.biblegateway.com/passage/?search=ro9.6)
 + Is God **unfair**? &rarr;
