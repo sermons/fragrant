@@ -8,7 +8,7 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# How do I **react** when others take **offense** at the gospel?
+# How do I **react** to those who take **offense** at the gospel?
 
 [###](#/outline)
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
@@ -650,7 +650,7 @@ Romans 11:5 (NIV)
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I **react** when others take **offense** at the gospel?
+# How do I **react** to those who take **offense** at the gospel?
 
 >>>
 + Combat?  Frustr?  Resign?
