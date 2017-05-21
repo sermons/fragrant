@@ -239,19 +239,23 @@ ______
   + **near**: soon all will bow
 
 ---
-## 1 Corinthians 2:4-5 <span class="ref">(NASB)</span>
 <div class="imgbox"><div style="flex:2; -webkit-box-flex:0.5">
-
+<span class="ref">4</span>
 My **message** and my **preaching**
 
-were not in **persuasive** words <br/>
-of wisdom, but in demonstration <br/>
+were not in **persuasive** <br/>
+words of wisdom, <br/>
+but in demonstration <br/>
 of the **Spirit** and of **power**,
 
-so that your **faith** would not rest <br/>
-on the **wisdom of men**, <br/>
+<span class="ref">5</span>
+so that your **faith** would not <br/>
+rest on the **wisdom of men**, <br/>
 but on the **power of God**.
 
+<div class="ref">
+1 Corinthians 2:4-5 (NASB)
+</div>
 </div><div>
 ![Dujardin, St Paul Healing the Cripple at Lystra](https://sermons.seanho.com/img/fig/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
 <div class="caption">
@@ -272,7 +276,8 @@ Rijksmuseum, Amsterdam.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 <span class="ref">23</span>
-... and from the **Law of Moses** and from the **Prophets** <br/>
+... and from the **Law of Moses** <br/>
+and from the **Prophets** <br/>
 he tried to persuade them about **Jesus**.
 
 >>>
@@ -298,18 +303,22 @@ he tried to persuade them about **Jesus**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Raphael-St_Paul_Preaching_Athens.jpg" -->
-## Acts 17:22-24 <span class="ref">(NASB)</span>
 <div class="imgbox"><div style="flex:3; -webkit-box-flex:0.33">
+<span class="ref">22</span>
 “Men of **Athens**, I observe that <br/>
-you are **very religious** in all respects.
+you are **very religious** ...
 
-For while I was passing through and <br/>
-examining the **objects of your worship**, <br/>
-I also found an altar with this inscription, <br/>
+... I found an altar <br/>
+with this inscription, <br/>
 ‘TO AN **UNKNOWN GOD**.’
 
-Therefore **what you worship** in ignorance, <br/>
+Therefore **what you worship** <br/>
+in ignorance, <br/>
 **this I proclaim** to you."
+
+<div class="ref">
+Acts 17:22-24 (NASB)
+</div>
 </div><div>
 [![89% adults believe in God](https://sermons.seanho.com/img/fig/Pew-RLS14-BeliefInGod.png)](http://www.pewresearch.org/fact-tank/2015/11/04/americans-faith-in-god-may-be-eroding/)
 </div></div>
