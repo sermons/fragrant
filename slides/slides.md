@@ -238,9 +238,8 @@ ______
 
 ---
 <div class="imgbox"><div style="flex:2; -webkit-box-flex:0.5">
-<span class="ref">4</span>
 My **message** <br>
-and my **preaching** <br/>
+and my preaching <br/>
 were not in **persuasive** <br/>
 words of wisdom,
 
@@ -400,7 +399,6 @@ The Hague.)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Rembrandt-Simeons_Song_of_Praise.jpg" -->
-<span class="ref">34</span>
 Behold, this child is appointed for <br/>
 the **fall** and **rising** of many in Israel, <br/>
 and for a **sign** that is **opposed** --
@@ -457,11 +455,6 @@ more than me is not worthy of me; <br/>
 anyone who loves their **son or daughter** <br/>
 more than me is not worthy of me.
 
-<!--
-Whoever does not take up their **cross** <br/>
-and **follow me** is not worthy of me.
--->
-
 <div class="ref">
 Matthew 10:37 (NIV) (p.2/2)
 </div>
@@ -513,7 +506,6 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BM0y9zmkA1M-eye.jpg" -->
-<span class="ref">9</span>
 Go, and say to this people: <br/>
 “Keep on **hearing**, but do not understand; <br/>
 keep on **seeing**, but do not perceive."
@@ -540,7 +532,6 @@ Isaiah 6:9-10 (NIV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-d3Sg34sNBRM-ice_cream.jpg" -->
-<span class="ref">7</span>
 I would not have **known** what sin was <br/>
 had it not been for the **law**.
 
@@ -566,7 +557,6 @@ Romans 7:7-8 (NIV) (p.1/2)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-d3Sg34sNBRM-ice_cream.jpg" -->
-<span class="ref">13</span>
 In order that sin might be **recognized as sin**, <br/>
 it used what is **good** to bring about **my death**, <br/>
 so that through the commandment
