@@ -41,6 +41,14 @@ and **observe** those who walk <br/>
 according to the **pattern** you have in us.
 
 >>>
++ "But **Paul**: apostle, wrote NT"
+  + "I'm not a missionary!"
++ narr: "descrip, not prescrip"?
++ not **exhaustive**, **exemplary**
+  + Other methods in NT
++ not just a nice **story** that doesn't apply to us!
+
+______
 + Examples do matter!
   + **Totality** of Biblical ex
   + Common **threads**

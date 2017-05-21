@@ -104,14 +104,6 @@ with all **boldness** and without hindrance!
 Acts 28:30-31 (NIV) (p.5/5)
 </div>
 
->>>
-+ "But **Paul**: apostle, wrote NT"
-  + "I'm not a missionary!"
-+ narr: "descrip, not prescrip"?
-+ not **exhaustive**, **exemplary**
-  + Other methods in NT
-+ not just a nice **story** that doesn't apply to us!
-
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" id="outline" -->
 ## Ac28: The Fragrant Gospel
