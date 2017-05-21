@@ -152,14 +152,16 @@ Acts 28:30-31 (NIV) (p.5/5)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
 <span class="ref">2</span>
-I have great **sorrow** and unceasing **anguish** in my heart.
+I have great **sorrow** <br/>
+and unceasing **anguish** in my heart.
 
 <span class="ref">3</span>
 For I could wish that I myself <br/>
 were **cursed** and **cut off** from Christ
 
-for the sake of **my people**, those of **my own race**, <br/>
-the people of **Israel**. ...
+for the sake of **my people**, <br/>
+those of **my own race**, <br/>
+the people of **Israel**.
 
 <div class="ref">
 Romans 9:2-3 (NIV) (p.1/2)
@@ -202,10 +204,12 @@ ______
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" -->
-He **witnessed** to them from morning till evening, <br/>
+He **witnessed** to them <br/>
+from morning till evening, <br/>
 **explaining** about the kingdom of God,
 
-and from the Law of Moses and from the Prophets <br/>
+and from the Law of Moses <br/>
+and from the Prophets <br/>
 he tried to **persuade** them about Jesus.
 
 <div class="ref">
