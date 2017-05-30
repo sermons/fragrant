@@ -5,7 +5,7 @@
 >>>
 + Do you have **loved ones** who
   + you **care** deeply for but
-  + have not yet **turned** to obedience to Christ? 
+  + have not yet **turned** to obedience to Christ?
 + invited to church, shared gospel
   + resistant, stubborn, take **offense**
 
@@ -17,7 +17,7 @@
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
 
 >>>
-+ How do I **respond**? 
++ How do I **respond**?
   + Combat?  Frustr?  Resign?
 + 1. How we **share** the gospel
 + 2. **Effect** on hearers
