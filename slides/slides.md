@@ -180,8 +180,8 @@ ______
   + they also **size up** Paul
   + Paul's **motive**: unrest?
 
----
-<!-- .slide: <%= bg("Bodarevsky-Trial_of_Apostle_Paul.jpg") %> -->
+______
+<!-- .s: <%= bg("Bodarevsky-Trial_of_Apostle_Paul.jpg") %> -->
 He **witnessed** to them <br/>
 from morning till evening, <br/>
 **explaining** about the kingdom of God,
