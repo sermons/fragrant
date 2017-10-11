@@ -213,20 +213,20 @@ ______
 
 ---
 <div class="imgbox"><div style="flex:2">
-My **message** <br>
+<p>My **message** <br>
 and my preaching <br/>
 were not in **persuasive** <br/>
-words of wisdom,
+words of wisdom,</p>
 
-but in demonstration <br/>
-of the **Spirit** and of **power**,
+<p>but in demonstration <br/>
+of the **Spirit** and of **power**,</p>
 
-[5](# "ref")
+<p>[5](# "ref")
 so that your **faith** would not <br/>
 rest on the **wisdom of men**, <br/>
-but on the **power of God**.
+but on the **power of God**.</p>
 
-[1 Corinthians 2:4-5 (NASB)](# "ref")
+<p>[1 Corinthians 2:4-5 (NASB)](# "ref")</p>
 </div><div>
 ![Dujardin, St Paul Healing the Cripple at Lystra](https://sermons.seanho.com/img/fig/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
 </div></div>
@@ -259,9 +259,8 @@ he tried to persuade them about **Jesus**.
   + v20: **fulfill** hope, !attack
 
 ---
-<!-- .slide: <%= bg("Raphael-St_Paul_Preaching_Athens.jpg") %> -->
+<!-- .slide: <%= bg("Raphael-St_Paul_Preaching_Athens.jpg") %> class="empty top" -->
 
-.
 [Raphael, "St. Paul Preaching in Athens", 1515](http://www.the-athenaeum.org/art/detail.php?ID=34558 "caption")
 
 >>>
@@ -273,18 +272,18 @@ he tried to persuade them about **Jesus**.
 ---
 <!-- .slide: <%= bg("Raphael-St_Paul_Preaching_Athens.jpg") %> -->
 <div class="imgbox"><div style="flex:3">
-“Men of **Athens**, I observe that <br/>
-you are **very religious** ...
+<p>“Men of **Athens**, I observe that <br/>
+you are **very religious** ...</p>
 
-... I found an altar <br/>
+<p>... I found an altar <br/>
 with this inscription, <br/>
-‘TO AN **UNKNOWN GOD**.’
+‘TO AN **UNKNOWN GOD**.’</p>
 
-Therefore what <br/>
+<p>Therefore what <br/>
 you **worship** in ignorance, <br/>
-this I **proclaim** to you."
+this I **proclaim** to you."</p>
 
-[Acts 17:22-24 (NASB)](# "ref")
+<p>[Acts 17:22-24 (NASB)](# "ref")</p>
 </div><div>
 [![89% adults believe in God](https://sermons.seanho.com/img/fig/Pew-RLS14-BeliefInGod.png)](http://www.pewresearch.org/fact-tank/2015/11/04/americans-faith-in-god-may-be-eroding/)
 </div></div>
@@ -311,31 +310,24 @@ this I **proclaim** to you."
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 ## The Fragrant Gospel [(Ac28)](# "ref")
-1. Paul's heart: Persuasion
-  <span class="ref">(v23)</span>
-2. **Hearers' response: Partition**
-  <span class="ref">(v24-25)</span>
-3. Spirit's prophecy: Promise
-  <span class="ref">(v26-27)</span>
-4. Paul's lifestyle: Proclamation
-  <span class="ref">(v28-31)</span>
+1. Paul's heart: Persuasion [(v23)](# "ref")
+2. **Hearers' response: Partition** [(v24-25)](# "ref")
+3. Spirit's prophecy: Promise [(v26-27)](# "ref")
+4. Paul's lifestyle: Proclamation [(v28-31)](# "ref")
 
 >>>
 + When the gospel is **laid out** clearly,
 + What should we expect the **response** to be?
 
 ---
-<span class="ref">24</span>
 Some were **convinced** by what he said, <br/>
 but others **would not believe**.
 
-<span class="ref">25</span>
+[25](# "ref")
 They **disagreed** among themselves <br/>
 and began to **leave** ...
 
-<div class="ref">
-Acts 28:24-25 (NIV)
-</div>
+[Acts 28:24-25 (NIV)](# "ref")
 
 >>>
 + Cause **divisions**, **reveal** hearts
@@ -354,33 +346,29 @@ ______
   + "peace on earth to men of [God's] good will"
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Rembrandt-Simeons_Song_of_Praise.jpg" class="top" -->
+<!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> class="top" -->
 ## The Sign of Contradiction
-<p class="caption">
-([Rembrandt, "Simeon's Song of Praise"](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/), 1631.
-Royal Picture Gallery Mauritshuis,
-The Hague.)
-</p>
+
+[Rembrandt, "Simeon's Song of Praise", 1631](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/ "caption")
+
 >>>
 + Baby Jesus presented at **temple**
 + Righteous **Simeon** prophesied:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Rembrandt-Simeons_Song_of_Praise.jpg" -->
+<!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> -->
 Behold, this child is appointed for <br/>
 the **fall** and **rising** of many in Israel, <br/>
 and for a **sign** that is **opposed** --
 
-<span class="ref">35</span>
+[35](# "ref")
 and a **sword** will pierce through <br/>
 your own **soul** also --
 
 so that **thoughts** from many hearts <br/>
 may be **revealed**.
 
-<div class="ref">
-Luke 2:34-35 (ESV)
-</div>
+[Luke 2:34-35 (ESV)](# "ref")
 
 >>>
 + Unwaver truth: God is **King**
@@ -392,21 +380,15 @@ Luke 2:34-35 (ESV)
 + Jesus came to bring **peace**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Niedziella-Soeborg_Sword.jpg" -->
+<!-- .slide: <%= bg("Niedziella-Soeborg_Sword.jpg") %> -->
 Do not suppose that I have come <br/>
 to bring **peace** to the earth.
 
 I did not come to bring peace, but a **sword**.
 
-<div class="ref">
-Matthew 10:34 (NIV) (p.1/2)
-</div>
+[Matthew 10:34 (NIV) (p.1/2)](# "ref")
 
-<div class="caption">
-[Albion Soeborg medieval sword](https://www.flickr.com/photos/albioneurope/8498095661),
-National Museum Copenhagen. <br/>
-&copy; Søren Niedziella, CC-BY 2.0.
-</div>
+[&copy; Søren Niedziella, CC-BY 2.0](https://www.flickr.com/photos/albioneurope/8498095661 "caption")
 
 >>>
 + **Vagaries** of who is a moral/good/ethical person
@@ -417,19 +399,15 @@ National Museum Copenhagen. <br/>
 + Hard when it gets **personal**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bryandilts-grandfather.jpg" -->
+<!-- .slide: <%= bg("bryandilts-grandfather.jpg") %> -->
 Anyone who loves their **father or mother** <br/>
 more than me is not worthy of me; <br/>
 anyone who loves their **son or daughter** <br/>
 more than me is not worthy of me.
 
-<div class="ref">
-Matthew 10:37 (NIV) (p.2/2)
-</div>
+[Matthew 10:37 (NIV) (p.2/2)](# "ref")
 
-<div class="caption">
-img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/)
-</div>
+[img: Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/ "caption")
 
 >>>
 + w/kid, I'm #2: love **wife** > kid?
@@ -455,16 +433,12 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 + gospel does not allow one to be **ambivalent**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-## The Fragrant Gospel <span class="ref">(Ac28)</span>
-1. Paul's heart: Persuasion
-  <span class="ref">(v23)</span>
-2. Hearers' response: Partition
-  <span class="ref">(v24-25)</span>
-3. **Spirit's prophecy: Promise**
-  <span class="ref">(v26-27)</span>
-4. Paul's lifestyle: Proclamation
-  <span class="ref">(v28-31)</span>
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+## The Fragrant Gospel [(Ac28)](# "ref")
+1. Paul's heart: Persuasion [(v23)](# "ref")
+2. Hearers' response: Partition [(v24-25)](# "ref")
+3. **Spirit's prophecy: Promise** [(v26-27)](# "ref")
+4. Paul's lifestyle: Proclamation [(v28-31)](# "ref")
 
 >>>
 + So some **reject** gospel
@@ -473,22 +447,18 @@ img: [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/
 + Paul quotes a **prophecy** from Isaiah:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BM0y9zmkA1M-eye.jpg" -->
+<!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> -->
 Go, and say to this people: <br/>
 “Keep on **hearing**, but do not understand; <br/>
 keep on **seeing**, but do not perceive."
 
-<span class="ref">10</span>
+[10](# "ref")
 Make the heart of this people **dull**, <br/>
 and their ears **heavy**, and **blind** their eyes
 
-<div class="ref">
-Isaiah 6:9-10 (NIV)
-</div>
+[Isaiah 6:9-10 (NIV)](# "ref")
 
-<div class="caption"> (img:
-[TobiasD](https://pixabay.com/en/eye-human-face-vision-look-person-321961/)
-)</div>
+[img: TobiasD](https://pixabay.com/en/eye-human-face-vision-look-person-321961/ "caption")
 
 >>>
 + Heb: "Hear, you will cert hear"
@@ -499,7 +469,7 @@ Isaiah 6:9-10 (NIV)
 + **How** does preaching the gospel make a heart **dull**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-d3Sg34sNBRM-ice_cream.jpg" -->
+<!-- .slide: <%= bg("unsplash-d3Sg34sNBRM-ice_cream.jpg") %> -->
 I would not have **known** what sin was <br/>
 had it not been for the **law**.
 
@@ -507,14 +477,12 @@ For I would not have known <br/>
 what **coveting** really was <br/>
 if the law had not said, “**You shall not covet**.”
 
-<span class="ref">8</span>
+[8](# "ref")
 But **sin**, seizing the **opportunity** <br/>
 afforded by the commandment, <br/>
 produced in me every kind of coveting.
 
-<div class="ref">
-Romans 7:7-8 (NIV) (p.1/2)
-</div>
+[Romans 7:7-8 (NIV) (p.1/2)](# "ref")
 
 >>>
 + "No ice cream, it's bad for you"
@@ -524,16 +492,14 @@ Romans 7:7-8 (NIV) (p.1/2)
   + and **killed** me
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-d3Sg34sNBRM-ice_cream.jpg" -->
+<!-- .slide: <%= bg("unsplash-d3Sg34sNBRM-ice_cream.jpg") %> -->
 In order that sin might be **recognized as sin**, <br/>
 it used what is **good** to bring about **my death**, <br/>
 so that through the commandment
 
 **sin** might become **utterly sinful**.
 
-<div class="ref">
-Romans 7:13 (NIV) (p.2/2)
-</div>
+[Romans 7:13 (NIV) (p.2/2)](# "ref")
 
 >>>
 + 2-edged **sword** of God's Word:
@@ -546,21 +512,14 @@ Romans 7:13 (NIV) (p.2/2)
 
 ---
 ## A Partial Hardening
-### <span class="ref">Romans 9-11</span>
-+ Did God's Word **fail**? &rarr;
-  [9:6](https://mobile.biblegateway.com/passage/?search=ro9.6)
-+ Is God **unfair**? &rarr;
-  [9:14](https://mobile.biblegateway.com/passage/?search=ro9.14)
-+ Isn't it all God's **fault** anyway? &rarr;
-  [9:19](https://mobile.biblegateway.com/passage/?search=ro9.19)
-+ Can't I just be **moral** / ethical? &rarr;
-  [9:32](https://mobile.biblegateway.com/passage/?search=ro9.32)
-+ How then is **anyone** saved? &rarr;
-  [10:8-10](https://mobile.biblegateway.com/passage/?search=ro10.8-10)
-+ Are they lost **forever**? &rarr;
-  [11:1-2](https://mobile.biblegateway.com/passage/?search=ro11.1-2)
-+ Are we **better** than they are? &rarr;
-  [11:18-21](https://mobile.biblegateway.com/passage/?search=ro11.18-21)
+### [Romans 9-11](# "ref")
++ Did God's Word **fail**? &rarr; <%= bible('ro9.6', '9:6') %>
++ Is God **unfair**? &rarr; <%= bible('ro9.14', '9:14') %>
++ Isn't it all God's **fault** anyway? &rarr; <%= bible('ro9.19', '9:19') %>
++ Can't I just be **moral** / ethical? &rarr; <%= bible('ro9.32', '9:32') %>
++ How then is **anyone** saved? &rarr; <%= bible('ro10:8-10', '10:8-10') %>
++ Are they lost **forever**? &rarr; <%= bible('ro11:1-2', '11:1-2') %>
++ Are we **better** than they are? &rarr; <%= bible('ro11:18-21', '11:18-21') %>
 
 >>>
 Rom9-11 addresses this and many other Q's
@@ -569,14 +528,15 @@ when it seems like our evangelism **fails**.
 Needs a **change of heart**, work of H.S.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bethanypetrik-crying_child.jpg" class="top" -->
-<span class="ref">10</span>
+<!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") %> class="top" -->
+
 ... lest they **understand** with their hearts, <br/>
 and **turn** and be **healed**.
 
-<div class="caption">
-img &copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/7978577868/), CC BY-NC-ND 2.0
-</div>
+[Isaiah 6:10 (NIV)](# "ref")
+
+[img &copy; 2012 Bethany Petrik, CC BY-NC-ND 2.0](https://www.flickr.com/photos/bethanypetrik/7978577868/ "caption")
+
 >>>
 + Dressing JJ for **bed**:
 + trying to **help**; he refuses it
@@ -589,7 +549,7 @@ img &copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/797
 + Echoed even in **Isaiah**'s calling:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
+<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
 Then I said, “For **how long**, Lord?”
 
 And he answered: <br/>
@@ -597,19 +557,15 @@ And he answered: <br/>
 and without inhabitant, ... <br/>
 and the land is utterly **forsaken**.
 
-<div class="ref">
-Isaiah 6:11 (NIV) (p.1/2)
-</div>
+[Isaiah 6:11 (NIV) (p.1/2)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
+<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
 But as the terebinth and **oak** <br/>
 leave **stumps** when they are cut down, <br/>
 so the **holy seed** will be the stump in the land.”
 
-<div class="ref">
-Isaiah 6:13 (NIV) (p.2/2)
-</div>
+[Isaiah 6:13 (NIV) (p.2/2)](# "ref")
 
 >>>
 + **oak**: 1st, preeminent, landmark
@@ -619,13 +575,11 @@ Isaiah 6:13 (NIV) (p.2/2)
 + Common thread: Acts &rarr; Is &rarr; **Rom**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
+<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
 So too, at the present time <br/>
 there is a **remnant** chosen by grace.
 
-<div class="ref">
-Romans 11:5 (NIV)
-</div>
+[Romans 11:5 (NIV)](# "ref")
 
 >>>
 + Always **hope** for a remnant
@@ -645,16 +599,12 @@ Romans 11:5 (NIV)
   + continued **proclamation**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-## The Fragrant Gospel <span class="ref">(Ac28)</span>
-1. Paul's heart: Persuasion
-  <span class="ref">(v23)</span>
-2. Hearers' response: Partition
-  <span class="ref">(v24-25)</span>
-3. Spirit's prophecy: Promise
-  <span class="ref">(v26-27)</span>
-4. **Paul's lifestyle: Proclamation**
-  <span class="ref">(v28-31)</span>
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+## The Fragrant Gospel [(Ac28)](# "ref")
+1. Paul's heart: Persuasion [(v23)](# "ref")
+2. Hearers' response: Partition [(v24-25)](# "ref")
+3. Spirit's prophecy: Promise [(v26-27)](# "ref")
+4. **Paul's lifestyle: Proclamation** [(v28-31)](# "ref")
 
 >>>
 How did Paul **continue** after
@@ -662,18 +612,16 @@ the **disappointment** of rejection?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/fig/Boulogne-Paul_Writing.jpg" -->
-<span class="ref">28</span>
+[28](# "ref")
 God’s **salvation** has been sent <br/>
 to the **Gentiles**, and they will **listen**!”
 
-<span class="ref">30</span>
+[30](# "ref")
 For **two whole years** Paul stayed there <br/>
 in his own rented house <br/>
 and **welcomed** all who came to see him.
 
-<div class="ref">
-Acts 28:28-30 (NIV) (p.1/2)
-</div>
+[Acts 28:28-30 (NIV) (p.1/2)](# "ref")
 
 >>>
 + **Gent**: (13:46-47) Pis Antioch
@@ -686,9 +634,7 @@ He **proclaimed** the *kingdom of God* <br/>
 and **taught** about the *Lord Jesus Christ* -- <br/>
 with all **boldness** and without **hindrance**.
 
-<div class="ref">
-Acts 28:31 (NIV) (p.2/2)
-</div>
+[Acts 28:31 (NIV) (p.2/2)](# "ref")
 
 >>>
 + proclaimed (**preach**):
@@ -698,30 +644,26 @@ Acts 28:31 (NIV) (p.2/2)
   + unhindered (w/o **stop**)
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 Thanks be to God, who in Christ <br/>
 always leads us in **triumphal procession**, <br/>
 and through us spreads the **fragrance** <br/>
 of the **knowledge of Him** everywhere.
 
-<div class="ref">
-2 Corinthians 2:14 (ESV) (p.1/2)
-</div>
+[2 Corinthians 2:14 (ESV) (p.1/2)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-<span class="ref">15</span>
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+[15](# "ref")
 For we are the **aroma of Christ** to God <br/>
 among those who are being **saved** <br/>
 and among those who are **perishing**,
 
-<span class="ref">16</span>
+[16](# "ref")
 to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
 
-<div class="ref">
-2 Corinthians 2:15-16 (ESV) (p.2/2)
-</div>
+[2 Corinthians 2:15-16 (ESV) (p.2/2)](# "ref")
 
 >>>
 + **everywh**: Troas &rarr; Macedonia
@@ -747,20 +689,18 @@ to the other a fragrance **from life to life**.
 + **Read** together again, last slide:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-<span class="ref">15</span>
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+[15](# "ref")
 For we are the **aroma of Christ** to God <br/>
 among those who are being **saved** <br/>
 and among those who are **perishing**,
 
-<span class="ref">16</span>
+[16](# "ref")
 to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
 
-<div class="ref">
-2 Corinthians 2:15-16 (ESV)
-</div>
+[2 Corinthians 2:15-16 (ESV)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> class="empty" -->
 
