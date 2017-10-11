@@ -226,7 +226,7 @@ so that your **faith** would not <br/>
 rest on the **wisdom of men**, <br/>
 but on the **power of God**.</p>
 </div><div>
-<p>[1 Corinthians 2:4-5 (NASB)](# "ref")</p>
+<p>[1 Cor 2:4-5 (NASB)](# "ref")</p>
 ![Dujardin, St Paul Healing the Cripple at Lystra](https://sermons.seanho.com/img/fig/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
 </div></div>
 
