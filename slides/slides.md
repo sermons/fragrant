@@ -156,8 +156,8 @@ the people of **Israel**.
 + Paul **loved** Israel deeply
 + What's more, he valued their unique **background**:
 
-______
-<!-- .s: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
+---
+<!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
 Theirs is the **adoption** to sonship; <br/>
 theirs the divine **glory**, the **covenants**, <br/>
 the receiving of the **law**, <br/>
@@ -211,7 +211,7 @@ ______
   + king **now** of creation
   + **near**: soon all will bow
 
----
+______
 <div class="imgbox"><div style="flex:2">
 My **message** <br>
 and my preaching <br/>
