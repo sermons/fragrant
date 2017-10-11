@@ -211,36 +211,7 @@ ______
   + king **now** of creation
   + **near**: soon all will bow
 
-______
-<div class="imgbox"><div style="flex:2">
-My **message** <br>
-and my preaching <br/>
-were not in **persuasive** <br/>
-words of wisdom,
-
-but in demonstration <br/>
-of the **Spirit** and of **power**,
-
-[5](# "ref")
-so that your **faith** would not <br/>
-rest on the **wisdom of men**, <br/>
-but on the **power of God**.
-
-[1 Corinthians 2:4-5 (NASB)](# "ref")
-</div><div>
-![Dujardin, St Paul Healing the Cripple at Lystra](https://sermons.seanho.com/img/fig/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
-</div></div>
-
-[Karel Dujardin, "St Paul at Lystra", 1633](https://www.rijksmuseum.nl/en/collection/SK-A-4922 "caption")
-
->>>
-+ **What** is persuasive?
-  + **Eloquence**, cleverness, cultural relevance?
-  + Holy **Spirit**, **power** of God
-+ "persuasive" == "faith":
-  + What my **faith** rests on
-  + == What I find **persuv**
-+ **Discip**: my perslty, or Christ?
++ TODO
 
 ---
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
