@@ -121,6 +121,7 @@ with all **boldness** and without hindrance!
 </ul>
 </div><div style="flex:5">
 ![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul-WGA19120.jpg)
+<!-- .element: style="width:80%" -->
 </div></div>
 
 [Rembrandt, "Apostle Paul", ~1633](http://bilddatenbank.khm.at/viewArtefact?id=1514 "caption")
