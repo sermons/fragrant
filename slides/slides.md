@@ -243,11 +243,12 @@ but on the **power of God**.
 + **Discip**: my perslty, or Christ?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
-<span class="ref">23</span>
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
 ... and from the **Law of Moses** <br/>
 and from the **Prophets** <br/>
 he tried to persuade them about **Jesus**.
+
+[Acts 28:23](# "ref")
 
 >>>
 + **Jews**: OT bg, hope Messiah
@@ -258,11 +259,10 @@ he tried to persuade them about **Jesus**.
   + v20: **fulfill** hope, !attack
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Raphael-St_Paul_Preaching_Athens.jpg" class="top empty" -->
+<!-- .slide: <%= bg("Raphael-St_Paul_Preaching_Athens.jpg") %> -->
 
-<div class="caption" >
-[Raphael, "St. Paul Preaching in Athens"](http://www.the-athenaeum.org/art/detail.php?ID=34558), tempera cartoon for Sistine Chapel, 1515.
-</div>
+.
+[Raphael, "St. Paul Preaching in Athens", 1515](http://www.the-athenaeum.org/art/detail.php?ID=34558 "caption")
 
 >>>
 + Diff approach in **Athens**:
@@ -271,9 +271,8 @@ he tried to persuade them about **Jesus**.
 + Present Christ as **Creator**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Raphael-St_Paul_Preaching_Athens.jpg" -->
-<div class="imgbox"><div style="flex:3; -webkit-box-flex:0.33">
-<span class="ref">22</span>
+<!-- .slide: <%= bg("Raphael-St_Paul_Preaching_Athens.jpg") %> -->
+<div class="imgbox"><div style="flex:3">
 “Men of **Athens**, I observe that <br/>
 you are **very religious** ...
 
@@ -285,9 +284,7 @@ Therefore what <br/>
 you **worship** in ignorance, <br/>
 this I **proclaim** to you."
 
-<div class="ref">
-Acts 17:22-24 (NASB)
-</div>
+[Acts 17:22-24 (NASB)](# "ref")
 </div><div>
 [![89% adults believe in God](https://sermons.seanho.com/img/fig/Pew-RLS14-BeliefInGod.png)](http://www.pewresearch.org/fact-tank/2015/11/04/americans-faith-in-god-may-be-eroding/)
 </div></div>
@@ -312,8 +309,8 @@ Acts 17:22-24 (NASB)
   + in HS + power
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-## The Fragrant Gospel <span class="ref">(Ac28)</span>
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+## The Fragrant Gospel [(Ac28)](# "ref")
 1. Paul's heart: Persuasion
   <span class="ref">(v23)</span>
 2. **Hearers' response: Partition**
