@@ -156,8 +156,8 @@ the people of **Israel**.
 + Paul **loved** Israel deeply
 + What's more, he valued their unique **background**:
 
----
-<!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
+______
+<!-- .s: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
 Theirs is the **adoption** to sonship; <br/>
 theirs the divine **glory**, the **covenants**, <br/>
 the receiving of the **law**, <br/>
@@ -180,8 +180,8 @@ ______
   + they also **size up** Paul
   + Paul's **motive**: unrest?
 
-______
-<!-- .s: <%= bg("Bodarevsky-Trial_of_Apostle_Paul.jpg") %> -->
+---
+<!-- .slide: <%= bg("Bodarevsky-Trial_of_Apostle_Paul.jpg") %> -->
 He **witnessed** to them <br/>
 from morning till evening, <br/>
 **explaining** about the kingdom of God,
