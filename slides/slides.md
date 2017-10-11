@@ -225,9 +225,8 @@ of the **Spirit** and of **power**,</p>
 so that your **faith** would not <br/>
 rest on the **wisdom of men**, <br/>
 but on the **power of God**.</p>
-
-<p>[1 Corinthians 2:4-5 (NASB)](# "ref")</p>
 </div><div>
+<p>[1 Corinthians 2:4-5 (NASB)](# "ref")</p>
 ![Dujardin, St Paul Healing the Cripple at Lystra](https://sermons.seanho.com/img/fig/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
 </div></div>
 
@@ -248,7 +247,7 @@ but on the **power of God**.</p>
 and from the **Prophets** <br/>
 he tried to persuade them about **Jesus**.
 
-[Acts 28:23](# "ref")
+[Acts 28:23 (NIV)](# "ref")
 
 >>>
 + **Jews**: OT bg, hope Messiah
@@ -347,7 +346,7 @@ ______
 
 ---
 <!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> class="top" -->
-## The Sign of Contradiction
+### The Sign of Contradiction
 
 [Rembrandt, "Simeon's Song of Praise", 1631](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/ "caption")
 
@@ -528,13 +527,12 @@ when it seems like our evangelism **fails**.
 Needs a **change of heart**, work of H.S.
 
 ---
-<!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") %> class="top" -->
+<!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") %> -->
 
 ... lest they **understand** with their hearts, <br/>
 and **turn** and be **healed**.
 
 [Isaiah 6:10 (NIV)](# "ref")
-
 [img &copy; 2012 Bethany Petrik, CC BY-NC-ND 2.0](https://www.flickr.com/photos/bethanypetrik/7978577868/ "caption")
 
 >>>
