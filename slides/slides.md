@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 # The Fragrant Gospel
 ## Acts 28:23-31
 
@@ -10,11 +10,10 @@
   + resistant, stubborn, take **offense**
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # How do I **react** <br/> to those who <br/> take **offense** <br/> at the gospel?
 
-[###](#/outline)
-<!-- .element: style="color:rgba(0,0,0,0.2)" -->
+[###](#/outline "secret")
 
 >>>
 + How do I **respond**?
@@ -37,16 +36,14 @@ and from the **Law** of Moses <br/>
 and from the **Prophets** <br/>
 he tried to **persuade** them about Jesus.
 
-<div class="ref">
-Acts 28:23 (NIV) (p.1/5)
-</div>
+[Acts 28:23 (NIV) (p.1/5)](# "ref")
 
 ---
-<span class="ref">24</span>
+[24](# "ref")
 Some were **convinced** by what he said, <br/>
 but others **would not** believe.
 
-<span class="ref">25</span>
+[25](# "ref")
 They **disagreed** among themselves <br/>
 and began to leave <br/>
 after Paul had made this final statement:
@@ -55,26 +52,22 @@ after Paul had made this final statement:
 to your ancestors <br/>
 when he said through **Isaiah** the prophet:
 
-<div class="ref">
-Acts 28:24-25 (NIV) (p.2/5)
-</div>
+[Acts 28:24-25 (NIV) (p.2/5)](# "ref")
 
 ---
-<span class="ref">26</span>
+[26](# "ref")
 “ ‘Go to this people and say, <br/>
 “You will be ever **hearing** <br/>
 but never **understanding**; <br/>
 you will be ever **seeing** but never **perceiving**.”
 
-<span class="ref">27</span>
+[27](# "ref")
 For this people’s **heart** <br/>
 has become calloused; <br/>
 they hardly hear with their **ears**, <br/>
 and they have closed their **eyes**.
 
-<div class="ref">
-Acts 28:26-27 (NIV) (p.3/5)
-</div>
+[Acts 28:26-27 (NIV) (p.3/5)](# "ref")
 
 ---
 “ ‘Otherwise they might **see** with their eyes, <br/>
@@ -82,42 +75,34 @@ Acts 28:26-27 (NIV) (p.3/5)
 **understand** with their hearts <br/>
 and **turn**, and I would **heal** them.’
 
-<span class="ref">28</span>
+[28](# "ref")
 “Therefore I want you to know <br/>
 that God’s **salvation** <br/>
 has been sent to the **Gentiles**, <br/>
 and they will listen!”
 
-<div class="ref">
-Acts 28:27-28 (NIV) (p.4/5)
-</div>
+[Acts 28:27-28 (NIV) (p.4/5)](# "ref")
 
 ---
-<span class="ref">30</span>
+[30](# "ref")
 For **two** whole years Paul <br/>
 stayed there in his own rented house <br/>
 and **welcomed** all who came to see him.
 
-<span class="ref">31</span>
+[31](# "ref")
 He **proclaimed** the kingdom of God <br/>
 and **taught** about the Lord Jesus Christ -- <br/>
 with all **boldness** and without hindrance!
 
-<div class="ref">
-Acts 28:30-31 (NIV) (p.5/5)
-</div>
+[Acts 28:30-31 (NIV) (p.5/5)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" id="outline" -->
-## The Fragrant Gospel <span class="ref">(Ac28)</span>
-1. Paul's heart: **Persuasion**
-  <span class="ref">(v23)</span>
-2. Hearers' response: **Partition**
-  <span class="ref">(v24-25)</span>
-3. Spirit's prophecy: **Promise**
-  <span class="ref">(v26-27)</span>
-4. Paul's lifestyle: **Proclamation**
-  <span class="ref">(v28-31)</span>
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> id="outline" -->
+## The Fragrant Gospel [(Ac28)](# "ref")
+1. Paul's heart: **Persuasion** [(v23)](# "ref")
+2. Hearers' response: **Partition** [(v24-25)](# "ref")
+3. Spirit's prophecy: **Promise** [(v26-27)](# "ref")
+4. Paul's lifestyle: **Proclamation** [(v28-31)](# "ref")
 
 >>>
 + v17: leaders &rarr; Jew &rarr; Gentile
@@ -127,22 +112,18 @@ Acts 28:30-31 (NIV) (p.5/5)
 + Paul **continues** for 2yrs in house arrest
 
 ---
-<div class="imgbox"><div style="flex:3; -webkit-box-flex:0.33">
+<div class="imgbox"><div style="flex:3">
 <h2>Paul and <br/> the Jews</h2><ul>
 <li> **Persecution**: <br/>
   <span class="ref">Acts 13-14, 17-18, 21</span> </li>
 <li> **Heart** for Jews: <br/>
   <span class="ref">Romans 9-11</span> </li>
 </ul>
-
-<div class="caption">
-[Rembrandt, "Apostle Paul"](http://bilddatenbank.khm.at/viewArtefact?id=1514),
-~1633 (Kunsthistorisches Museum, Vienna)
-</div>
-
-</div><div style="flex:5; -webkit-box-flex:0.2">
+</div><div style="flex:5">
 ![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul-WGA19120.jpg)
 </div></div>
+
+[Rembrandt, "Apostle Paul", ~1633](http://bilddatenbank.khm.at/viewArtefact?id=1514 "caption")
 
 >>>
 + First, some **context**
@@ -153,11 +134,11 @@ Acts 28:30-31 (NIV) (p.5/5)
 + To understand Paul's **heart** for the Jews, cf **Rom9-11**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
+<!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
 I have great **sorrow** <br/>
 and unceasing **anguish** in my heart.
 
-<span class="ref">3</span>
+[3](# "ref")
 For I could wish that I myself <br/>
 were **cursed** and **cut off** from Christ
 
@@ -165,9 +146,7 @@ for the sake of **my people**, <br/>
 those of **my own race**, <br/>
 the people of **Israel**.
 
-<div class="ref">
-Romans 9:2-3 (NIV) (p.1/2)
-</div>
+[Romans 9:2-3 (NIV) (p.1/2)](# "ref")
 
 >>>
 + Rom: Corinth only **2yrs** prior
@@ -178,15 +157,13 @@ Romans 9:2-3 (NIV) (p.1/2)
 + What's more, he valued their unique **background**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
+<!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
 Theirs is the **adoption** to sonship; <br/>
 theirs the divine **glory**, the **covenants**, <br/>
 the receiving of the **law**, <br/>
 the temple **worship** and the **promises**.
 
-<div class="ref">
-Romans 9:4 (NIV) (p.2/2)
-</div>
+[Romans 9:4 (NIV) (p.2/2)](# "ref")
 
 >>>
 + **Blessed**, **chosen**, had **Word**
@@ -204,7 +181,7 @@ ______
   + Paul's **motive**: unrest?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bodarevsky-Trial_of_Apostle_Paul.jpg" -->
+<!-- .slide: <%= bg("Bodarevsky-Trial_of_Apostle_Paul.jpg") %> -->
 He **witnessed** to them <br/>
 from morning till evening, <br/>
 **explaining** about the kingdom of God,
@@ -213,14 +190,9 @@ and from the Law of Moses <br/>
 and from the Prophets <br/>
 he tried to **persuade** them about Jesus.
 
-<div class="ref">
-Acts 28:23 (NIV)
-</div>
+[Acts 28:23 (NIV)](# "ref")
 
-<div class="caption">
-[Nikolas Bodarevsky, "Trial of the Apostle Paul"](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg) (Paul and Agrippa II). 1875. <br/>
-Transcarpathian Regional Art Museum, Ukraine.
-</div>
+[Nikolas Bodarevsky, "Trial of the Apostle Paul", 1875](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg "caption")
 
 >>>
 + (NIV: **swap** first 2 verbs)
@@ -240,7 +212,7 @@ ______
   + **near**: soon all will bow
 
 ---
-<div class="imgbox"><div style="flex:2; -webkit-box-flex:0.5">
+<div class="imgbox"><div style="flex:2">
 My **message** <br>
 and my preaching <br/>
 were not in **persuasive** <br/>
@@ -249,21 +221,17 @@ words of wisdom,
 but in demonstration <br/>
 of the **Spirit** and of **power**,
 
-<span class="ref">5</span>
+[5](# "ref")
 so that your **faith** would not <br/>
 rest on the **wisdom of men**, <br/>
 but on the **power of God**.
 
-<div class="ref">
-1 Corinthians 2:4-5 (NASB)
-</div>
+[1 Corinthians 2:4-5 (NASB)](# "ref")
 </div><div>
 ![Dujardin, St Paul Healing the Cripple at Lystra](https://sermons.seanho.com/img/fig/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
-<div class="caption">
-[Karel Dujardin, "St Paul Healing the Cripple at Lystra"](https://www.rijksmuseum.nl/en/collection/SK-A-4922), 1663.
-Rijksmuseum, Amsterdam.
-</div>
 </div></div>
+
+[Karel Dujardin, "St Paul at Lystra", 1633](https://www.rijksmuseum.nl/en/collection/SK-A-4922 "caption")
 
 >>>
 + **What** is persuasive?
