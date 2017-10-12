@@ -1,36 +1,5 @@
 
 ---
-<div class="imgbox"><div style="flex:2">
-My **message** <br>
-and my preaching <br/>
-were not in **persuasive** <br/>
-words of wisdom,
-
-but in demonstration <br/>
-of the **Spirit** and of **power**,
-
-[5](# "ref")
-so that your **faith** would not <br/>
-rest on the **wisdom of men**, <br/>
-but on the **power of God**.
-
-[1 Corinthians 2:4-5 (NASB)](# "ref")
-</div><div>
-![Dujardin, St Paul Healing the Cripple at Lystra](https://sermons.seanho.com/img/fig/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
-</div></div>
-
-[Karel Dujardin, "St Paul at Lystra", 1633](https://www.rijksmuseum.nl/en/collection/SK-A-4922 "caption")
-
->>>
-+ **What** is persuasive?
-  + **Eloquence**, cleverness, cultural relevance?
-  + Holy **Spirit**, **power** of God
-+ "persuasive" == "faith":
-  + What my **faith** rests on
-  + == What I find **persuv**
-+ **Discip**: my perslty, or Christ?
-
----
 
 ## Outline of Acts <span class="ref">(1:8)</span>
 "You will receive power when the Holy Spirit comes on you; <br/>
@@ -106,30 +75,6 @@ ______
 + In **Ephesus** had plan (19:21):
   + -> **Jeru** -> **Rome**
 + not expect in **chains**!
-
----
-
-## Beneath the Cross of Jesus
-<div class="imgbox"><div>
-![Elizabeth Clephane](https://sermons.seanho.com/img/fig/Clephane.jpg)
-<div class="caption">
-[Elizabeth Clephane](http://www.hymntime.com/tch/htm/b/t/c/btcjesus.htm) 1868, Scotland
-</div>
-</div><div style="flex:3; -webkit-box-flex:0.33">
-Upon that **cross of Jesus** <br/>
-Mine **eye** at times can see <br/>
-The very **dying** form of One <br/>
-Who **suffered** there for me;
-
-And from my **stricken heart** with tears <br/>
-**Two wonders** I confess; <br/>
-The wonders of **redeeming love** <br/>
-And **my unworthiness**.
-</div></div>
-
->>>
-+ Sword pierces our **own soul**
-+ And pierces those who **hear**
 
 ---
 

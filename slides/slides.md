@@ -421,6 +421,28 @@ more than me is not worthy of me.
 + Ms: against **dating non-Chr**, until
 
 ---
+## Beneath the Cross of Jesus
+<div class="imgbox"><div>
+![Elizabeth Clephane](https://sermons.seanho.com/img/fig/Clephane.jpg)
+</div><div style="flex:3">
+<p>Upon that **cross of Jesus** <br/>
+Mine **eye** at times can see <br/>
+The very **dying** form of One <br/>
+Who **suffered** there for me;</p>
+
+<p>And from my **stricken heart** with tears <br/>
+**Two wonders** I confess; <br/>
+The wonders of **redeeming love** <br/>
+And **my unworthiness**.</p>
+</div></div>
+
+[Elizabeth Clephane, 1868, Scotland](http://www.hymntime.com/tch/htm/b/t/c/btcjesus.htm "caption")
+
+>>>
++ Sword pierces our **own soul**
++ And pierces those who **hear**
+
+---
 <!-- .slide: data-background="white" -->
 ## Has the **sword** <br/> of Christ's kingship <br/> pierced **my own** soul?
 ## Am I willing to let it <br/> **divide** my loved ones?
