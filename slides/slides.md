@@ -422,9 +422,9 @@ more than me is not worthy of me.
 
 ---
 ## Beneath the Cross of Jesus
-<div class="imgbox"><div>
+<div class="imgbox"><div style="flex:2">
 ![Elizabeth Clephane](https://sermons.seanho.com/img/fig/Clephane.jpg)
-</div><div style="flex:3">
+</div><div style="flex:7">
 <p>Upon that **cross of Jesus** <br/>
 Mine **eye** at times can see <br/>
 The very **dying** form of One <br/>
