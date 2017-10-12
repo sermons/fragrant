@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> id="title" -->
 # The Fragrant Gospel
 ## Acts 28:23-31
 
