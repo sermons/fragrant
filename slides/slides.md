@@ -422,19 +422,20 @@ more than me is not worthy of me.
 + Ms: against **dating non-Chr**, until
 
 ---
+## Beneath the Cross of Jesus
 <div class="imgbox"><div style="flex:2">
 ![Elizabeth Clephane](https://sermons.seanho.com/img/fig/Clephane.jpg)
 </div><div style="flex:7">
-<p>Upon that **cross of Jesus** <br/>
+Upon that **cross of Jesus** <br/>
 Mine **eye** at times can see <br/>
 The very **dying** form of One <br/>
-Who **suffered** there for me;</p>
+Who **suffered** there for me;
+</div></div>
 
-<p>And from my **stricken heart** with tears <br/>
+And from my **stricken heart** with tears <br/>
 **Two wonders** I confess; <br/>
 The wonders of **redeeming love** <br/>
-And **my unworthiness**.</p>
-</div></div>
+And **my unworthiness**.
 
 [Elizabeth Clephane, 1868, Scotland](http://www.hymntime.com/tch/htm/b/t/c/btcjesus.htm "caption")
 
