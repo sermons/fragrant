@@ -320,6 +320,7 @@ this I **proclaim** to you."</p>
 + What should we expect the **response** to be?
 
 ---
+<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
 Some were **convinced** by what he said, <br/>
 but others **would not believe**.
 
@@ -421,7 +422,6 @@ more than me is not worthy of me.
 + Ms: against **dating non-Chr**, until
 
 ---
-## Beneath the Cross of Jesus
 <div class="imgbox"><div style="flex:2">
 ![Elizabeth Clephane](https://sermons.seanho.com/img/fig/Clephane.jpg)
 </div><div style="flex:7">
@@ -439,6 +439,7 @@ And **my unworthiness**.</p>
 [Elizabeth Clephane, 1868, Scotland](http://www.hymntime.com/tch/htm/b/t/c/btcjesus.htm "caption")
 
 >>>
++ Beneath the Cross of Jesus
 + Sword pierces our **own soul**
 + And pierces those who **hear**
 
