@@ -441,6 +441,7 @@ And **my unworthiness**.
 
 >>>
 + Beneath the Cross of Jesus
+  + Elizabeth Clephane, 1868, Scotland
 + Sword pierces our **own soul**
 + And pierces those who **hear**
 
