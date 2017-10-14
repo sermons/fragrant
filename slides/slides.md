@@ -440,8 +440,10 @@ And **my unworthiness**.
 [Elizabeth Clephane, 1868, Scotland](http://www.hymntime.com/tch/htm/b/t/c/btcjesus.htm "caption")
 
 >>>
-+ Beneath the Cross of Jesus
-  + Elizabeth Clephane, 1868, Scotland
++ Elizabeth Clephane, 1868, Scotland
+  + frail health, gave all to charity
+  + known as "the sunbeam"
+  + poem ~1yr before death at 39
 + Sword pierces our **own soul**
 + And pierces those who **hear**
 
