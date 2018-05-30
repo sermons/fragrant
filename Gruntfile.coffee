@@ -8,14 +8,6 @@ module.exports = (grunt) ->
           port: 9000
           hostname: 'localhost'
 
-    coffeelint:
-      options:
-        indentation:
-          value: 2
-        max_line_length:
-          level: 'ignore'
-      all: ['Gruntfile.coffee']
-
     sass:
       options:
         includePaths: ['node_modules/reveal.js/css/theme/']
@@ -25,11 +17,10 @@ module.exports = (grunt) ->
           'static/css/boldblack.css': 'scss/boldblack.scss'
 
     exec:
-      print: 'decktape -s 1024x768 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf; true'
-      thumbnail: 'decktape -s 1024x768 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/#/title" static/img/thumbnail.jpg; true'
-      reducePDF: 'mv <%= pkg.pdf %> print.pdf; gs -q -dNOPAUSE -dBATCH -dSAFER -dPDFA=2 -dPDFSETTINGS=/ebook -sDEVICE=pdfwrite -sOutputFile=<%= pkg.pdf %> print.pdf'
-      inline: 'script -qec "inliner -m index.html" /dev/null > <%= pkg.shortname %>.html'
-      qr: 'qrcode https://<%= pkg.config.pretty_url %> static/img/<%= pkg.shortname %>-qr.png'
+      print: 'decktape -s 1024x768 reveal "http://localhost:9000/" <%= pkg.pdf %> --no-sandbox; true'
+      thumbnail: 'decktape -s 800x600 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/#/title" static/img/thumbnail.jpg --no-sandbox; true'
+      reducePDF: 'mv <%= pkg.pdf %> print.pdf; gs -q -dNOPAUSE -dBATCH -dSAFER -dPDFSETTINGS=/ebook -sDEVICE=pdfwrite -sOutputFile=<%= pkg.pdf %> print.pdf'
+      qr: 'echo https://<%= pkg.config.pretty_url %> | qrcode -o static/img/<%= pkg.shortname %>-qr.png'
 
     copy:
       index:
@@ -49,28 +40,14 @@ module.exports = (grunt) ->
           src: [
             'static/**'
             'index.html'
-            '<%= pkg.shortname %>.html'
           ]
           dest: 'dist/'
         },{
+          expand: true
           flatten: true
-          src: 'static/img/favicon.ico'
+          src: 'static/img/favicon.*'
           dest: 'dist/'
         }]
-
-    buildcontrol:
-      options:
-        dir: 'dist'
-        commit: true
-        push: true
-        fetchProgress: false
-        config:
-          'user.name': '<%= pkg.config.git.name %>'
-          'user.email': '<%= pkg.config.git.email %>'
-      github:
-        options:
-          remote: 'git@github.com:<%= pkg.repository %>'
-          branch: 'gh-pages'
 
   # Generated grunt vars
   grunt.config.merge
@@ -87,10 +64,8 @@ module.exports = (grunt) ->
       'https://mobile.biblegateway.com/passage/?search=' +
       ref.replace(/[^\w.:,-]+/g, '') + '&version=' + ver + ' "ref")'
 
-  # Load all grunt tasks.
+  # Autoload tasks from grunt plugins
   require('load-grunt-tasks')(grunt)
-  grunt.loadNpmTasks 'grunt-git'
-  grunt.loadNpmTasks 'grunt-sass'
 
   grunt.registerTask 'cname',
     'Create CNAME for Github Pages', ->
@@ -109,26 +84,19 @@ module.exports = (grunt) ->
     ]
 
   grunt.registerTask 'test',
-    '*Render* to PDF and inlined HTML', [
-      'coffeelint'
+    '*Render* to PDF', [
       'connect:serve'
       'exec:print'
       'exec:reducePDF'
       'exec:thumbnail'
+      'exec:qr'
     ]
 
   grunt.registerTask 'dist',
-    'Save presentation files to *dist* directory.', [
-      'exec:qr'
+    '*Copy* site to dist/ for deployment', [
       'copy:dist'
-    ]
-
-  grunt.registerTask 'deploy',
-    'Deploy to Github Pages', [
-      'dist'
       'cname'
       'nojekyll'
-      'buildcontrol:github'
     ]
 
   # Define default task.
