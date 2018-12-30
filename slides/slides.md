@@ -214,8 +214,8 @@ ______
 
 ---
 <div class="imgbox"><div style="flex:2">
-<p>My **message** <br>
-and my preaching <br/>
+<p>My **message** 
+and preaching <br/>
 were not in **persuasive** <br/>
 words of wisdom,</p>
 
