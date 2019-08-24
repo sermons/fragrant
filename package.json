@@ -1,6 +1,6 @@
 {
-  "name": "@sermons/fragrant-gospel",
-  "repository": "sermons/fragrant-gospel",
+  "name": "@sermons/fragrant",
+  "repository": "sermons/fragrant",
   "description": "Acts 28:23-31, The Fragrant Gospel",
   "keywords": [
     "slides",
@@ -11,8 +11,8 @@
   "version": "1.7.3",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "fragrant-gospel.seanho.com",
-    "cname": "fragrant-gospel.seanho.com",
+    "pretty_url": "fragrant.seanho.com",
+    "cname": "fragrant.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "b86c15c6f3949415"
