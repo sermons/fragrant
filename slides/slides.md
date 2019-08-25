@@ -113,15 +113,16 @@ with all **boldness** and without hindrance!
 
 ---
 <div class="imgbox"><div style="flex:3">
-<h2>Paul and <br/> the Jews</h2><ul>
-<li> **Persecution**: <br/>
-  <span class="ref">Acts 13-14, 17-18, 21</span> </li>
-<li> **Heart** for Jews: <br/>
-  <span class="ref">Romans 9-11</span> </li>
-</ul>
+
+## Paul and <br/> the Jews
++ **Persecution**: <br/> [Acts 13-14, 17-18, 21](# "ref")
++ **Heart** for Jews: <br/> [Romans 9-11](# "ref")
+
 </div><div style="flex:5">
+
 ![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul-WGA19120.jpg)
 <!-- .element: style="width:80%" -->
+
 </div></div>
 
 [Rembrandt, "Apostle Paul", ~1633](http://bilddatenbank.khm.at/viewArtefact?id=1514 "caption")
@@ -214,21 +215,24 @@ ______
 
 ---
 <div class="imgbox"><div style="flex:2">
-<p>My **message** 
-and preaching <br/>
+
+My **message** and preaching <br/>
 were not in **persuasive** <br/>
-words of wisdom,</p>
+words of wisdom,
 
-<p>but in demonstration <br/>
-of the **Spirit** and of **power**,</p>
+but in demonstration <br/>
+of the **Spirit** and of **power**,
 
-<p>[5](# "ref")
+[5](# "ref")
 so that your **faith** would not <br/>
 rest on the **wisdom of men**, <br/>
-but on the **power of God**.</p>
+but on the **power of God**.
+
 </div><div>
-<p>[1 Cor 2:4-5 (NASB)](# "ref")</p>
+
+[1 Cor 2:4-5 (NASB)](# "ref")
 ![Dujardin, St Paul Healing the Cripple at Lystra](https://sermons.seanho.com/img/fig/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
+
 </div></div>
 
 [Karel Dujardin, "St Paul at Lystra", 1633](https://www.rijksmuseum.nl/en/collection/SK-A-4922 "caption")
@@ -272,20 +276,24 @@ he tried to persuade them about **Jesus**.
 ---
 <!-- .slide: <%= bg("Raphael-St_Paul_Preaching_Athens.jpg") %> -->
 <div class="imgbox"><div style="flex:3">
-<p>“Men of **Athens**, I observe that <br/>
-you are **very religious** ...</p>
 
-<p>... I found an altar <br/>
+“Men of **Athens**, I observe that <br/>
+you are **very religious** ...
+
+... I found an altar <br/>
 with this inscription, <br/>
-‘TO AN **UNKNOWN GOD**.’</p>
+‘TO AN **UNKNOWN GOD**.’
 
-<p>Therefore what <br/>
+Therefore what <br/>
 you **worship** in ignorance, <br/>
-this I **proclaim** to you."</p>
+this I **proclaim** to you."
 
-<p>[Acts 17:22-24 (NASB)](# "ref")</p>
+[Acts 17:22-24 (NASB)](# "ref")
+
 </div><div>
+
 [![89% adults believe in God](https://sermons.seanho.com/img/fig/Pew-RLS14-BeliefInGod.png)](http://www.pewresearch.org/fact-tank/2015/11/04/americans-faith-in-god-may-be-eroding/)
+
 </div></div>
 
 >>>
@@ -424,12 +432,16 @@ more than me is not worthy of me.
 ---
 ## Beneath the Cross of Jesus
 <div class="imgbox"><div style="flex:2">
+
 ![Elizabeth Clephane](https://sermons.seanho.com/img/fig/Clephane.jpg)
+
 </div><div style="flex:7">
+
 Upon that **cross of Jesus** <br/>
 Mine **eye** at times can see <br/>
 The very **dying** form of One <br/>
 Who **suffered** there for me;
+
 </div></div>
 
 And from my **stricken heart** with tears <br/>
