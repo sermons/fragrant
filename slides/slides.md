@@ -1,5 +1,5 @@
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> id="title" -->
-# The Fragrant Gospel
+# The Fragrant Gospel <br> [芬芳的福音](# "zh")
 ## Acts 28:23-31
 
 >>>
@@ -13,7 +13,7 @@
 <!-- .slide: data-background="white" -->
 # How do I **react** <br/> to those who <br/> take **offense** <br/> at the gospel?
 
-[###](#/outline "secret")
+[我如何回應那些對福音冒犯又生氣的人？](# "zh")
 
 >>>
 + How do I **respond**?
@@ -23,7 +23,7 @@
 + 3. How we should **respond**
 + 4. How it **changes** daily life
 
----
+******
 They arranged to **meet Paul** on a certain day, <br/>
 and came in even **larger numbers** <br/>
 to the place where he was staying.
@@ -38,7 +38,7 @@ he tried to **persuade** them about Jesus.
 
 [Acts 28:23 (NIV) (p.1/5)](# "ref")
 
----
+******
 [24](# "ref")
 Some were **convinced** by what he said, <br/>
 but others **would not** believe.
@@ -54,7 +54,7 @@ when he said through **Isaiah** the prophet:
 
 [Acts 28:24-25 (NIV) (p.2/5)](# "ref")
 
----
+******
 [26](# "ref")
 “ ‘Go to this people and say, <br/>
 “You will be ever **hearing** <br/>
@@ -69,7 +69,7 @@ and they have closed their **eyes**.
 
 [Acts 28:26-27 (NIV) (p.3/5)](# "ref")
 
----
+******
 “ ‘Otherwise they might **see** with their eyes, <br/>
 **hear** with their ears, <br/>
 **understand** with their hearts <br/>
@@ -83,7 +83,7 @@ and they will listen!”
 
 [Acts 28:27-28 (NIV) (p.4/5)](# "ref")
 
----
+******
 [30](# "ref")
 For **two** whole years Paul <br/>
 stayed there in his own rented house <br/>
@@ -100,9 +100,13 @@ with all **boldness** and without hindrance!
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> id="outline" -->
 ## The Fragrant Gospel [(Ac28)](# "ref")
 1. Paul's heart: **Persuasion** [(v23)](# "ref")
+[保羅的心：勸導](# "zh")
 2. Hearers' response: **Partition** [(v24-25)](# "ref")
+[聽眾的回應：劃分](# "zh")
 3. Spirit's prophecy: **Promise** [(v26-27)](# "ref")
+[聖靈的預言： 應許](# "zh")
 4. Paul's lifestyle: **Proclamation** [(v28-31)](# "ref")
+[保羅的生活：傳揚](# "zh")
 
 >>>
 + v17: leaders &rarr; Jew &rarr; Gentile
@@ -308,6 +312,9 @@ this I **proclaim** to you."
 ## Do I love my **pious countrymen**?
 ## Love them enough <br/> to **lay out** the gospel <br/> clearly to them?
 
+[我愛我敬虔的同胞嗎？](# "zh")
+[能愛到我願意跟他們清楚解釋福音嗎？](# "zh")
+
 >>>
 + **countrymen**: CN, TW, HK, US
   + common **background**: nbr, fellow soccer parents
@@ -463,6 +470,9 @@ And **my unworthiness**.
 <!-- .slide: data-background="white" -->
 ## Has the **sword** <br/> of Christ's kingship <br/> pierced **my own** soul?
 ## Am I willing to let it <br/> **divide** my loved ones?
+
+[讓基督君王的刀劍刺透我的靈魂](# "zh")
+[我願意讓它分裂我愛的人嗎？](# "zh")
 
 >>>
 + God's **holiness**,
@@ -629,6 +639,8 @@ there is a **remnant** chosen by grace.
 <!-- .slide: data-background="white" -->
 # How do I **react** <br/> to those who <br/> take **offense** <br/> at the gospel?
 
+[我如何回應那些對福音冒犯又生氣的人？](# "zh")
+
 >>>
 + Combat?  Frustr?  Resign?
   + "Well, forget you!"
@@ -715,6 +727,8 @@ to the other a fragrance **from life to life**.
 ---
 <!-- .slide: data-background="white" -->
 # Do I exude the **fragrance of Christ** <br/> in my daily life?
+
+[我在日常生活中是否散發出基督的香氣？](# "zh")
 
 >>>
 + not: **nice guy**, moral, charity!
