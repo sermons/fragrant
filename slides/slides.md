@@ -3,10 +3,10 @@
 ## Acts 28:23-31
 
 >>>
-+ Do you have **loved ones** who
-  + you **care** deeply for but
++ Do you have **loved ones** 
+  + for whom you **care** deeply, but
   + have not yet **turned** to obedience to Christ?
-+ invited to church, shared gospel
++ invited to church, shared gospel, but
   + resistant, stubborn, take **offense**
 
 ---
@@ -17,9 +17,9 @@
 
 >>>
 + How do I **respond**?
-  + Combat?  Frustr?  Resign?
+  + Combat?  Frustration?  Resignation?
 + 1. How we **share** the gospel
-+ 2. **Effect** on hearers
++ 2. Its **effect** on hearers
 + 3. How we should **respond**
 + 4. How it **changes** daily life
 
@@ -109,9 +109,8 @@ with all **boldness** and without hindrance!
 [保羅的生活：傳揚](# "zh")
 
 >>>
-+ v17: leaders &rarr; Jew &rarr; Gentile
 + Paul **lays out** gospel to beloved countrymen
-+ Hearers **divided** response
++ Hearers' **divided** response
 + Paul **quotes** OT prophecy
 + Paul **continues** for 2yrs in house arrest
 
@@ -133,11 +132,11 @@ with all **boldness** and without hindrance!
 
 >>>
 + First, some **context**
-+ Jews **persecuted** on journeys
-  + Asia Minor &rarr; **Jeru**
-+ Paul's **attitude** toward Jews?
++ Acts: Jews **persecuted** Paul on journeys
+  + from Asia Minor &rarr; **Jeru**
++ What was Paul's **attitude** toward Jews?
   + Hate? **Give up**? Avoid?
-+ To understand Paul's **heart** for the Jews, cf **Rom9-11**
++ To understand Paul's **heart** for the Jews, see **Rom9-11**
 
 ---
 <!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
@@ -155,10 +154,8 @@ the people of **Israel**.
 [Romans 9:2-3 (NIV) (p.1/2)](# "ref")
 
 >>>
-+ Rom: Corinth only **2yrs** prior
 + Not **enemies** but **countrymen**!
-  + no anti-Semitism here
-  + (Crusades, Luther, Nazis)
+  + (we should not **hate** the Jews, either)
 + Paul **loved** Israel deeply
 + What's more, he valued their unique **background**:
 
@@ -172,19 +169,12 @@ the temple **worship** and the **promises**.
 [Romans 9:4 (NIV) (p.2/2)](# "ref")
 
 >>>
-+ **Blessed**, **chosen**, had **Word**
-  + OT **worship** + **promises**
-  + **Hope** eagerly for **rescue**
-+ Specific to Israel, but ...
++ Old Testament **worship** + **promises**
+  + **hope** eagerly for **rescue**
 + "**good guys**", not villains!
-  + **Pious**, moral, desire good
-+ **How** did Paul share gospel with his
+  + **pious**, moral, desire good
++ So **how** did Paul share gospel with his
   **pious countrymen** whom he loved so deeply?
-
-______
-+ Also, Claudius **expelled** Roman Jews for unrest (18:2)
-  + they also **size up** Paul
-  + Paul's **motive**: unrest?
 
 ---
 <!-- .slide: <%= bg("Bodarevsky-Trial_of_Apostle_Paul.jpg") %> -->
@@ -201,21 +191,16 @@ he tried to **persuade** them about Jesus.
 [Nikolas Bodarevsky, "Trial of the Apostle Paul", 1875](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg "caption")
 
 >>>
-+ (NIV: **swap** first 2 verbs)
-+ "witness" (**lay out**): put forth
++ 3 main **verbs**
++ 1st verb: **lay out**, put forth
   + clear exposition
-+ "explaining": **witness**, testify
++ 2nd verb: **witness**, testify
   + recount: *martyr*
   + not about **messenger** but **msg**
-+ **persuade** (faith, belief, trust):
++ 3rd verb: **persuade** (faith, belief, trust):
   + convince, coax, seduce
-  + ew, **telemarketing**?
-    + (14:19) Jews "**won over**"
+  + ew, like **telemarketing**?
   + no, in fact...
-______
-+ ... to **kingdom** of God:
-  + king **now** of creation
-  + **near**: soon all will bow
 
 ---
 <div class="imgbox"><div style="flex:2">
@@ -245,10 +230,10 @@ but on the **power of God**.
 + **What** is persuasive?
   + **Eloquence**, cleverness, cultural relevance?
   + Holy **Spirit**, **power** of God
-+ "persuasive" == "faith":
++ "persuasive" same root word as "faith":
   + What my **faith** rests on
-  + == What I find **persuv**
-+ **Discip**: my perslty, or Christ?
+  + indicates what I find **persusasive**
++ Do I want people to be **disciples** of my personality, or of Christ?
 
 ---
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
@@ -423,7 +408,7 @@ more than me is not worthy of me.
 
 [Matthew 10:37 (NIV) (p.2/2)](# "ref")
 
-[img: Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/ "caption")
+[Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/ "caption")
 
 >>>
 + w/kid, I'm #2: love **wife** > kid?
@@ -507,7 +492,7 @@ and their ears **heavy**, and **blind** their eyes
 
 [Isaiah 6:9-10 (NIV)](# "ref")
 
-[img: TobiasD](https://pixabay.com/en/eye-human-face-vision-look-person-321961/ "caption")
+[TobiasD](https://pixabay.com/en/eye-human-face-vision-look-person-321961/ "caption")
 
 >>>
 + Heb: "Hear, you will cert hear"
@@ -583,7 +568,7 @@ Needs a **change of heart**, work of H.S.
 and **turn** and be **healed**.
 
 [Isaiah 6:10 (NIV)](# "ref")
-[img &copy; 2012 Bethany Petrik, CC BY-NC-ND 2.0](https://www.flickr.com/photos/bethanypetrik/7978577868/ "caption")
+[&copy; 2012 Bethany Petrik, CC BY-NC-ND 2.0](https://www.flickr.com/photos/bethanypetrik/7978577868/ "caption")
 
 >>>
 + Dressing JJ for **bed**:
