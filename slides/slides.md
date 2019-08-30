@@ -334,17 +334,6 @@ and began to **leave** ...
 + Cause **divisions**, **reveal** hearts
 + Wait, didn't Jesus come to bring **peace**?
   + shortly after Jesus' birth:
-______
-+ Not "after" but:
-  "Being **a-symphonic** toward each other,
-  they were **dispersing**,
-  Paul speaking **one word**"
-  (i.e., as they were leaving)
-+ what about Christmas angels?
-  + **peace on earth**
-  + goodwill to men?
-+ Codex Sinaiticus dropped last letter of εὐδοκίας, KJV
-  + "peace on earth to men of [God's] good will"
 
 ---
 <!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> class="top" -->
@@ -419,37 +408,6 @@ more than me is not worthy of me.
 + **True love** for family means:
   + Stand **firm** on God's truth
   + Don't make **excuses** for their sin
-+ Ms: against **dating non-Chr**, until
-
----
-## Beneath the Cross of Jesus
-<div class="imgbox"><div style="flex:2">
-
-![Elizabeth Clephane](https://sermons.seanho.com/img/fig/Clephane.jpg)
-
-</div><div style="flex:7">
-
-Upon that **cross of Jesus** <br/>
-Mine **eye** at times can see <br/>
-The very **dying** form of One <br/>
-Who **suffered** there for me;
-
-</div></div>
-
-And from my **stricken heart** with tears <br/>
-**Two wonders** I confess; <br/>
-The wonders of **redeeming love** <br/>
-And **my unworthiness**.
-
-[Elizabeth Clephane, 1868, Scotland](http://www.hymntime.com/tch/htm/b/t/c/btcjesus.htm "caption")
-
->>>
-+ Elizabeth Clephane, 1868, Scotland
-  + frail health, gave all to charity
-  + known as "the sunbeam"
-  + poem ~1yr before death at 39
-+ Sword pierces our **own soul**
-+ And pierces those who **hear**
 
 ---
 <!-- .slide: data-background="white" -->
