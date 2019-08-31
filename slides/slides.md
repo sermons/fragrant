@@ -366,7 +366,6 @@ may be **revealed**.
 + Not **weapon** against others:
   + Pierce **own** soul, too
 + Reveal sin in **facade** of good
-  + **CTC**: cut the crap
 + Jesus came to bring **peace**?
 
 ---
@@ -400,10 +399,9 @@ more than me is not worthy of me.
 [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/ "caption")
 
 >>>
-+ w/kid, I'm #2: love **wife** > kid?
-  + love **Christ** > wife?
-+ sandwich gen: tyranny **urgent**
-  + fam: **visible**, demanding
++ do I love **Christ** more than I love my **family**?
++ **sandwich** generation, both kids + grandparents
+  + family: **visible**, demanding
   + Christ: **invisible**, gracious
 + **True love** for family means:
   + Stand **firm** on God's truth
@@ -453,11 +451,11 @@ and their ears **heavy**, and **blind** their eyes
 [TobiasD](https://pixabay.com/en/eye-human-face-vision-look-person-321961/ "caption")
 
 >>>
-+ Heb: "Hear, you will cert hear"
-  + **impr**/proph-fut + **inf abs**
++ Hebrew: "Hear, you will certainly hear"
+  + (imperfect/prophetic-future + infinitive absolute)
 + **fattened** &rarr; heavy &rarr; cloud
-  + Make fat: **hiphil imperatv**
-  + LXX/GNT: passive
+  + in Acts (quoting LXX): **passive**
+  + in Isaiah: **make** fat (hiphil imperative)
 + **How** does preaching the gospel make a heart **dull**?
 
 ---
@@ -477,9 +475,9 @@ produced in me every kind of coveting.
 [Romans 7:7-8 (NIV) (p.1/2)](# "ref")
 
 >>>
-+ "No ice cream, it's bad for you"
-  + &Rarr; think about + want it
-+ Law is good, to bring **life**
++ If I tell you, "No ice cream, it's bad for you"
+  + &Rarr; you'll think about + want it
++ Law is good, to bring **life**, but
   + **Sin** sprang to life
   + and **killed** me
 
@@ -617,9 +615,10 @@ and **welcomed** all who came to see him.
 [Acts 28:28-30 (NIV) (p.1/2)](# "ref")
 
 >>>
-+ **Gent**: (13:46-47) Pis Antioch
++ still **preaching** gospel, but
+  + move on to **Gentiles**
 + **stayed** + welcomed:
-  + **rent**: tents (1Co9, 2Co11)
+  + **rent**: making tents (1Co9, 2Co11)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/fig/Boulogne-Paul_Writing.jpg" -->
@@ -659,8 +658,7 @@ to the other a fragrance **from life to life**.
 [2 Corinthians 2:15-16 (ESV) (p.2/2)](# "ref")
 
 >>>
-+ **everywh**: Troas &rarr; Macedonia
-  + skipped Corinth
++ **everywh**: all of Paul's travels
 + **life** &rarr; life: **rebuke** &rarr;
   + godly **sorrow** &rarr; **repent**
 + **death** &rarr; death:
@@ -674,9 +672,9 @@ to the other a fragrance **from life to life**.
 [我在日常生活中是否散發出基督的香氣？](# "zh")
 
 >>>
-+ not: **nice guy**, moral, charity!
-+ ack own **unworthiness**
-  + univ need **redemption**
++ not about being a **nice guy**, moral, charitable!
++ acknowledge own **unworthiness**
+  + universal need for **redemption**
 + be a **smelly** Christian:
   + stench: death to **sin**
   + aroma: **new life** Christ
