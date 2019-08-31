@@ -1,5 +1,6 @@
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> id="title" -->
-# The Fragrant Gospel <br> [芬芳的福音](# "zh")
+# The Fragrant Gospel
+<h1 class="zh">芬芳的福音</h1>
 ## Acts 28:23-31
 
 >>>
@@ -11,9 +12,9 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I **react** <br/> to those who <br/> take **offense** <br/> at the gospel?
+# How do I **react** to those who take **offense** at the gospel?
 
-[我如何回應那些對福音冒犯又生氣的人？](# "zh")
+<h1 class="zh">我如何回應那些對福音冒犯又生氣的人？</h1>
 
 >>>
 + How do I **respond**?
@@ -99,14 +100,14 @@ with all **boldness** and without hindrance!
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> id="outline" -->
 ## The Fragrant Gospel [(Ac28)](# "ref")
-1. Paul's heart: **Persuasion** [(v23)](# "ref")
-[保羅的心：勸導](# "zh")
-2. Hearers' response: **Partition** [(v24-25)](# "ref")
-[聽眾的回應：劃分](# "zh")
-3. Spirit's prophecy: **Promise** [(v26-27)](# "ref")
-[聖靈的預言： 應許](# "zh")
-4. Paul's lifestyle: **Proclamation** [(v28-31)](# "ref")
-[保羅的生活：傳揚](# "zh")
+1. Paul's heart: **Persuasion** [(v23)](# "ref")<br>
+  <span class="zh">保羅的心：勸導</span>
+2. Hearers' response: **Partition** [(v24-25)](# "ref")<br>
+  <span class="zh">聽眾的回應：劃分</span>
+3. Spirit's prophecy: **Promise** [(v26-27)](# "ref")<br>
+  <span class="zh">聖靈的預言： 應許</span>
+4. Paul's lifestyle: **Proclamation** [(v28-31)](# "ref")<br>
+  <span class="zh">保羅的生活：傳揚</span>
 
 >>>
 + Paul **lays out** gospel to beloved countrymen
@@ -151,28 +152,13 @@ for the sake of **my people**, <br/>
 those of **my own race**, <br/>
 the people of **Israel**.
 
-[Romans 9:2-3 (NIV) (p.1/2)](# "ref")
+[Romans 9:2-3 (NIV)](# "ref")
 
 >>>
-+ Not **enemies** but **countrymen**!
++ Paul **loved** Israel deeply!
+  + not **enemies** but fellow **countrymen**
   + (we should not **hate** the Jews, either)
-+ Paul **loved** Israel deeply
-+ What's more, he valued their unique **background**:
-
----
-<!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
-Theirs is the **adoption** to sonship; <br/>
-theirs the divine **glory**, the **covenants**, <br/>
-the receiving of the **law**, <br/>
-the temple **worship** and the **promises**.
-
-[Romans 9:4 (NIV) (p.2/2)](# "ref")
-
->>>
-+ Old Testament **worship** + **promises**
-  + **hope** eagerly for **rescue**
-+ "**good guys**", not villains!
-  + **pious**, moral, desire good
++ **pious**, moral, desired to do good
 + So **how** did Paul share gospel with his
   **pious countrymen** whom he loved so deeply?
 
@@ -230,9 +216,9 @@ but on the **power of God**.
 + **What** is persuasive?
   + **Eloquence**, cleverness, cultural relevance?
   + Holy **Spirit**, **power** of God
-+ "persuasive" same root word as "faith":
-  + What my **faith** rests on
-  + indicates what I find **persusasive**
++ "persuasive": same root word as **faith**:
+  + what I find **persusasive** tells me
+  + what my **faith** rests on
 + Do I want people to be **disciples** of my personality, or of Christ?
 
 ---
@@ -244,12 +230,10 @@ he tried to persuade them about **Jesus**.
 [Acts 28:23 (NIV)](# "ref")
 
 >>>
-+ **Jews**: OT bg, hope Messiah
-  + pious countrymen
-+ **Jesus**: from Moses/Prophets
-  + OT **Messiah** == Jesus
-+ Still **contentious** today
-  + v20: **fulfill** hope, !attack
++ to the **Jews**, common starting point is **OT**
++ show that Jesus is the OT **Messiah**
++ v20: **fulfill** their hope, not attack them
++ but most of our **friends**/relatives/countrymen **don't** believe the OT
 
 ---
 <!-- .slide: <%= bg("Raphael-St_Paul_Preaching_Athens.jpg") %> class="empty top" -->
@@ -257,8 +241,8 @@ he tried to persuade them about **Jesus**.
 [Raphael, "St. Paul Preaching in Athens", 1515](http://www.the-athenaeum.org/art/detail.php?ID=34558 "caption")
 
 >>>
-+ Diff approach in **Athens**:
-  + No **OT** bg, hope of Messiah
++ most are like the **Greeks** in Athens
+  + Paul in Acts 17
 + Still start from their **piety**
 + Present Christ as **Creator**
 
@@ -297,8 +281,10 @@ this I **proclaim** to you."
 ## Do I love my **pious countrymen**?
 ## Love them enough <br/> to **lay out** the gospel <br/> clearly to them?
 
-[我愛我敬虔的同胞嗎？](# "zh")
-[能愛到我願意跟他們清楚解釋福音嗎？](# "zh")
+<div class="zh">
+我愛我敬虔的同胞嗎？<br>
+能愛到我願意跟他們清楚解釋福音嗎？
+</div>
 
 >>>
 + **countrymen**: CN, TW, HK, US
@@ -409,11 +395,13 @@ more than me is not worthy of me.
 
 ---
 <!-- .slide: data-background="white" -->
-## Has the **sword** <br/> of Christ's kingship <br/> pierced **my own** soul?
-## Am I willing to let it <br/> **divide** my loved ones?
+## Has the **sword** of Christ's kingship pierced **my own** soul?
+## Am I willing to let it **divide** my loved ones?
 
-[讓基督君王的刀劍刺透我的靈魂](# "zh")
-[我願意讓它分裂我愛的人嗎？](# "zh")
+<h2 class="zh">
+讓基督君王的刀劍刺透我的靈魂<br>
+我願意讓它分裂我愛的人嗎？
+</h2>
 
 >>>
 + God's **holiness**,
