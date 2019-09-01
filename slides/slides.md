@@ -1,7 +1,7 @@
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> id="title" -->
 # The Fragrant Gospel
 # <span class="zh">芬芳的福音</span>
-## Acts 28:23-31
+## Acts 使徒行傳 28:23-31
 
 >>>
 + Do you have **loved ones** 
@@ -180,7 +180,7 @@ he tried to **persuade** them about Jesus.
 以耶穌的事勸勉他們。
 </div>
 
-[Acts 28:23 (NIV)](# "ref")
+[Acts 使徒行傳 28:23 (NIV/CUV)](# "ref")
 
 [Nikolas Bodarevsky, "Trial of the Apostle Paul", 1875](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg "caption")
 
@@ -253,7 +253,7 @@ he tried to persuade them about **Jesus**.
 以耶穌的事勸勉他們 
 </div>
 
-[Acts 28:23 (NIV)](# "ref")
+[Acts 使徒行傳 28:23 (NIV/CUV)](# "ref")
 
 >>>
 + to the **Jews**, common starting point is **OT**
@@ -291,7 +291,7 @@ this I **proclaim** to you."
 我現在告訴你們。
 </div>
 
-[Acts 使徒行傳 17:22-23 (NASB)](# "ref")
+[Acts 使徒行傳 17:22-23 (NASB/CUV)](# "ref")
 
 </div><div>
 
@@ -647,9 +647,11 @@ so the **holy seed** will be the stump in the land.”
 So too, at the present time <br/>
 there is a **remnant** chosen by grace.
 
+<div class="zh">
+如今也是這樣，照著揀選的恩典，還有所留的餘數。
+</div>
 
-
-[Romans 11:5 (NIV)](# "ref")
+[Romans 羅馬 11:5 (NIV/CUV)](# "ref")
 
 >>>
 + Always **hope** for a remnant
@@ -690,14 +692,21 @@ the **disappointment** of rejection?
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/fig/Boulogne-Paul_Writing.jpg" -->
 [28](# "ref")
 God’s **salvation** has been sent <br/>
-to the **Gentiles**, and they will **listen**!”
-
+to the **Gentiles**, and they will **listen**!”<br>
 [30](# "ref")
 For **two whole years** Paul stayed there <br/>
 in his own rented house <br/>
 and **welcomed** all who came to see him.
 
-[Acts 28:28-30 (NIV) (p.1/2)](# "ref")
+<div class="zh">
+[28](# "ref")
+神這救恩，如今傳給外邦人，他們也必聽受。<br>
+[30](# "ref")
+保羅在自己所租的房子裡住了足足兩年。<br>
+凡來見他的人，他全都接待
+</div>
+
+[Acts 使徒行傳 28:28,30-31 (NIV/CUV) (p.1/2)](# "ref")
 
 >>>
 + still **preaching** gospel, but
@@ -707,11 +716,18 @@ and **welcomed** all who came to see him.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/fig/Boulogne-Paul_Writing.jpg" -->
+[31](# "ref")
 He **proclaimed** the *kingdom of God* <br/>
 and **taught** about the *Lord Jesus Christ* -- <br/>
 with all **boldness** and without **hindrance**.
 
-[Acts 28:31 (NIV) (p.2/2)](# "ref")
+<div class="zh">
+[31](# "ref")
+放膽傳講神國的道，<br>
+將主耶穌基督的事教導人，並沒有人禁止
+</div>
+
+[Acts 使徒行傳 28:28,30-31 (NIV/CUV) (p.2/2)](# "ref")
 
 >>>
 + proclaimed (**preach**):
@@ -722,25 +738,42 @@ with all **boldness** and without **hindrance**.
 
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+[14](# "ref")
 Thanks be to God, who in Christ <br/>
 always leads us in **triumphal procession**, <br/>
 and through us spreads the **fragrance** <br/>
 of the **knowledge of Him** everywhere.
 
-[2 Corinthians 2:14 (ESV) (p.1/2)](# "ref")
+<div class="zh">
+[14](# "ref")
+感謝神！常帥領我們在基督裡誇勝，<br>
+並藉著我們在各處顯揚<br>
+那因認識基督而有的香氣。
+</div>
+
+[2 Corinthians 歌林多後 2:14-16 (ESV/CUV) (p.1/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 [15](# "ref")
 For we are the **aroma of Christ** to God <br/>
 among those who are being **saved** <br/>
-and among those who are **perishing**,
-
+and among those who are **perishing**,<br>
 [16](# "ref")
 to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
 
-[2 Corinthians 2:15-16 (ESV) (p.2/2)](# "ref")
+<div class="zh">
+[15](# "ref")
+因為我們在神面前，<br>
+無論在得救的人身上或滅亡的人身上，<br>
+都有基督馨香之氣。<br>
+[16](# "ref")
+在這等人，就作了死的香氣叫他死；<br>
+在那等人，就作了活的香氣叫他活
+</div>
+
+[2 Corinthians 歌林多後 2:14-16 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + **everywh**: all of Paul's travels
