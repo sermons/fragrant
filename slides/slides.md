@@ -489,7 +489,7 @@ and their ears **heavy**, and **blind** their eyes
 要使這百姓心蒙脂油，耳朵發沉，眼睛昏迷
 </div>
 
-[Isaiah 以賽亞 6:9-10 (NIV)](# "ref")
+[Isaiah 以賽亞 6:9-10 (NIV/CUV)](# "ref")
 
 [TobiasD](https://pixabay.com/en/eye-human-face-vision-look-person-321961/ "caption")
 
@@ -503,19 +503,35 @@ and their ears **heavy**, and **blind** their eyes
 
 ---
 <!-- .slide: <%= bg("unsplash-d3Sg34sNBRM-ice_cream.jpg") %> -->
+[7](# "ref")
 I would not have **known** what sin was <br/>
-had it not been for the **law**.
-
+had it not been for the **law**.<br>
 For I would not have known <br/>
 what **coveting** really was <br/>
 if the law had not said, “**You shall not covet**.”
 
+<div class="zh">
+[7](# "ref")
+只是非因律法，我就不知何為罪。<br>
+非律法說不可起貪心，我就不知何為貪心。
+</div>
+
+[Romans 羅馬 7:7 (NIV/CUV) (p.1/3)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-d3Sg34sNBRM-ice_cream.jpg") %> -->
 [8](# "ref")
 But **sin**, seizing the **opportunity** <br/>
 afforded by the commandment, <br/>
 produced in me every kind of coveting.
 
-[Romans 7:7-8 (NIV) (p.1/2)](# "ref")
+<div class="zh">
+[8](# "ref")
+然而罪趁著機會，<br>
+就藉著誡命叫諸般的貪心在我裡頭發動
+</div>
+
+[Romans 羅馬 7:8 (NIV/CUV) (p.2/3)](# "ref")
 
 >>>
 + If I tell you, "No ice cream, it's bad for you"
@@ -532,7 +548,14 @@ so that through the commandment
 
 **sin** might become **utterly sinful**.
 
-[Romans 7:13 (NIV) (p.2/2)](# "ref")
+<div class="zh">
+[13](# "ref")
+但罪藉著那良善的叫我死，<br>
+就顯出真是罪，<br>
+叫罪因著誡命更顯出是惡極了。
+</div>
+
+[Romans 羅馬 7:13 (NIV/CUV) (p.3/3)](# "ref")
 
 >>>
 + 2-edged **sword** of God's Word:
@@ -566,7 +589,13 @@ Needs a **change of heart**, work of H.S.
 ... lest they **understand** with their hearts, <br/>
 and **turn** and be **healed**.
 
-[Isaiah 6:10 (NIV)](# "ref")
+<div class="zh">
+...
+恐怕眼睛看見，耳朵聽見，<br>
+心裡明白，回轉過來，便得醫治。
+</div>
+
+[Isaiah 以賽亞 6:10 (NIV/CUV)](# "ref")
 [&copy; 2012 Bethany Petrik, CC BY-NC-ND 2.0](https://www.flickr.com/photos/bethanypetrik/7978577868/ "caption")
 
 >>>
@@ -582,14 +611,16 @@ and **turn** and be **healed**.
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
-Then I said, “For **how long**, Lord?”
+Then I said, “For **how long**, Lord?”<br>
+And he answered: “Until the cities lie **ruined** <br/>
+and without inhabitant
 
-And he answered: <br/>
-“Until the cities lie **ruined** <br/>
-and without inhabitant, ... <br/>
-and the land is utterly **forsaken**.
+<div class="zh">
+我就說：主啊，這到幾時為止呢？<br>
+他說：直到城邑荒涼，無人居住
+</div>
 
-[Isaiah 6:11 (NIV) (p.1/2)](# "ref")
+[Isaiah 以賽亞 6:11,13 (NIV/CUV) (p.1/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
@@ -597,7 +628,12 @@ But as the terebinth and **oak** <br/>
 leave **stumps** when they are cut down, <br/>
 so the **holy seed** will be the stump in the land.”
 
-[Isaiah 6:13 (NIV) (p.2/2)](# "ref")
+<div class="zh">
+像栗樹、橡樹雖被砍伐，樹墩子卻仍存留。<br>
+這聖潔的種類在國中也是如此。
+</div>
+
+[Isaiah 以賽亞 6:11,13 (NIV/CUV) (p.1/2)](# "ref")
 
 >>>
 + **oak**: 1st, preeminent, landmark
@@ -611,6 +647,8 @@ so the **holy seed** will be the stump in the land.”
 So too, at the present time <br/>
 there is a **remnant** chosen by grace.
 
+
+
 [Romans 11:5 (NIV)](# "ref")
 
 >>>
@@ -621,9 +659,9 @@ there is a **remnant** chosen by grace.
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I **react** to those who take **offense** at the gospel?
+## How do I **react** to those who <br> take **offense** at the gospel?
 
-# <span class="zh">我如何回應那些對福音冒犯又生氣的人？</span>
+## <span class="zh">我如何回應那些對福音<br>冒犯又生氣的人？</span>
 
 >>>
 + Combat?  Frustr?  Resign?
