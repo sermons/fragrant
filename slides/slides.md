@@ -19,7 +19,7 @@
 >>>
 + How do I **respond**?
   + Combat?  Frustration?  Resignation?
-+ **Paul** encountered opposition
++ Apostle **Paul** encountered opposition
   + What did he **do**?
 
 ******
@@ -108,11 +108,11 @@ with all **boldness** and without hindrance!
   <span class="zh">保羅的生活：**傳揚**</span>
 
 >>>
-+ **Lays out** gospel to beloved countrymen
-+ Hearers are **divided** in response
++ 1. **Lays out** gospel to beloved countrymen
++ 2. Hearers are **divided** in response
   + some believe, others take offense
-+ Paul **remembers** OT prophecy, but
-+ **continues** proclaiming gospel to all who would listen
++ 3. Paul **remembers** OT prophecy, but
++ 4. **continues** proclaiming gospel to all who would listen
 
 ---
 <div class="imgbox"><div style="flex:3">
@@ -186,21 +186,18 @@ he tried to **persuade** them about Jesus.
 
 >>>
 + 3 main **verbs**
-+ 1st verb: **lay out**, put forth
-  + clear exposition
++ 1: **lay out**, put forth, clear exposition:
   + God's **holiness**
   + mankind's **sin** + rebellion
   + Christ's **grace** on the cross
   + our need to **repent**
-+ 2nd verb: **witness**, testify
-  + recount: *martyr*
++ 2: **witness**, testify, recount: *martyr*
   + what we've **seen** + lived
   + focus not on **messenger**
   + but on **message** of gospel
-+ 3rd verb: **persuade** (faith, belief, trust):
-  + convince, coax, seduce
-  + ew, like **telemarketing**?
-  + no, in fact...
++ 3: **persuade**: faith, trust, convince
+  + like a **sales pitch**?
+  + no, in fact Paul says:
 
 ---
 <div class="imgbox"><div style="flex:2">
@@ -234,32 +231,15 @@ but on the **power of God**.
 [Karel Dujardin, "St Paul at Lystra", 1633](https://www.rijksmuseum.nl/en/collection/SK-A-4922 "caption")
 
 >>>
-+ **What** is persuasive?
-  + **Eloquence**, cleverness, cultural relevance?
-  + Holy **Spirit**, **power** of God
-+ "persuasive": same root word as **faith**:
++ "persuasive": same root as **faith**:
   + what I find **persusasive** tells me
   + what my **faith** rests on
-+ Do I want people to be **disciples** of my personality, or of Christ?
-
----
-<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
-... and from the **Law of Moses** 
-and from the **Prophets** <br/>
-he tried to persuade them about **Jesus**.
-
-<div class="zh">
-引摩西的律法和先知的書，<br>
-以耶穌的事勸勉他們 
-</div>
-
-[Acts 使徒行傳 28:23 (NIV/CUV)](# "ref")
-
->>>
-+ to the **Jews**, common starting point is **OT**
-+ show that Jesus is the OT **Messiah**
-+ v20: **fulfill** their hope, not attack them
-+ but most of our **friends**/relatives/countrymen **don't** believe the OT
++ **What** is persuasive?
+  + **Eloquence**, cleverness, cultural relevance?
+  + or Holy **Spirit** + **power** of God?
++ Do I want to make 
+  + **disciples** of my personality,
+  + or disciples of **Christ**?
 
 ---
 <!-- .slide: <%= bg("Raphael-St_Paul_Preaching_Athens.jpg") %> class="empty top" -->
@@ -267,10 +247,10 @@ he tried to persuade them about **Jesus**.
 [Raphael, "St. Paul Preaching in Athens", 1515](http://www.the-athenaeum.org/art/detail.php?ID=34558 "caption")
 
 >>>
-+ most are like the **Greeks** in Athens
-  + Paul in Acts 17
-+ Still start from their **piety**
-+ Present Christ as **Creator**
++ Most in our culture are like **Greeks**
+  + Paul speaking to Athenians in Acts 17
++ Also starting from their **piety**
+  + desire to do the **right** thing:
 
 ---
 <!-- .slide: <%= bg("Raphael-St_Paul_Preaching_Athens.jpg") %> -->
@@ -299,11 +279,12 @@ this I **proclaim** to you."
 </div></div>
 
 >>>
-+ Desire to be **pious**
 + Thirst for **spiritual** fulfillment
 + 89% of US adults believe in "God or a universal spirit"
-+ God **unknown**, vague, abstract
-  + Fill **void** w/other pursuits
+  + but God is **unknown**, vague, abstract
+  + so they fill **void** w/other pursuits
++ Present God as **Creator**
+  + **revealed** in Christ
 
 ---
 <!-- .slide: data-background="white" -->
@@ -313,10 +294,10 @@ this I **proclaim** to you."
 
 >>>
 + **countrymen**: CN, TW, HK, US
-  + common **background**: nbr, fellow soccer parents
-+ **pious**: want good/moral/eth
+  + common **background**: neighbours, classmates
++ **pious**: want to be good/moral/ethical
 + Lay out &rarr; testify &rarr; persuade
-  + in HS + power
+  + in Holy Spirit + power
 
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
@@ -386,12 +367,13 @@ so that **thoughts** from many hearts may be **revealed**.
 [Luke 路加 2:34-35 (ESV/CUV)](# "ref")
 
 >>>
-+ Unwaver truth: God is **King**
-  + Jesus **saves** from sin
-+ Not **weapon** against others:
-  + Pierce **own** soul, too
-+ Reveal sin in **facade** of good
-+ Jesus came to bring **peace**?
++ God's unwavering truth cuts like a **sword**
++ not a **weapon** to be used against others:
+  + pierces our **own** soul, too
++ Reveals sin in **facade** of good
+  + we Chinese are very good at **pretending** to be polite
+  + but **hide** all sorts of bitterness + envy inside
++ Did Jesus come to bring **peace**?
 
 ---
 <!-- .slide: <%= bg("Niedziella-Soeborg_Sword.jpg") %> -->
@@ -409,11 +391,12 @@ I did not come to bring peace, but a **sword**.
 [&copy; Søren Niedziella, CC-BY 2.0](https://www.flickr.com/photos/albioneurope/8498095661 "caption")
 
 >>>
-+ **Vagaries** of who is a moral/good/ethical person
-  + Demands 100% response
++ We have **vague** definitions of what it means to be good/moral
++ Jesus makes it very **simple**:
+  + v38 take up **cross** + follow
+  + v39 **lose life** for My sake
++ Demands 100% response
   + Either **all-in** or **all-out**
-+ :38 take up **cross** + follow
-+ :39 **lose life** for My sake
 + Hard when it gets **personal**:
 
 ---
@@ -434,9 +417,11 @@ more than me is not worthy of me.
 
 >>>
 + do I love **Christ** more than I love my **family**?
-+ **sandwich** generation, both kids + grandparents
-  + family: **visible**, demanding
-  + Christ: **invisible**, gracious
++ Many of us in **sandwich** generation:
+  + caring of young **kids**, and
+  + also caring for elderly **parents**
++ Family is **visible** + demanding
+  + Christ is **invisible** + gracious
 + **True love** for family means:
   + Stand **firm** on God's truth
   + Don't make **excuses** for their sin
@@ -448,11 +433,12 @@ more than me is not worthy of me.
 ## <span class="zh"> 基督君王的刀劍<br>已經刺透我的靈魂嗎？ <br> 我願意讓它分裂我愛的人嗎？ </span>
 
 >>>
-+ God's **holiness**,
-  + my **unworthiness**,
-  + Christ's **redeeming love**,
-  + Christ's **kingship**
-+ gospel does not allow one to be **ambivalent**
++ To be a **disciple** of Christ
+  + demands **complete** devotion
++ When I **proclaim** the gospel boldly,
+  + expect it to cause **divisions**:
++ **most** will take offense at it, but
+  + a **remnant** will repent
 
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
@@ -467,7 +453,7 @@ more than me is not worthy of me.
   <span class="zh">保羅的生活：傳揚</span>
 
 >>>
-+ So some **reject** gospel
++ But if most will **reject** gospel,
 + **Why**?  Whose **fault** is it?
 + What do we **do** about it?
 + Paul quotes a **prophecy** from Isaiah:
@@ -495,12 +481,16 @@ and their ears **heavy**, and **blind** their eyes
 [TobiasD](https://pixabay.com/en/eye-human-face-vision-look-person-321961/ "caption")
 
 >>>
-+ Hebrew: "Hear, you will certainly hear"
-  + (imperfect/prophetic-future + infinitive absolute)
-+ **fattened** &rarr; heavy &rarr; cloud
-  + in Acts (quoting LXX): **passive**
-  + in Isaiah: **make** fat (hiphil imperative)
++ Hebrew: "Hear, you will **certainly** hear"
+  + but will not **understand**
+  + *(impf/proph-fut + inf abs)*
++ God tells Isaiah to **cause** their 
+  + hearts to be **fat** (slow, lazy)
+  + ears to be **heavy** (unable to hear)
+  + eyes to be **clouded** (blinded)
+  + *(hiphil impr)*
 + **How** does preaching the gospel make a heart **dull**?
+  + Romans gives an **example**:
 
 ---
 <!-- .slide: <%= bg("unsplash-d3Sg34sNBRM-ice_cream.jpg") %> -->
@@ -533,10 +523,10 @@ produced in me every kind of coveting.
 [Romans 羅馬 7:8 (NIV/CUV) (p.2/3)](# "ref")
 
 >>>
-+ If I tell you, "No ice cream, it's bad for you"
-  + &Rarr; you'll think about + want it
++ If I tell you, "No **ice cream**, it's bad for you"
+  + you'll think about + **want** it
 + Law is good, to bring **life**, but
-  + **Sin** sprang to life
+  + **sin** sprang to life
   + and **killed** me
 
 ---
@@ -556,13 +546,13 @@ so that through the commandment
 [Romans 羅馬 7:13 (NIV/CUV) (p.3/3)](# "ref")
 
 >>>
-+ 2-edged **sword** of God's Word:
-  + Reveals God's **holiness**
++ The **sword** of God's Word does 2 things:
+  + Reveals God's **holiness**, and
   + Makes sin utterly **sinful**
 + Preached to **hardened** hearts:
   + Hardens them even **more**
-+ Is that a failing of the **gospel**?
-  + God not **pwrful** enough?
++ Does that mean the gospel **fails**?
++ God is not **powerful** enough?
 
 ---
 ## A Partial Hardening
@@ -576,10 +566,11 @@ so that through the commandment
 + Are we **better** than they are? &rarr; <%= bible('ro11:18-21', '11:18-21') %>
 
 >>>
-Rom9-11 addresses this and many other Q's
-when it seems like our evangelism **fails**.
-
-Needs a **change of heart**, work of H.S.
++ **Romans 9-11** addresses this
+  + and many other **questions**
++ when it seems like evangelism **fails**
++ Needs a **change of heart**
+  + work of **Holy Spirit**
 
 ---
 <!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") %> -->
@@ -596,15 +587,16 @@ and **turn** and be **healed**.
 [&copy; 2012 Bethany Petrik, CC BY-NC-ND 2.0](https://www.flickr.com/photos/bethanypetrik/7978577868/ "caption")
 
 >>>
-+ Dressing JJ for **bed**:
-+ trying to **help**; he refuses it
-+ me: **fine**, dress yourself
-+ JJ: then I take off everything
-+ &Rarr; can't force **change of heart**
++ e.g., dressing son for **bed**:
+  + I'm trying to **help**; he refuses it
+  + me: **fine**, dress yourself
+  + him: then I take off **everything**
++ I can force his external **behaviour**,
+  + but can't force a **change of heart**
 + but never give up on **own child**
   + **continue** to proclaim
-  + hope: **remnant** returns
-+ Echoed even in **Isaiah**'s calling:
+  + if there is **life**, there is **hope**
++ **Isaiah** himself asks God:
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
@@ -633,11 +625,12 @@ so the **holy seed** will be the stump in the land.”
 [Isaiah 以賽亞 6:11,13 (NIV/CUV) (p.1/2)](# "ref")
 
 >>>
-+ **oak**: 1st, preeminent, landmark
-+ **stump**: stone, obelisk, (fort)
-+ holy **Seed** (sing.): (Gen3:15)
++ oak/stump represent **strength**
+  + *(oak: 1st, preeminent, landmark)*
+  + *(stump: stone, obelisk, fort)*
++ holy **Seed** (singular):
   + A **remnant** redeem by Jesus
-+ Common thread: Acts &rarr; Is &rarr; **Rom**:
++ even though **many** will reject gospel:
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
@@ -655,7 +648,8 @@ there is a **remnant** chosen by grace.
 + Always **hope** for a remnant
 + After **hardened** hearts
   + **opposition**, rebellion
-  + God's **chastening**
+  + God's **discipline**
++ there is also God's **grace**
 
 ---
 <!-- .slide: data-background="white" -->
@@ -664,11 +658,11 @@ there is a **remnant** chosen by grace.
 ## <span class="zh">我如何回應那些對福音<br>冒犯又生氣的人？</span>
 
 >>>
-+ Combat?  Frustr?  Resign?
-  + "Well, forget you!"
-  + "Meh, I did my job"
-+ Heartfelt **hope**
-  + continued **proclamation**
++ Combat?  **Frustration**?  Resignation?
+  + "Well, **forget** you!"
+  + "Meh, I did my **job**"
++ Instead, have heartfelt **hope**
+  + and continue to **proclaim**:
 
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
@@ -710,9 +704,11 @@ and **welcomed** all who came to see him.
 
 >>>
 + still **preaching** gospel, but
-  + move on to **Gentiles**
-+ **stayed** + welcomed:
-  + **rent**: making tents (1Co9, 2Co11)
+  + moved on to the **Gentiles**
++ stayed in **rented** house: making tents
+  + *(1Co9, 2Co11)*
++ **welcomed** all who wanted to know **more**
+  + both **Jews** and Gentiles
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/fig/Boulogne-Paul_Writing.jpg" -->
@@ -730,10 +726,11 @@ with all **boldness** and without **hindrance**.
 
 >>>
 + proclaimed (**preach**):
-  + **kingdom** of God
-+ **taught**: about Jesus
-+ boldness (**free speech**)
-  + unhindered (w/o **stop**)
+  + that God is **king**
++ **taught**: about God revealed in Jesus
++ with boldness (**free speech**)
+  + and unhindered (without **stopping**)
++ so in 2Cor Paul **describes** himself in this way:
 
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
@@ -774,12 +771,20 @@ to the other a fragrance **from life to life**.
 [2 Corinthians 歌林多後 2:14-16 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
-+ **everywh**: all of Paul's travels
-+ **life** &rarr; life: **rebuke** &rarr;
-  + godly **sorrow** &rarr; **repent**
-+ **death** &rarr; death:
-  + hearts **veiled** read Law
-+ **turn** to Lord &rarr; veil **lifted**
++ **boldly** proclaim Christ:
+  + be a **smelly** Christian!
++ like **durian**: either **love** it or **hate** it
++ we are a fragrance from **life** to life:
+  + hearing God's **truth**,
+  + they respond with godly **sorrow**
+  + leading to **repentance**
+  + receiving God's **grace**
++ we are a stench from **death** to death:
+  + hearing God's **truth**
+  + they **turn away**, because
+  + their hearts are **veiled**
++ but when one **turns** to the Lord 
+  + that veil is **lifted**
 
 ---
 <!-- .slide: data-background="white" -->
@@ -787,14 +792,16 @@ to the other a fragrance **from life to life**.
 ## <span class="zh">我在日常生活中是否<br>散發出基督的香氣？</span>
 
 >>>
-+ not about being a **nice guy**, moral, charitable!
++ not about being a **nice guy** / moral / charitable!
 + acknowledge own **unworthiness**
-  + universal need for **redemption**
-+ be a **smelly** Christian:
-  + stench: death to **sin**
-  + aroma: **new life** Christ
-+ **death** &rarr; death, **life** &rarr; life
-+ **Read** together again, last slide:
+  + our **rebellion** against God
+  + our need for **redemption**
++ point to **Christ**'s death + resurrection
+  + giving us new **life**
++ **proclaim** gospel boldly
+  + from **death** to death,
+  + from **life** to life
++ **Read** 2Cor together again, last slide:
 
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
