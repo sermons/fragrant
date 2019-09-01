@@ -367,11 +367,9 @@ so that **thoughts** from many hearts may be **revealed**.
 [Luke 路加 2:34-35 (ESV/CUV)](# "ref")
 
 >>>
-+ the **sword** is the unwavering truth:
-  + God is **King** + Judge, and
-  + Jesus is only way to be **saved** from sin
-+ it is not a **weapon** to be used against others:
-  + Pierces our **own** soul, too
++ God's unwavering truth cuts like a **sword**
++ not a **weapon** to be used against others:
+  + pierces our **own** soul, too
 + Reveals sin in **facade** of good
   + we Chinese are very good at **pretending** to be polite
   + but **hide** all sorts of bitterness + envy inside
