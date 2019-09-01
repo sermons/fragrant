@@ -706,9 +706,11 @@ and **welcomed** all who came to see him.
 
 >>>
 + still **preaching** gospel, but
-  + move on to **Gentiles**
-+ **stayed** + welcomed:
-  + **rent**: making tents (1Co9, 2Co11)
+  + moved on to the **Gentiles**
++ stayed in **rented** house: making tents
+  + *(1Co9, 2Co11)*
++ **welcomed** all who wanted to know **more**
+  + both **Jews** and Gentiles
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/fig/Boulogne-Paul_Writing.jpg" -->
@@ -726,10 +728,11 @@ with all **boldness** and without **hindrance**.
 
 >>>
 + proclaimed (**preach**):
-  + **kingdom** of God
-+ **taught**: about Jesus
-+ boldness (**free speech**)
-  + unhindered (w/o **stop**)
+  + that God is **king**
++ **taught**: about God revealed in Jesus
++ with boldness (**free speech**)
+  + and unhindered (without **stopping**)
++ so in 2Cor Paul **describes** himself in this way:
 
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
@@ -770,12 +773,20 @@ to the other a fragrance **from life to life**.
 [2 Corinthians 歌林多後 2:14-16 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
-+ **everywh**: all of Paul's travels
-+ **life** &rarr; life: **rebuke** &rarr;
-  + godly **sorrow** &rarr; **repent**
-+ **death** &rarr; death:
-  + hearts **veiled** read Law
-+ **turn** to Lord &rarr; veil **lifted**
++ **boldly** proclaim Christ:
+  + be a **smelly** Christian!
++ like **durian**: either **love** it or **hate** it
++ we are a fragrance from **life** to life:
+  + hearing God's **truth**,
+  + they respond with godly **sorrow**
+  + leading to **repentance**
+  + receiving God's **grace**
++ we are a stench from **death** to death:
+  + hearing God's **truth**
+  + they **turn away**, because
+  + their hearts are **veiled**
++ but when one **turns** to the Lord 
+  + that veil is **lifted**
 
 ---
 <!-- .slide: data-background="white" -->
@@ -783,14 +794,16 @@ to the other a fragrance **from life to life**.
 ## <span class="zh">我在日常生活中是否<br>散發出基督的香氣？</span>
 
 >>>
-+ not about being a **nice guy**, moral, charitable!
++ not about being a **nice guy** / moral / charitable!
 + acknowledge own **unworthiness**
-  + universal need for **redemption**
-+ be a **smelly** Christian:
-  + stench: death to **sin**
-  + aroma: **new life** Christ
-+ **death** &rarr; death, **life** &rarr; life
-+ **Read** together again, last slide:
+  + our **rebellion** against God
+  + our need for **redemption**
++ point to **Christ**'s death + resurrection
+  + giving us new **life**
++ **proclaim** gospel boldly
+  + from **death** to death,
+  + from **life** to life
++ **Read** 2Cor together again, last slide:
 
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
