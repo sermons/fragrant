@@ -483,7 +483,8 @@ and their ears **heavy**, and **blind** their eyes
 
 <div class="zh">
 你去告訴這百姓說：<br>
-你們聽是要聽見，卻不明白；看是要看見，卻不曉得。
+你們聽是要聽見，卻不明白；<br>
+看是要看見，卻不曉得。
 
 [10](# "ref")
 要使這百姓心蒙脂油，耳朵發沉，眼睛昏迷
@@ -783,7 +784,7 @@ to the other a fragrance **from life to life**.
 ---
 <!-- .slide: data-background="white" -->
 ## Do I exude the **fragrance of Christ** in my daily life?
-## <span class="zh">我在日常生活中是否散發出基督的香氣？</span>
+## <span class="zh">我在日常生活中是否<br>散發出基督的香氣？</span>
 
 >>>
 + not about being a **nice guy**, moral, charitable!
