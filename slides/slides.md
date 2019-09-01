@@ -19,10 +19,8 @@
 >>>
 + How do I **respond**?
   + Combat?  Frustration?  Resignation?
-+ 1. How we **share** the gospel
-+ 2. Its **effect** on hearers
-+ 3. How we should **respond**
-+ 4. How it **changes** daily life
++ **Paul** encountered opposition
+  + What did he **do**?
 
 ******
 They arranged to **meet Paul** on a certain day, <br/>
@@ -110,10 +108,11 @@ with all **boldness** and without hindrance!
   <span class="zh">保羅的生活：傳揚</span>
 
 >>>
-+ Paul **lays out** gospel to beloved countrymen
-+ Hearers' **divided** response
-+ Paul **quotes** OT prophecy
-+ Paul **continues** for 2yrs in house arrest
++ **Lays out** gospel to beloved countrymen
++ Hearers are **divided** in response
+  + some believe, others take offense
++ Paul **remembers** OT prophecy, but
++ **continues** proclaiming gospel to all who would listen
 
 ---
 <div class="imgbox"><div style="flex:3">
@@ -132,12 +131,14 @@ with all **boldness** and without hindrance!
 [Rembrandt, "Apostle Paul", ~1633](http://bilddatenbank.khm.at/viewArtefact?id=1514 "caption")
 
 >>>
-+ First, some **context**
-+ Acts: Jews **persecuted** Paul on journeys
-  + from Asia Minor &rarr; **Jeru**
-+ What was Paul's **attitude** toward Jews?
++ The people who **opposed** Paul were **Jews**
+  + Paul **himself** was a Jew
++ Book of **Acts** has the history of persecution
+  + but it's the book of **Romans** 
+  + that explains Paul's **heart** 
+  + for the people who persecuted him
++ What was Paul's **attitude** toward them?
   + Hate? **Give up**? Avoid?
-+ To understand Paul's **heart** for the Jews, see **Rom9-11**
 
 ---
 <!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
@@ -149,18 +150,23 @@ For I could wish that I myself <br/>
 were **cursed** and **cut off** from Christ
 
 for the sake of **my people**, <br/>
-those of **my own race**, <br/>
-the people of **Israel**.
+those of **my own race**, the people of **Israel**.
 
-[Romans 9:2-3 (NIV)](# "ref")
+<div class="zh">
+我是大有憂愁， 心裡時常傷痛；<br>
+為我弟兄， 我骨肉之親， 就是自己被咒詛，<br>
+與基督分離， 我也願意。
+</div>
+
+[Romans 羅馬 9:2-3 (NIV)](# "ref")
 
 >>>
 + Paul **loved** Israel deeply!
   + not **enemies** but fellow **countrymen**
   + (we should not **hate** the Jews, either)
-+ **pious**, moral, desired to do good
-+ So **how** did Paul share gospel with his
-  **pious countrymen** whom he loved so deeply?
++ they are **pious**, moral, desired to do good
+  + not **deliberately** wicked
++ So **how** did Paul share gospel with them?
 
 ---
 <!-- .slide: <%= bg("Bodarevsky-Trial_of_Apostle_Paul.jpg") %> -->
@@ -168,10 +174,12 @@ He **witnessed** to them <br/>
 from morning till evening, <br/>
 **explaining** about the kingdom of God,
 
-and from the Law of Moses <br/>
-and from the Prophets <br/>
+and from the Law of Moses and from the Prophets <br/>
 he tried to **persuade** them about Jesus.
 
+<div class="zh">
+保羅從早到晚， 對他們講論這事， 證明神國的道，<br>
+引摩西的律法和先知的書， 以耶穌的事勸勉他們。
 [Acts 28:23 (NIV)](# "ref")
 
 [Nikolas Bodarevsky, "Trial of the Apostle Paul", 1875](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg "caption")
@@ -180,9 +188,13 @@ he tried to **persuade** them about Jesus.
 + 3 main **verbs**
 + 1st verb: **lay out**, put forth
   + clear exposition
+  + God's **holiness**
+  + mankind's **sin** + rebellion
+  + Christ's **grace** on the cross
+  + our need to **repent**
 + 2nd verb: **witness**, testify
   + recount: *martyr*
-  + not about **messenger** but **msg**
+  + not about **messenger** but **message**
 + 3rd verb: **persuade** (faith, belief, trust):
   + convince, coax, seduce
   + ew, like **telemarketing**?
