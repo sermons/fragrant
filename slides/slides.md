@@ -227,7 +227,7 @@ but on the **power of God**.
 </div><div>
 
 ![Dujardin, St Paul Healing the Cripple at Lystra](https://sermons.seanho.com/img/fig/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
-[1 Cor 2:4-5 (NASB)](# "ref")
+[1 Cor 2:4-5 (NASB/CUV)](# "ref")
 
 </div></div>
 
@@ -350,7 +350,7 @@ and began to **leave** ...
 他們彼此不合， 就散了
 </div>
 
-[Acts 使徒行傳 28:24-25 (NIV)](# "ref")
+[Acts 使徒行傳 28:24-25 (NIV/CUV)](# "ref")
 
 >>>
 + Cause **divisions**, **reveal** hearts
@@ -383,7 +383,7 @@ so that **thoughts** from many hearts may be **revealed**.
 你自己的心也要被刀刺透。
 </div>
 
-[Luke 路加 2:34-35 (ESV)](# "ref")
+[Luke 路加 2:34-35 (ESV/CUV)](# "ref")
 
 >>>
 + Unwaver truth: God is **King**
@@ -404,7 +404,7 @@ I did not come to bring peace, but a **sword**.
 我來並不是叫地上太平，乃是叫地上動刀兵。
 </div>
 
-[Matthew 馬太 10:34 (NIV) (p.1/2)](# "ref")
+[Matthew 馬太 10:34 (NIV/CUV) (p.1/2)](# "ref")
 
 [&copy; Søren Niedziella, CC-BY 2.0](https://www.flickr.com/photos/albioneurope/8498095661 "caption")
 
@@ -428,7 +428,7 @@ more than me is not worthy of me.
 愛兒女過於愛我的，不配作我的門徒；
 </div>
 
-[Matthew 馬太 10:37 (NIV) (p.2/2)](# "ref")
+[Matthew 馬太 10:37 (NIV/CUV) (p.2/2)](# "ref")
 
 [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/ "caption")
 
