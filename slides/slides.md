@@ -12,9 +12,9 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I **react** to those who take **offense** at the gospel?
+## How do I **react** to those who <br> take **offense** at the gospel?
 
-# <span class="zh">我如何回應那些對福音冒犯又生氣的人？</span>
+## <span class="zh">我如何回應那些對福音<br>冒犯又生氣的人？</span>
 
 >>>
 + How do I **respond**?
@@ -205,22 +205,23 @@ he tried to **persuade** them about Jesus.
 ---
 <div class="imgbox"><div style="flex:2">
 
-My **message** and preaching <br/>
-were not in **persuasive** <br/>
-words of wisdom,<br>
-but in demonstration <br/>
-of the **Spirit** and of **power**,<br>
+My **message** and preaching were <br/>
+not in **persuasive** words of wisdom,<br>
+but in demonstration of the **Spirit** and <br>
+of **power**,
 [5](# "ref")
-so that your **faith** would not <br/>
-rest on the **wisdom of men**, <br/>
+so that your **faith** would <br/>
+not rest on the **wisdom of men**, <br/>
 but on the **power of God**.
 
 <div class="zh">
 我說的話、 講的道，<br>
 不是用智慧委婉的言語，<br>
 乃是用聖靈和大能的明證，<br>
+
 [5](# "ref")
-叫你們的信不在乎人的智慧， 只在乎神的大能。
+叫你們的信不在乎人的智慧， <br>
+只在乎神的大能。
 </div>
 
 </div><div>
@@ -283,9 +284,11 @@ Therefore what you **worship** in ignorance, <br/>
 this I **proclaim** to you."
 
 <div class="zh">
-眾位雅典人哪， 我看你們凡事很敬畏鬼神。<br>
+眾位雅典人哪， <br>
+我看你們凡事很敬畏鬼神。<br>
 ...遇見一座壇， 上面寫著未識之神。<br>
-你們所不認識而敬拜的， 我現在告訴你們。
+你們所不認識而敬拜的， <br>
+我現在告訴你們。
 </div>
 
 [Acts 使徒行傳 17:22-23 (NASB)](# "ref")
@@ -307,7 +310,7 @@ this I **proclaim** to you."
 <!-- .slide: data-background="white" -->
 ## Do I love my **pious countrymen**? <br> Love them enough <br/> to **lay out** the gospel <br/> clearly to them?
 
-## <span class="zh"> 我愛我敬虔的同胞嗎？<br> 能愛到我願意跟他們清楚解釋福音嗎？</span>
+## <span class="zh"> 我愛我敬虔的同胞嗎？<br> 能愛到我願意跟他們<br>清楚解釋福音嗎？</span>
 
 >>>
 + **countrymen**: CN, TW, HK, US
@@ -343,6 +346,7 @@ and began to **leave** ...
 
 <div class="zh">
 他所說的話， 有信的， 有不信的。<br>
+
 [25](# "ref")
 他們彼此不合， 就散了
 </div>
@@ -442,7 +446,7 @@ more than me is not worthy of me.
 <!-- .slide: data-background="white" -->
 ## Has the **sword** of Christ's kingship pierced **my own** soul? <br> Am I willing to let it **divide** my loved ones?
 
-## <span class="zh"> 讓基督君王的刀劍刺透我的靈魂<br> 我願意讓它分裂我愛的人嗎？ </span>
+## <span class="zh"> 基督君王的刀劍<br>已經刺透我的靈魂嗎？ <br> 我願意讓它分裂我愛的人嗎？ </span>
 
 >>>
 + God's **holiness**,
