@@ -473,13 +473,19 @@ more than me is not worthy of me.
 <!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> -->
 Go, and say to this people: <br/>
 “Keep on **hearing**, but do not understand; <br/>
-keep on **seeing**, but do not perceive."
-
+keep on **seeing**, but do not perceive."<br>
 [10](# "ref")
 Make the heart of this people **dull**, <br/>
 and their ears **heavy**, and **blind** their eyes
 
-[Isaiah 6:9-10 (NIV)](# "ref")
+<div class="zh">
+你去告訴這百姓說：<br>
+你們聽是要聽見，卻不明白；看是要看見，卻不曉得。<br>
+[10](# "ref")
+要使這百姓心蒙脂油，耳朵發沉，眼睛昏迷
+</div>
+
+[Isaiah 以賽亞 6:9-10 (NIV)](# "ref")
 
 [TobiasD](https://pixabay.com/en/eye-human-face-vision-look-person-321961/ "caption")
 
