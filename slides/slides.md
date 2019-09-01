@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> id="title" -->
 # The Fragrant Gospel
-<h1 class="zh">芬芳的福音</h1>
+# <span class="zh">芬芳的福音</span>
 ## Acts 28:23-31
 
 >>>
@@ -14,7 +14,7 @@
 <!-- .slide: data-background="white" -->
 # How do I **react** to those who take **offense** at the gospel?
 
-<h1 class="zh">我如何回應那些對福音冒犯又生氣的人？</h1>
+# <span class="zh">我如何回應那些對福音冒犯又生氣的人？</span>
 
 >>>
 + How do I **respond**?
@@ -143,12 +143,10 @@ with all **boldness** and without hindrance!
 ---
 <!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
 I have great **sorrow** <br/>
-and unceasing **anguish** in my heart.
-
+and unceasing **anguish** in my heart.<br>
 [3](# "ref")
 For I could wish that I myself <br/>
-were **cursed** and **cut off** from Christ
-
+were **cursed** and **cut off** from Christ<br>
 for the sake of **my people**, <br/>
 those of **my own race**, the people of **Israel**.
 
@@ -172,14 +170,16 @@ those of **my own race**, the people of **Israel**.
 <!-- .slide: <%= bg("Bodarevsky-Trial_of_Apostle_Paul.jpg") %> -->
 He **witnessed** to them <br/>
 from morning till evening, <br/>
-**explaining** about the kingdom of God,
-
+**explaining** about the kingdom of God,<br>
 and from the Law of Moses and from the Prophets <br/>
 he tried to **persuade** them about Jesus.
 
 <div class="zh">
-保羅從早到晚， 對他們講論這事， 證明神國的道，<br>
-引摩西的律法和先知的書， 以耶穌的事勸勉他們。
+保羅從早到晚， 對他們講論這事， <br>
+證明神國的道， 引摩西的律法和先知的書， <br>
+以耶穌的事勸勉他們。
+</div>
+
 [Acts 28:23 (NIV)](# "ref")
 
 [Nikolas Bodarevsky, "Trial of the Apostle Paul", 1875](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg "caption")
@@ -194,7 +194,9 @@ he tried to **persuade** them about Jesus.
   + our need to **repent**
 + 2nd verb: **witness**, testify
   + recount: *martyr*
-  + not about **messenger** but **message**
+  + what we've **seen** + lived
+  + focus not on **messenger**
+  + but on **message** of gospel
 + 3rd verb: **persuade** (faith, belief, trust):
   + convince, coax, seduce
   + ew, like **telemarketing**?
@@ -205,20 +207,26 @@ he tried to **persuade** them about Jesus.
 
 My **message** and preaching <br/>
 were not in **persuasive** <br/>
-words of wisdom,
-
+words of wisdom,<br>
 but in demonstration <br/>
-of the **Spirit** and of **power**,
-
+of the **Spirit** and of **power**,<br>
 [5](# "ref")
 so that your **faith** would not <br/>
 rest on the **wisdom of men**, <br/>
 but on the **power of God**.
 
+<div class="zh">
+我說的話、 講的道，<br>
+不是用智慧委婉的言語，<br>
+乃是用聖靈和大能的明證，<br>
+[5](# "ref")
+叫你們的信不在乎人的智慧， 只在乎神的大能。
+</div>
+
 </div><div>
 
-[1 Cor 2:4-5 (NASB)](# "ref")
 ![Dujardin, St Paul Healing the Cripple at Lystra](https://sermons.seanho.com/img/fig/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
+[1 Cor 2:4-5 (NASB)](# "ref")
 
 </div></div>
 
@@ -235,9 +243,14 @@ but on the **power of God**.
 
 ---
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
-... and from the **Law of Moses** <br/>
+... and from the **Law of Moses** 
 and from the **Prophets** <br/>
 he tried to persuade them about **Jesus**.
+
+<div class="zh">
+引摩西的律法和先知的書，<br>
+以耶穌的事勸勉他們 
+</div>
 
 [Acts 28:23 (NIV)](# "ref")
 
@@ -263,17 +276,19 @@ he tried to persuade them about **Jesus**.
 <div class="imgbox"><div style="flex:3">
 
 “Men of **Athens**, I observe that <br/>
-you are **very religious** ...
-
-... I found an altar <br/>
-with this inscription, <br/>
-‘TO AN **UNKNOWN GOD**.’
-
-Therefore what <br/>
-you **worship** in ignorance, <br/>
+you are **very religious** ...<br>
+... I found an altar, <br/>
+‘TO AN **UNKNOWN GOD**.’<br>
+Therefore what you **worship** in ignorance, <br/>
 this I **proclaim** to you."
 
-[Acts 17:22-24 (NASB)](# "ref")
+<div class="zh">
+眾位雅典人哪， 我看你們凡事很敬畏鬼神。<br>
+...遇見一座壇， 上面寫著未識之神。<br>
+你們所不認識而敬拜的， 我現在告訴你們。
+</div>
+
+[Acts 使徒行傳 17:22-23 (NASB)](# "ref")
 
 </div><div>
 
@@ -290,13 +305,9 @@ this I **proclaim** to you."
 
 ---
 <!-- .slide: data-background="white" -->
-## Do I love my **pious countrymen**?
-## Love them enough <br/> to **lay out** the gospel <br/> clearly to them?
+## Do I love my **pious countrymen**? <br> Love them enough <br/> to **lay out** the gospel <br/> clearly to them?
 
-<div class="zh">
-我愛我敬虔的同胞嗎？<br>
-能愛到我願意跟他們清楚解釋福音嗎？
-</div>
+## <span class="zh"> 我愛我敬虔的同胞嗎？<br> 能愛到我願意跟他們清楚解釋福音嗎？</span>
 
 >>>
 + **countrymen**: CN, TW, HK, US
@@ -308,10 +319,14 @@ this I **proclaim** to you."
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 ## The Fragrant Gospel [(Ac28)](# "ref")
-1. Paul's heart: Persuasion [(v23)](# "ref")
-2. **Hearers' response: Partition** [(v24-25)](# "ref")
-3. Spirit's prophecy: Promise [(v26-27)](# "ref")
-4. Paul's lifestyle: Proclamation [(v28-31)](# "ref")
+1. Paul's heart: Persuasion [(v23)](# "ref")<br>
+  <span class="zh">保羅的心：勸導</span>
+2. **Hearers' response: *Partition** [(v24-25)](# "ref")<br>
+  <span class="zh">**聽眾的回應：劃分**</span>
+3. Spirit's prophecy: Promise [(v26-27)](# "ref")<br>
+  <span class="zh">聖靈的預言： 應許</span>
+4. Paul's lifestyle: Proclamation [(v28-31)](# "ref")<br>
+  <span class="zh">保羅的生活：傳揚</span>
 
 >>>
 + When the gospel is **laid out** clearly,
