@@ -99,13 +99,13 @@ with all **boldness** and without hindrance!
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> id="outline" -->
 ## The Fragrant Gospel [(Ac28)](# "ref")
 1. Paul's heart: **Persuasion** [(v23)](# "ref")<br>
-  <span class="zh">保羅的心：勸導</span>
+  <span class="zh">保羅的心：**勸導**</span>
 2. Hearers' response: **Partition** [(v24-25)](# "ref")<br>
-  <span class="zh">聽眾的回應：劃分</span>
+  <span class="zh">聽眾的回應：**劃分**</span>
 3. Spirit's prophecy: **Promise** [(v26-27)](# "ref")<br>
-  <span class="zh">聖靈的預言： 應許</span>
+  <span class="zh">聖靈的預言： **應許**</span>
 4. Paul's lifestyle: **Proclamation** [(v28-31)](# "ref")<br>
-  <span class="zh">保羅的生活：傳揚</span>
+  <span class="zh">保羅的生活：**傳揚**</span>
 
 >>>
 + **Lays out** gospel to beloved countrymen
@@ -321,7 +321,7 @@ this I **proclaim** to you."
 ## The Fragrant Gospel [(Ac28)](# "ref")
 1. Paul's heart: Persuasion [(v23)](# "ref")<br>
   <span class="zh">保羅的心：勸導</span>
-2. **Hearers' response: *Partition** [(v24-25)](# "ref")<br>
+2. **Hearers' response: Partition** [(v24-25)](# "ref")<br>
   <span class="zh">**聽眾的回應：劃分**</span>
 3. Spirit's prophecy: Promise [(v26-27)](# "ref")<br>
   <span class="zh">聖靈的預言： 應許</span>
@@ -341,7 +341,13 @@ but others **would not believe**.
 They **disagreed** among themselves <br/>
 and began to **leave** ...
 
-[Acts 28:24-25 (NIV)](# "ref")
+<div class="zh">
+他所說的話， 有信的， 有不信的。<br>
+[25](# "ref")
+他們彼此不合， 就散了
+</div>
+
+[Acts 使徒行傳 28:24-25 (NIV)](# "ref")
 
 >>>
 + Cause **divisions**, **reveal** hearts
@@ -362,16 +368,19 @@ and began to **leave** ...
 <!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> -->
 Behold, this child is appointed for <br/>
 the **fall** and **rising** of many in Israel, <br/>
-and for a **sign** that is **opposed** --
-
+and for a **sign** that is **opposed** --<br/>
 [35](# "ref")
-and a **sword** will pierce through <br/>
-your own **soul** also --
+and a **sword** will pierce through your own **soul** also --<br/>
+so that **thoughts** from many hearts may be **revealed**.
 
-so that **thoughts** from many hearts <br/>
-may be **revealed**.
+<div class="zh">
+這孩子被立， 是要叫以色列中許多人跌倒，<br>
+許多人興起； 又要作毀謗的話柄，<br>
+叫許多人心裡的意念顯露出來；<br>
+你自己的心也要被刀刺透。
+</div>
 
-[Luke 2:34-35 (ESV)](# "ref")
+[Luke 路加 2:34-35 (ESV)](# "ref")
 
 >>>
 + Unwaver truth: God is **King**
@@ -384,11 +393,15 @@ may be **revealed**.
 ---
 <!-- .slide: <%= bg("Niedziella-Soeborg_Sword.jpg") %> -->
 Do not suppose that I have come <br/>
-to bring **peace** to the earth.
-
+to bring **peace** to the earth.<br>
 I did not come to bring peace, but a **sword**.
 
-[Matthew 10:34 (NIV) (p.1/2)](# "ref")
+<div class="zh">
+你們不要想我來是叫地上太平；<br>
+我來並不是叫地上太平，乃是叫地上動刀兵。
+</div>
+
+[Matthew 馬太 10:34 (NIV) (p.1/2)](# "ref")
 
 [&copy; Søren Niedziella, CC-BY 2.0](https://www.flickr.com/photos/albioneurope/8498095661 "caption")
 
@@ -407,7 +420,12 @@ more than me is not worthy of me; <br/>
 anyone who loves their **son or daughter** <br/>
 more than me is not worthy of me.
 
-[Matthew 10:37 (NIV) (p.2/2)](# "ref")
+<div class="zh">
+愛父母過於愛我的，不配作我的門徒；<br>
+愛兒女過於愛我的，不配作我的門徒；
+</div>
+
+[Matthew 馬太 10:37 (NIV) (p.2/2)](# "ref")
 
 [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/ "caption")
 
@@ -422,13 +440,9 @@ more than me is not worthy of me.
 
 ---
 <!-- .slide: data-background="white" -->
-## Has the **sword** of Christ's kingship pierced **my own** soul?
-## Am I willing to let it **divide** my loved ones?
+## Has the **sword** of Christ's kingship pierced **my own** soul? <br> Am I willing to let it **divide** my loved ones?
 
-<h2 class="zh">
-讓基督君王的刀劍刺透我的靈魂<br>
-我願意讓它分裂我愛的人嗎？
-</h2>
+## <span class="zh"> 讓基督君王的刀劍刺透我的靈魂<br> 我願意讓它分裂我愛的人嗎？ </span>
 
 >>>
 + God's **holiness**,
@@ -440,10 +454,14 @@ more than me is not worthy of me.
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 ## The Fragrant Gospel [(Ac28)](# "ref")
-1. Paul's heart: Persuasion [(v23)](# "ref")
-2. Hearers' response: Partition [(v24-25)](# "ref")
-3. **Spirit's prophecy: Promise** [(v26-27)](# "ref")
-4. Paul's lifestyle: Proclamation [(v28-31)](# "ref")
+1. Paul's heart: Persuasion [(v23)](# "ref")<br>
+  <span class="zh">保羅的心：勸導</span>
+2. Hearers' response: Partition [(v24-25)](# "ref")<br>
+  <span class="zh">聽眾的回應：劃分</span>
+3. **Spirit's prophecy: Promise** [(v26-27)](# "ref")<br>
+  <span class="zh">**聖靈的預言： 應許**</span>
+4. Paul's lifestyle: Proclamation [(v28-31)](# "ref")<br>
+  <span class="zh">保羅的生活：傳揚</span>
 
 >>>
 + So some **reject** gospel
@@ -593,9 +611,9 @@ there is a **remnant** chosen by grace.
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I **react** <br/> to those who <br/> take **offense** <br/> at the gospel?
+# How do I **react** to those who take **offense** at the gospel?
 
-[我如何回應那些對福音冒犯又生氣的人？](# "zh")
+# <span class="zh">我如何回應那些對福音冒犯又生氣的人？</span>
 
 >>>
 + Combat?  Frustr?  Resign?
@@ -607,10 +625,14 @@ there is a **remnant** chosen by grace.
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 ## The Fragrant Gospel [(Ac28)](# "ref")
-1. Paul's heart: Persuasion [(v23)](# "ref")
-2. Hearers' response: Partition [(v24-25)](# "ref")
-3. Spirit's prophecy: Promise [(v26-27)](# "ref")
-4. **Paul's lifestyle: Proclamation** [(v28-31)](# "ref")
+1. Paul's heart: Persuasion [(v23)](# "ref")<br>
+  <span class="zh">保羅的心：勸導</span>
+2. Hearers' response: Partition [(v24-25)](# "ref")<br>
+  <span class="zh">聽眾的回應：劃分</span>
+3. Spirit's prophecy: Promise [(v26-27)](# "ref")<br>
+  <span class="zh">聖靈的預言： 應許</span>
+4. **Paul's lifestyle: Proclamation** [(v28-31)](# "ref")<br>
+  <span class="zh">**保羅的生活：傳揚**</span>
 
 >>>
 How did Paul **continue** after
