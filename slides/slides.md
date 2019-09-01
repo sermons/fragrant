@@ -291,11 +291,10 @@ this I **proclaim** to you."
 我現在告訴你們。
 </div>
 
-[Acts 使徒行傳 17:22-23 (NASB/CUV)](# "ref")
-
 </div><div>
 
 [![89% adults believe in God](https://sermons.seanho.com/img/fig/Pew-RLS14-BeliefInGod.png)](http://www.pewresearch.org/fact-tank/2015/11/04/americans-faith-in-god-may-be-eroding/)
+[Acts 使徒行傳 17:22-23 (NASB/CUV)](# "ref")
 
 </div></div>
 
@@ -345,7 +344,7 @@ They **disagreed** among themselves <br/>
 and began to **leave** ...
 
 <div class="zh">
-他所說的話， 有信的， 有不信的。<br>
+他所說的話， 有信的， 有不信的。
 
 [25](# "ref")
 他們彼此不合， 就散了
@@ -484,7 +483,8 @@ and their ears **heavy**, and **blind** their eyes
 
 <div class="zh">
 你去告訴這百姓說：<br>
-你們聽是要聽見，卻不明白；看是要看見，卻不曉得。<br>
+你們聽是要聽見，卻不明白；看是要看見，卻不曉得。
+
 [10](# "ref")
 要使這百姓心蒙脂油，耳朵發沉，眼睛昏迷
 </div>
@@ -511,7 +511,6 @@ what **coveting** really was <br/>
 if the law had not said, “**You shall not covet**.”
 
 <div class="zh">
-[7](# "ref")
 只是非因律法，我就不知何為罪。<br>
 非律法說不可起貪心，我就不知何為貪心。
 </div>
@@ -526,7 +525,6 @@ afforded by the commandment, <br/>
 produced in me every kind of coveting.
 
 <div class="zh">
-[8](# "ref")
 然而罪趁著機會，<br>
 就藉著誡命叫諸般的貪心在我裡頭發動
 </div>
@@ -549,7 +547,6 @@ so that through the commandment
 **sin** might become **utterly sinful**.
 
 <div class="zh">
-[13](# "ref")
 但罪藉著那良善的叫我死，<br>
 就顯出真是罪，<br>
 叫罪因著誡命更顯出是惡極了。
@@ -586,11 +583,10 @@ Needs a **change of heart**, work of H.S.
 ---
 <!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") %> -->
 
-... lest they **understand** with their hearts, <br/>
+lest they **understand** with their hearts, <br/>
 and **turn** and be **healed**.
 
 <div class="zh">
-...
 恐怕眼睛看見，耳朵聽見，<br>
 心裡明白，回轉過來，便得醫治。
 </div>
@@ -648,7 +644,8 @@ So too, at the present time <br/>
 there is a **remnant** chosen by grace.
 
 <div class="zh">
-如今也是這樣，照著揀選的恩典，還有所留的餘數。
+如今也是這樣，照著揀選的恩典，<br>
+還有所留的餘數。
 </div>
 
 [Romans 羅馬 11:5 (NIV/CUV)](# "ref")
@@ -699,8 +696,10 @@ in his own rented house <br/>
 and **welcomed** all who came to see him.
 
 <div class="zh">
+
 [28](# "ref")
-神這救恩，如今傳給外邦人，他們也必聽受。<br>
+神這救恩，如今傳給外邦人，他們也必聽受。
+
 [30](# "ref")
 保羅在自己所租的房子裡住了足足兩年。<br>
 凡來見他的人，他全都接待
@@ -722,7 +721,6 @@ and **taught** about the *Lord Jesus Christ* -- <br/>
 with all **boldness** and without **hindrance**.
 
 <div class="zh">
-[31](# "ref")
 放膽傳講神國的道，<br>
 將主耶穌基督的事教導人，並沒有人禁止
 </div>
@@ -745,7 +743,6 @@ and through us spreads the **fragrance** <br/>
 of the **knowledge of Him** everywhere.
 
 <div class="zh">
-[14](# "ref")
 感謝神！常帥領我們在基督裡誇勝，<br>
 並藉著我們在各處顯揚<br>
 那因認識基督而有的香氣。
@@ -764,10 +761,10 @@ to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
 
 <div class="zh">
-[15](# "ref")
 因為我們在神面前，<br>
 無論在得救的人身上或滅亡的人身上，<br>
-都有基督馨香之氣。<br>
+都有基督馨香之氣。
+
 [16](# "ref")
 在這等人，就作了死的香氣叫他死；<br>
 在那等人，就作了活的香氣叫他活
@@ -785,9 +782,8 @@ to the other a fragrance **from life to life**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I exude the **fragrance of Christ** <br/> in my daily life?
-
-[我在日常生活中是否散發出基督的香氣？](# "zh")
+## Do I exude the **fragrance of Christ** in my daily life?
+## <span class="zh">我在日常生活中是否散發出基督的香氣？</span>
 
 >>>
 + not about being a **nice guy**, moral, charitable!
@@ -804,13 +800,22 @@ to the other a fragrance **from life to life**.
 [15](# "ref")
 For we are the **aroma of Christ** to God <br/>
 among those who are being **saved** <br/>
-and among those who are **perishing**,
-
+and among those who are **perishing**,<br>
 [16](# "ref")
 to one a fragrance **from death to death**, <br/>
 to the other a fragrance **from life to life**.
 
-[2 Corinthians 2:15-16 (ESV)](# "ref")
+<div class="zh">
+因為我們在神面前，<br>
+無論在得救的人身上或滅亡的人身上，<br>
+都有基督馨香之氣。
+
+[16](# "ref")
+在這等人，就作了死的香氣叫他死；<br>
+在那等人，就作了活的香氣叫他活
+</div>
+
+[2 Corinthians 歌林多後 2:14-16 (ESV/CUV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> class="empty" -->
