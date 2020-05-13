@@ -1,7 +1,7 @@
 # The Fragrant Gospel
 ## Acts 28:23-31
 
-[![Travis-CI build status](https://travis-ci.org/sermons/fragrant.svg)](https://travis-ci.org/sermons/fragrant)
+[![Travis-CI build status](https://api.travis-ci.org/sermons/fragrant.svg)](https://travis-ci.org/github/sermons/fragrant)
 [![Node dependencies](https://david-dm.org/sermons/fragrant.svg)](https://david-dm.org/sermons/fragrant)
 [![Node dev status](https://david-dm.org/sermons/fragrant/dev-status.svg)](https://david-dm.org/sermons/fragrant?type=dev)
 
