@@ -7,7 +7,7 @@
     "acts",
     "missions"
   ],
-  "version": "2.2.0",
+  "version": "2.2.2",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "",
@@ -134,9 +134,9 @@
     "marked": "^1.1.0"
   },
   "devDependencies": {
-    "grunt": "^1.1.0",
+    "grunt": "^1.2.1",
     "load-grunt-tasks": "^5.1.0",
-    "grunt-contrib-connect": "^2.1.0",
+    "grunt-contrib-connect": "^3.0.0",
     "grunt-contrib-copy": "^1.0.0",
     "node-sass": "^4.14.1",
     "grunt-sass": "^3.1.0",
