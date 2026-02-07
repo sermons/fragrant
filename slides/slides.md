@@ -11,7 +11,8 @@
 
 ---
 <!-- .slide: data-background="white" -->
-## How do I **react** to those who <br> take **offense** at the gospel?
+# How do I **react** to those who <br> take **offense** at the gospel?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + How do I **respond**?
@@ -20,7 +21,7 @@
   + What did he **do**?
 
 ---
-<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> class="outline" id="outline" -->
 ## The Fragrant Gospel [(Ac28)](# "ref")
 1. Paul's heart: **Persuasion** [(v23)](# "ref")
 2. Hearers' response: **Partition** [(v24-25)](# "ref")
@@ -41,10 +42,10 @@
 + **Persecution**: <br/> [Acts 13-14, 17-18, 21](# "ref")
 + **Heart** for Jews: <br/> [Romans 9-11](# "ref")
 
-</div><div style="flex:5">
+</div><div style="flex:4">
 
 ![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul-WGA19120.jpg)
-<!-- .element: style="width:80%" -->
+<!-- .element: style="width:70%" -->
 
 </div></div>
 
@@ -87,7 +88,9 @@ He **witnessed** to them <br/>
 from morning till evening, 
 
 **explaining** about the kingdom of God,<br>
-and from the Law of Moses and from the Prophets <br/>
+and from the Law of Moses <br/>
+and from the Prophets 
+
 he tried to **persuade** them about Jesus.
 
 [Acts 28:23 (NIV/CUV)](# "ref")
@@ -112,10 +115,10 @@ he tried to **persuade** them about Jesus.
 ---
 <div class="imgbox"><div style="flex:2">
 
-My **message** and preaching were <br/>
-not in **persuasive** words of wisdom,<br>
-but in demonstration of the **Spirit** and <br>
-of **power**,
+My **message** and preaching <br/>
+were not in **persuasive** words <br/>
+of wisdom, but in demonstration <br/>
+of the **Spirit** and of **power**,
 
 so that your **faith** would <br/>
 not rest on the **wisdom of men**, <br/>
@@ -124,7 +127,7 @@ but on the **power of God**.
 </div><div>
 
 ![Dujardin, St Paul Healing the Cripple at Lystra](https://sermons.seanho.com/img/fig/Dujardin-St_Paul_Healing_the_Cripple_at_Lystra.jpg)
-[1 Cor 2:4-5 (NASB/CUV)](# "ref")
+[1 Cor 2:4-5 (NASB)](# "ref")
 
 </div></div>
 
@@ -157,9 +160,11 @@ but on the **power of God**.
 <div class="imgbox"><div style="flex:3">
 
 “Men of **Athens**, I observe that <br/>
-you are **very religious** ...<br>
-... I found an altar, <br/>
-‘TO AN **UNKNOWN GOD**.’<br>
+you are **very religious** ...
+
+I found an altar, <br/>
+‘TO AN **UNKNOWN GOD**.’
+
 Therefore what you **worship** in ignorance, <br/>
 this I **proclaim** to you."
 
@@ -180,7 +185,8 @@ this I **proclaim** to you."
 
 ---
 <!-- .slide: data-background="white" -->
-## Do I love my **pious countrymen**? <br> Love them enough <br/> to **lay out** the gospel <br/> clearly to them?
+# Do I love my **pious countrymen**? <br> Love them enough to <br/> **lay out** the gospel <br/> clearly to them?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + **countrymen**: CN, TW, HK, US
@@ -190,7 +196,7 @@ this I **proclaim** to you."
   + in Holy Spirit + power
 
 ---
-<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> class="outline" -->
 ## The Fragrant Gospel [(Ac28)](# "ref")
 1. Paul's heart: Persuasion [(v23)](# "ref")
 2. **Hearers' response: Partition** [(v24-25)](# "ref")
@@ -232,8 +238,10 @@ Behold, this child is appointed for <br/>
 the **fall** and **rising** of many in Israel, <br/>
 and for a **sign** that is **opposed** --<br/>
 
-and a **sword** will pierce through your own **soul** also --<br/>
-so that **thoughts** from many hearts may be **revealed**.
+and a **sword** will pierce through <br/>
+your own **soul** also --<br/>
+so that **thoughts** from many hearts <br/>
+may be **revealed**.
 
 [Luke 2:34-35 (ESV)](# "ref")
 
@@ -289,7 +297,8 @@ more than me is not worthy of me.
 
 ---
 <!-- .slide: data-background="white" -->
-## Has the **sword** of Christ's kingship pierced **my own** soul? <br> Am I willing to let it **divide** my loved ones?
+# Has the **sword** of Christ's kingship <br/> pierced **my own** soul? <br> Am I willing to let it <br/> **divide** my loved ones?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + To be a **disciple** of Christ
@@ -300,7 +309,7 @@ more than me is not worthy of me.
   + a **remnant** will repent
 
 ---
-<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> class="outline" -->
 ## The Fragrant Gospel [(Ac28)](# "ref")
 1. Paul's heart: Persuasion [(v23)](# "ref")
 2. Hearers' response: Partition [(v24-25)](# "ref")
@@ -341,7 +350,8 @@ and their ears **heavy**, and **blind** their eyes
 ---
 <!-- .slide: <%= bg("unsplash-d3Sg34sNBRM-ice_cream.jpg") %> -->
 I would not have **known** what sin was <br/>
-had it not been for the **law**.<br>
+had it not been for the **law**.
+
 For I would not have known <br/>
 what **coveting** really was <br/>
 if the law had not said, “**You shall not covet**.”
@@ -427,15 +437,11 @@ Then I said, “For **how long**, Lord?”<br>
 And he answered: “Until the cities lie **ruined** <br/>
 and without inhabitant
 
-[Isaiah 6:11,13 (NIV) (p.1/2)](# "ref")
-
----
-<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
 But as the terebinth and **oak** <br/>
 leave **stumps** when they are cut down, <br/>
 so the **holy seed** will be the stump in the land.”
 
-[Isaiah 6:11,13 (NIVCUV) (p.1/2)](# "ref")
+[Isaiah 6:11,13 (NIV)](# "ref")
 
 >>>
 + oak/stump represent **strength**
@@ -461,7 +467,8 @@ there is a **remnant** chosen by grace.
 
 ---
 <!-- .slide: data-background="white" -->
-## How do I **react** to those who <br> take **offense** at the gospel?
+# How do I **react** to those who <br> take **offense** at the gospel?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Combat?  **Frustration**?  Resignation?
@@ -471,7 +478,7 @@ there is a **remnant** chosen by grace.
   + and continue to **proclaim**:
 
 ---
-<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> class="outline" -->
 ## The Fragrant Gospel [(Ac28)](# "ref")
 1. Paul's heart: Persuasion [(v23)](# "ref")
 2. Hearers' response: Partition [(v24-25)](# "ref")
@@ -520,7 +527,8 @@ with all **boldness** and without **hindrance**.
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 Thanks be to God, who in Christ <br/>
-always leads us in **triumphal procession**, <br/>
+always leads us in **triumphal procession**, 
+
 and through us spreads the **fragrance** <br/>
 of the **knowledge of Him** everywhere.
 
@@ -555,7 +563,8 @@ to the other a fragrance **from life to life**.
 
 ---
 <!-- .slide: data-background="white" -->
-## Do I exude the **fragrance of Christ** in my daily life?
+# Do I exude the **fragrance of Christ** <br/> in my daily life?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + not about being a **nice guy** / moral / charitable!
