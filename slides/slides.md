@@ -116,8 +116,10 @@ he tried to **persuade** them about Jesus.
 <div class="imgbox"><div style="flex:2">
 
 My **message** and preaching <br/>
-were not in **persuasive** words <br/>
-of wisdom, but in demonstration <br/>
+were not in <br/>
+**persuasive** words of wisdom, 
+
+but in demonstration <br/>
 of the **Spirit** and of **power**,
 
 so that your **faith** would <br/>
@@ -393,8 +395,7 @@ so that through the commandment
 + God is not **powerful** enough?
 
 ---
-## A Partial Hardening
-### [Romans 9-11](# "ref")
+## Partial Hardening [(Rom 9-11)](# "ref")
 + Did God's Word **fail**? &rarr; <%= bible('ro9.6', '9:6') %>
 + Is God **unfair**? &rarr; <%= bible('ro9.14', '9:14') %>
 + Isn't it all God's **fault** anyway? &rarr; <%= bible('ro9.19', '9:19') %>
@@ -563,7 +564,7 @@ to the other a fragrance **from life to life**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I exude the **fragrance of Christ** <br/> in my daily life?
+# Do I exude the <br/> **fragrance** of **Christ** <br/> in my daily life?
 <!-- .element: class="r-fit-text" -->
 
 >>>
